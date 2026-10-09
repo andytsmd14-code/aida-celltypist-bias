@@ -41,7 +41,7 @@ A modest but consistent improvement (+1.1 pp from 0% to 100%) across the majorit
 | B cell | −0.050 |
 | pre-conventional dendritic cell | −0.035 |
 
-Rare cell types with population-specific transcriptomic signatures benefit most from matched reference representation.
+Rare cell types show the largest F1 changes in either direction, reflecting high variance from small sample sizes rather than a consistent benefit from matched reference representation.
 
 ### The B cell paradox
 
@@ -55,7 +55,7 @@ Inspecting Level-4 annotations reveals the mechanism: all 75 query B cells and a
 
 NK cells follow the opposite pattern (+0.074) for the same mechanistic reason. SG_Chinese NK cells in both reference and query are exclusively `flagged_NK_low_exp` and `flagged_platelet_sum` — the Level-4 composition is ethnicity-consistent. Other ethnicities' NK cells are dominated by `NK_unknown` (44%), a distinct gene expression profile. With more SG_Chinese donors in the reference, the NK class gene expression distribution better matches the query NK cells, and the logistic regression learns a boundary that captures them more accurately.
 
-In contrast, **double negative T regulatory cells** (4 cells, all cleanly annotated as `dnT`) and **innate lymphoid cells** (16 cells, annotated as `ILC_XCL1hi` or `ILC_SCART1hi`) have high-quality Level-4 labels. Their large F1 gains (+0.140 and +0.132 respectively) reflect a genuine benefit from matched reference representation in rare, well-annotated populations — unconfounded by annotation artifacts.
+**Double negative T regulatory cells** (4 cells) and **innate lymphoid cells** (16 cells) show large F1 changes (+0.140 and +0.132 respectively), but these should be interpreted with caution: with so few query cells, F1 is highly sensitive to which specific cells happen to be correctly or incorrectly classified in each run. The large Δ F1 reflects high variance from small sample sizes rather than a robust signal of population-level benefit.
 
 ---
 
