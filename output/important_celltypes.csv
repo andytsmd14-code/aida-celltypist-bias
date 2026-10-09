@@ -1,0 +1,2347 @@
+proportion,cell_type,f1,support
+0.0,B cell,0.5390070921985816,75.0
+0.0,"CD4-positive, alpha-beta T cell",0.2732811140121845,791.0
+0.0,double negative T regulatory cell,0.8571428571428571,4.0
+0.0,innate lymphoid cell,0.38095238095238093,16.0
+0.0,natural killer cell,0.5195876288659794,288.0
+0.0,pre-conventional dendritic cell,0.7727272727272727,24.0
+0.1,B cell,0.532258064516129,75.0
+0.1,"CD4-positive, alpha-beta T cell",0.305111821086262,791.0
+0.1,double negative T regulatory cell,0.8571428571428571,4.0
+0.1,innate lymphoid cell,0.5454545454545454,16.0
+0.1,natural killer cell,0.6423357664233577,288.0
+0.1,pre-conventional dendritic cell,0.6829268292682927,24.0
+0.2,B cell,0.5666666666666667,75.0
+0.2,"CD4-positive, alpha-beta T cell",0.3354632587859425,791.0
+0.2,double negative T regulatory cell,0.8571428571428571,4.0
+0.2,innate lymphoid cell,0.6666666666666666,16.0
+0.2,natural killer cell,0.6971830985915493,288.0
+0.2,pre-conventional dendritic cell,0.8095238095238095,24.0
+0.3,B cell,0.4888888888888889,75.0
+0.3,"CD4-positive, alpha-beta T cell",0.257615317667537,791.0
+0.3,double negative T regulatory cell,0.8571428571428571,4.0
+0.3,innate lymphoid cell,0.6086956521739131,16.0
+0.3,natural killer cell,0.624031007751938,288.0
+0.3,pre-conventional dendritic cell,0.6829268292682927,24.0
+0.4,B cell,0.4262295081967213,75.0
+0.4,"CD4-positive, alpha-beta T cell",0.35668789808917195,791.0
+0.4,double negative T regulatory cell,1.0,4.0
+0.4,innate lymphoid cell,0.6086956521739131,16.0
+0.4,natural killer cell,0.6869409660107334,288.0
+0.4,pre-conventional dendritic cell,0.55,24.0
+0.5,B cell,0.49586776859504134,75.0
+0.5,"CD4-positive, alpha-beta T cell",0.265531914893617,791.0
+0.5,double negative T regulatory cell,0.8571428571428571,4.0
+0.5,innate lymphoid cell,0.5217391304347826,16.0
+0.5,natural killer cell,0.6830188679245283,288.0
+0.5,pre-conventional dendritic cell,0.7391304347826086,24.0
+0.6,B cell,0.43902439024390244,75.0
+0.6,"CD4-positive, alpha-beta T cell",0.33876221498371334,791.0
+0.6,double negative T regulatory cell,0.8571428571428571,4.0
+0.6,innate lymphoid cell,0.6923076923076923,16.0
+0.6,natural killer cell,0.6353790613718412,288.0
+0.6,pre-conventional dendritic cell,0.723404255319149,24.0
+0.7,B cell,0.41379310344827586,75.0
+0.7,"CD4-positive, alpha-beta T cell",0.3251231527093596,791.0
+0.7,double negative T regulatory cell,0.6666666666666666,4.0
+0.7,innate lymphoid cell,0.6428571428571429,16.0
+0.7,natural killer cell,0.655367231638418,288.0
+0.7,pre-conventional dendritic cell,0.6666666666666666,24.0
+0.8,B cell,0.46153846153846156,75.0
+0.8,"CD4-positive, alpha-beta T cell",0.2937853107344633,791.0
+0.8,double negative T regulatory cell,0.6666666666666666,4.0
+0.8,innate lymphoid cell,0.5833333333333334,16.0
+0.8,natural killer cell,0.6191369606003753,288.0
+0.8,pre-conventional dendritic cell,0.7727272727272727,24.0
+0.9,B cell,0.5151515151515151,75.0
+0.9,"CD4-positive, alpha-beta T cell",0.3273615635179153,791.0
+0.9,double negative T regulatory cell,0.75,4.0
+0.9,innate lymphoid cell,0.6153846153846154,16.0
+0.9,natural killer cell,0.6730038022813688,288.0
+0.9,pre-conventional dendritic cell,0.6222222222222222,24.0
+1.0,B cell,0.42276422764227645,75.0
+1.0,"CD4-positive, alpha-beta T cell",0.3367588932806324,791.0
+1.0,double negative T regulatory cell,1.0,4.0
+1.0,innate lymphoid cell,0.64,16.0
+1.0,natural killer cell,0.6755218216318786,288.0
+1.0,pre-conventional dendritic cell,0.6829268292682927,24.0
+0.0,B cell,0.5081967213114754,75.0
+0.0,"CD4-positive, alpha-beta T cell",0.2995744680851064,791.0
+0.0,double negative T regulatory cell,0.8571428571428571,4.0
+0.0,innate lymphoid cell,0.6086956521739131,16.0
+0.0,natural killer cell,0.5416666666666666,288.0
+0.0,pre-conventional dendritic cell,0.7755102040816326,24.0
+0.1,B cell,0.4918032786885246,75.0
+0.1,"CD4-positive, alpha-beta T cell",0.34991708126036486,791.0
+0.1,double negative T regulatory cell,0.8571428571428571,4.0
+0.1,innate lymphoid cell,0.72,16.0
+0.1,natural killer cell,0.6833013435700576,288.0
+0.1,pre-conventional dendritic cell,0.6842105263157895,24.0
+0.2,B cell,0.5528455284552846,75.0
+0.2,"CD4-positive, alpha-beta T cell",0.35714285714285715,791.0
+0.2,double negative T regulatory cell,0.8571428571428571,4.0
+0.2,innate lymphoid cell,0.5454545454545454,16.0
+0.2,natural killer cell,0.6469428007889546,288.0
+0.2,pre-conventional dendritic cell,0.7142857142857143,24.0
+0.3,B cell,0.5040650406504065,75.0
+0.3,"CD4-positive, alpha-beta T cell",0.3511326860841424,791.0
+0.3,double negative T regulatory cell,0.8571428571428571,4.0
+0.3,innate lymphoid cell,0.64,16.0
+0.3,natural killer cell,0.6500956022944551,288.0
+0.3,pre-conventional dendritic cell,0.6222222222222222,24.0
+0.4,B cell,0.453125,75.0
+0.4,"CD4-positive, alpha-beta T cell",0.3194675540765391,791.0
+0.4,double negative T regulatory cell,0.8571428571428571,4.0
+0.4,innate lymphoid cell,0.64,16.0
+0.4,natural killer cell,0.6642066420664207,288.0
+0.4,pre-conventional dendritic cell,0.6111111111111112,24.0
+0.5,B cell,0.5671641791044776,75.0
+0.5,"CD4-positive, alpha-beta T cell",0.295221843003413,791.0
+0.5,double negative T regulatory cell,0.8571428571428571,4.0
+0.5,innate lymphoid cell,0.64,16.0
+0.5,natural killer cell,0.66,288.0
+0.5,pre-conventional dendritic cell,0.7555555555555555,24.0
+0.6,B cell,0.4838709677419355,75.0
+0.6,"CD4-positive, alpha-beta T cell",0.359375,791.0
+0.6,double negative T regulatory cell,0.8571428571428571,4.0
+0.6,innate lymphoid cell,0.5454545454545454,16.0
+0.6,natural killer cell,0.6846846846846847,288.0
+0.6,pre-conventional dendritic cell,0.6956521739130435,24.0
+0.7,B cell,0.515625,75.0
+0.7,"CD4-positive, alpha-beta T cell",0.3610223642172524,791.0
+0.7,double negative T regulatory cell,0.8571428571428571,4.0
+0.7,innate lymphoid cell,0.6153846153846154,16.0
+0.7,natural killer cell,0.6964618249534451,288.0
+0.7,pre-conventional dendritic cell,0.723404255319149,24.0
+0.8,B cell,0.5147058823529411,75.0
+0.8,"CD4-positive, alpha-beta T cell",0.3264291632145816,791.0
+0.8,double negative T regulatory cell,0.8571428571428571,4.0
+0.8,innate lymphoid cell,0.56,16.0
+0.8,natural killer cell,0.6892655367231638,288.0
+0.8,pre-conventional dendritic cell,0.723404255319149,24.0
+0.9,B cell,0.4461538461538462,75.0
+0.9,"CD4-positive, alpha-beta T cell",0.34548335974643424,791.0
+0.9,double negative T regulatory cell,0.8571428571428571,4.0
+0.9,innate lymphoid cell,0.72,16.0
+0.9,natural killer cell,0.669260700389105,288.0
+0.9,pre-conventional dendritic cell,0.6666666666666666,24.0
+1.0,B cell,0.4411764705882353,75.0
+1.0,"CD4-positive, alpha-beta T cell",0.3395012067578439,791.0
+1.0,double negative T regulatory cell,0.8571428571428571,4.0
+1.0,innate lymphoid cell,0.64,16.0
+1.0,natural killer cell,0.6754716981132075,288.0
+1.0,pre-conventional dendritic cell,0.7142857142857143,24.0
+0.0,B cell,0.4722222222222222,75.0
+0.0,"CD4-positive, alpha-beta T cell",0.33694745621351124,791.0
+0.0,double negative T regulatory cell,0.5714285714285714,4.0
+0.0,innate lymphoid cell,0.5833333333333334,16.0
+0.0,natural killer cell,0.6536964980544747,288.0
+0.0,pre-conventional dendritic cell,0.7804878048780488,24.0
+0.1,B cell,0.4827586206896552,75.0
+0.1,"CD4-positive, alpha-beta T cell",0.2649122807017544,791.0
+0.1,double negative T regulatory cell,0.5714285714285714,4.0
+0.1,innate lymphoid cell,0.5454545454545454,16.0
+0.1,natural killer cell,0.6059322033898306,288.0
+0.1,pre-conventional dendritic cell,0.7,24.0
+0.2,B cell,0.41818181818181815,75.0
+0.2,"CD4-positive, alpha-beta T cell",0.27749576988155666,791.0
+0.2,double negative T regulatory cell,0.8571428571428571,4.0
+0.2,innate lymphoid cell,0.72,16.0
+0.2,natural killer cell,0.5625,288.0
+0.2,pre-conventional dendritic cell,0.5142857142857142,24.0
+0.3,B cell,0.5555555555555556,75.0
+0.3,"CD4-positive, alpha-beta T cell",0.3314285714285714,791.0
+0.3,double negative T regulatory cell,0.8571428571428571,4.0
+0.3,innate lymphoid cell,0.47619047619047616,16.0
+0.3,natural killer cell,0.6990654205607477,288.0
+0.3,pre-conventional dendritic cell,0.6486486486486487,24.0
+0.4,B cell,0.5230769230769231,75.0
+0.4,"CD4-positive, alpha-beta T cell",0.3040650406504065,791.0
+0.4,double negative T regulatory cell,0.8571428571428571,4.0
+0.4,innate lymphoid cell,0.64,16.0
+0.4,natural killer cell,0.6256983240223464,288.0
+0.4,pre-conventional dendritic cell,0.6046511627906976,24.0
+0.5,B cell,0.4878048780487805,75.0
+0.5,"CD4-positive, alpha-beta T cell",0.3376413570274637,791.0
+0.5,double negative T regulatory cell,0.75,4.0
+0.5,innate lymphoid cell,0.4827586206896552,16.0
+0.5,natural killer cell,0.6846846846846847,288.0
+0.5,pre-conventional dendritic cell,0.7142857142857143,24.0
+0.6,B cell,0.4496124031007752,75.0
+0.6,"CD4-positive, alpha-beta T cell",0.3011844331641286,791.0
+0.6,double negative T regulatory cell,0.8571428571428571,4.0
+0.6,innate lymphoid cell,0.5833333333333334,16.0
+0.6,natural killer cell,0.6192170818505338,288.0
+0.6,pre-conventional dendritic cell,0.5555555555555556,24.0
+0.7,B cell,0.5185185185185185,75.0
+0.7,"CD4-positive, alpha-beta T cell",0.34775641025641024,791.0
+0.7,double negative T regulatory cell,0.8571428571428571,4.0
+0.7,innate lymphoid cell,0.6666666666666666,16.0
+0.7,natural killer cell,0.6654135338345865,288.0
+0.7,pre-conventional dendritic cell,0.6086956521739131,24.0
+0.8,B cell,0.4626865671641791,75.0
+0.8,"CD4-positive, alpha-beta T cell",0.3371150729335494,791.0
+0.8,double negative T regulatory cell,0.8571428571428571,4.0
+0.8,innate lymphoid cell,0.48,16.0
+0.8,natural killer cell,0.6739526411657559,288.0
+0.8,pre-conventional dendritic cell,0.6153846153846154,24.0
+0.9,B cell,0.47619047619047616,75.0
+0.9,"CD4-positive, alpha-beta T cell",0.30618892508143325,791.0
+0.9,double negative T regulatory cell,0.8571428571428571,4.0
+0.9,innate lymphoid cell,0.6923076923076923,16.0
+0.9,natural killer cell,0.6603415559772297,288.0
+0.9,pre-conventional dendritic cell,0.6818181818181818,24.0
+1.0,B cell,0.47692307692307695,75.0
+1.0,"CD4-positive, alpha-beta T cell",0.3396825396825397,791.0
+1.0,double negative T regulatory cell,0.6666666666666666,4.0
+1.0,innate lymphoid cell,0.7692307692307693,16.0
+1.0,natural killer cell,0.6730769230769231,288.0
+1.0,pre-conventional dendritic cell,0.6,24.0
+0.0,B cell,0.4838709677419355,75.0
+0.0,"CD4-positive, alpha-beta T cell",0.2763507528786537,791.0
+0.0,double negative T regulatory cell,0.6666666666666666,4.0
+0.0,innate lymphoid cell,0.5454545454545454,16.0
+0.0,natural killer cell,0.5362903225806451,288.0
+0.0,pre-conventional dendritic cell,0.7027027027027027,24.0
+0.1,B cell,0.4426229508196721,75.0
+0.1,"CD4-positive, alpha-beta T cell",0.3241491085899514,791.0
+0.1,double negative T regulatory cell,0.8571428571428571,4.0
+0.1,innate lymphoid cell,0.7142857142857143,16.0
+0.1,natural killer cell,0.685823754789272,288.0
+0.1,pre-conventional dendritic cell,0.5,24.0
+0.2,B cell,0.509090909090909,75.0
+0.2,"CD4-positive, alpha-beta T cell",0.29526916802610115,791.0
+0.2,double negative T regulatory cell,0.8571428571428571,4.0
+0.2,innate lymphoid cell,0.6923076923076923,16.0
+0.2,natural killer cell,0.6753731343283582,288.0
+0.2,pre-conventional dendritic cell,0.7317073170731707,24.0
+0.3,B cell,0.44274809160305345,75.0
+0.3,"CD4-positive, alpha-beta T cell",0.3368940016433854,791.0
+0.3,double negative T regulatory cell,1.0,4.0
+0.3,innate lymphoid cell,0.6086956521739131,16.0
+0.3,natural killer cell,0.6854990583804144,288.0
+0.3,pre-conventional dendritic cell,0.7727272727272727,24.0
+0.4,B cell,0.5384615384615384,75.0
+0.4,"CD4-positive, alpha-beta T cell",0.3418241577649959,791.0
+0.4,double negative T regulatory cell,0.6666666666666666,4.0
+0.4,innate lymphoid cell,0.45454545454545453,16.0
+0.4,natural killer cell,0.6766355140186916,288.0
+0.4,pre-conventional dendritic cell,0.7317073170731707,24.0
+0.5,B cell,0.5116279069767442,75.0
+0.5,"CD4-positive, alpha-beta T cell",0.3467741935483871,791.0
+0.5,double negative T regulatory cell,0.8571428571428571,4.0
+0.5,innate lymphoid cell,0.5833333333333334,16.0
+0.5,natural killer cell,0.717948717948718,288.0
+0.5,pre-conventional dendritic cell,0.6521739130434783,24.0
+0.6,B cell,0.421875,75.0
+0.6,"CD4-positive, alpha-beta T cell",0.3147208121827411,791.0
+0.6,double negative T regulatory cell,0.8571428571428571,4.0
+0.6,innate lymphoid cell,0.5833333333333334,16.0
+0.6,natural killer cell,0.5807692307692308,288.0
+0.6,pre-conventional dendritic cell,0.7346938775510204,24.0
+0.7,B cell,0.4603174603174603,75.0
+0.7,"CD4-positive, alpha-beta T cell",0.2826086956521739,791.0
+0.7,double negative T regulatory cell,0.75,4.0
+0.7,innate lymphoid cell,0.45454545454545453,16.0
+0.7,natural killer cell,0.6170212765957447,288.0
+0.7,pre-conventional dendritic cell,0.5909090909090909,24.0
+0.8,B cell,0.4732824427480916,75.0
+0.8,"CD4-positive, alpha-beta T cell",0.33495934959349594,791.0
+0.8,double negative T regulatory cell,0.8571428571428571,4.0
+0.8,innate lymphoid cell,0.5925925925925926,16.0
+0.8,natural killer cell,0.6468401486988847,288.0
+0.8,pre-conventional dendritic cell,0.6511627906976745,24.0
+0.9,B cell,0.46153846153846156,75.0
+0.9,"CD4-positive, alpha-beta T cell",0.33197721724979656,791.0
+0.9,double negative T regulatory cell,0.8571428571428571,4.0
+0.9,innate lymphoid cell,0.6923076923076923,16.0
+0.9,natural killer cell,0.6640625,288.0
+0.9,pre-conventional dendritic cell,0.7441860465116279,24.0
+1.0,B cell,0.4409448818897638,75.0
+1.0,"CD4-positive, alpha-beta T cell",0.3395012067578439,791.0
+1.0,double negative T regulatory cell,0.75,4.0
+1.0,innate lymphoid cell,0.7142857142857143,16.0
+1.0,natural killer cell,0.6753731343283582,288.0
+1.0,pre-conventional dendritic cell,0.6818181818181818,24.0
+0.0,B cell,0.4444444444444444,75.0
+0.0,"CD4-positive, alpha-beta T cell",0.2887612797374898,791.0
+0.0,double negative T regulatory cell,0.8571428571428571,4.0
+0.0,innate lymphoid cell,0.47619047619047616,16.0
+0.0,natural killer cell,0.6182572614107884,288.0
+0.0,pre-conventional dendritic cell,0.6842105263157895,24.0
+0.1,B cell,0.5161290322580645,75.0
+0.1,"CD4-positive, alpha-beta T cell",0.3152,791.0
+0.1,double negative T regulatory cell,0.8571428571428571,4.0
+0.1,innate lymphoid cell,0.36363636363636365,16.0
+0.1,natural killer cell,0.7135135135135136,288.0
+0.1,pre-conventional dendritic cell,0.6666666666666666,24.0
+0.2,B cell,0.48739495798319327,75.0
+0.2,"CD4-positive, alpha-beta T cell",0.2791922739244952,791.0
+0.2,double negative T regulatory cell,0.6666666666666666,4.0
+0.2,innate lymphoid cell,0.56,16.0
+0.2,natural killer cell,0.5833333333333334,288.0
+0.2,pre-conventional dendritic cell,0.6046511627906976,24.0
+0.3,B cell,0.5076923076923077,75.0
+0.3,"CD4-positive, alpha-beta T cell",0.2982758620689655,791.0
+0.3,double negative T regulatory cell,0.4,4.0
+0.3,innate lymphoid cell,0.6086956521739131,16.0
+0.3,natural killer cell,0.6260162601626016,288.0
+0.3,pre-conventional dendritic cell,0.631578947368421,24.0
+0.4,B cell,0.5483870967741935,75.0
+0.4,"CD4-positive, alpha-beta T cell",0.34290271132376393,791.0
+0.4,double negative T regulatory cell,0.8571428571428571,4.0
+0.4,innate lymphoid cell,0.5454545454545454,16.0
+0.4,natural killer cell,0.6877323420074349,288.0
+0.4,pre-conventional dendritic cell,0.5714285714285714,24.0
+0.5,B cell,0.4666666666666667,75.0
+0.5,"CD4-positive, alpha-beta T cell",0.35614179719703215,791.0
+0.5,double negative T regulatory cell,0.75,4.0
+0.5,innate lymphoid cell,0.6428571428571429,16.0
+0.5,natural killer cell,0.704331450094162,288.0
+0.5,pre-conventional dendritic cell,0.6829268292682927,24.0
+0.6,B cell,0.47863247863247865,75.0
+0.6,"CD4-positive, alpha-beta T cell",0.35074045206547155,791.0
+0.6,double negative T regulatory cell,0.8571428571428571,4.0
+0.6,innate lymphoid cell,0.6086956521739131,16.0
+0.6,natural killer cell,0.6642468239564429,288.0
+0.6,pre-conventional dendritic cell,0.55,24.0
+0.7,B cell,0.43548387096774194,75.0
+0.7,"CD4-positive, alpha-beta T cell",0.31587301587301586,791.0
+0.7,double negative T regulatory cell,0.6666666666666666,4.0
+0.7,innate lymphoid cell,0.72,16.0
+0.7,natural killer cell,0.6421663442940039,288.0
+0.7,pre-conventional dendritic cell,0.7142857142857143,24.0
+0.8,B cell,0.44274809160305345,75.0
+0.8,"CD4-positive, alpha-beta T cell",0.34551495016611294,791.0
+0.8,double negative T regulatory cell,0.8571428571428571,4.0
+0.8,innate lymphoid cell,0.5384615384615384,16.0
+0.8,natural killer cell,0.6449136276391555,288.0
+0.8,pre-conventional dendritic cell,0.6956521739130435,24.0
+0.9,B cell,0.43333333333333335,75.0
+0.9,"CD4-positive, alpha-beta T cell",0.33515198752922837,791.0
+0.9,double negative T regulatory cell,1.0,4.0
+0.9,innate lymphoid cell,0.6666666666666666,16.0
+0.9,natural killer cell,0.6252285191956124,288.0
+0.9,pre-conventional dendritic cell,0.7142857142857143,24.0
+1.0,B cell,0.4696969696969697,75.0
+1.0,"CD4-positive, alpha-beta T cell",0.34022257551669316,791.0
+1.0,double negative T regulatory cell,0.8571428571428571,4.0
+1.0,innate lymphoid cell,0.7142857142857143,16.0
+1.0,natural killer cell,0.651252408477842,288.0
+1.0,pre-conventional dendritic cell,0.6976744186046512,24.0
+0.0,B cell,0.5454545454545454,75.0
+0.0,"CD4-positive, alpha-beta T cell",0.2903225806451613,791.0
+0.0,double negative T regulatory cell,0.6666666666666666,4.0
+0.0,innate lymphoid cell,0.6086956521739131,16.0
+0.0,natural killer cell,0.6514285714285715,288.0
+0.0,pre-conventional dendritic cell,0.7906976744186046,24.0
+0.1,B cell,0.5161290322580645,75.0
+0.1,"CD4-positive, alpha-beta T cell",0.2878787878787879,791.0
+0.1,double negative T regulatory cell,0.6666666666666666,4.0
+0.1,innate lymphoid cell,0.5833333333333334,16.0
+0.1,natural killer cell,0.5720250521920668,288.0
+0.1,pre-conventional dendritic cell,0.6341463414634146,24.0
+0.2,B cell,0.5037037037037037,75.0
+0.2,"CD4-positive, alpha-beta T cell",0.3076923076923077,791.0
+0.2,double negative T regulatory cell,0.8888888888888888,4.0
+0.2,innate lymphoid cell,0.64,16.0
+0.2,natural killer cell,0.6029411764705882,288.0
+0.2,pre-conventional dendritic cell,0.6486486486486487,24.0
+0.3,B cell,0.5196850393700787,75.0
+0.3,"CD4-positive, alpha-beta T cell",0.35152487961476725,791.0
+0.3,double negative T regulatory cell,0.8571428571428571,4.0
+0.3,innate lymphoid cell,0.72,16.0
+0.3,natural killer cell,0.6370370370370371,288.0
+0.3,pre-conventional dendritic cell,0.5789473684210527,24.0
+0.4,B cell,0.5409836065573771,75.0
+0.4,"CD4-positive, alpha-beta T cell",0.3158756137479542,791.0
+0.4,double negative T regulatory cell,0.8571428571428571,4.0
+0.4,innate lymphoid cell,0.5833333333333334,16.0
+0.4,natural killer cell,0.6856060606060606,288.0
+0.4,pre-conventional dendritic cell,0.5128205128205128,24.0
+0.5,B cell,0.5384615384615384,75.0
+0.5,"CD4-positive, alpha-beta T cell",0.37094281298299847,791.0
+0.5,double negative T regulatory cell,1.0,4.0
+0.5,innate lymphoid cell,0.5925925925925926,16.0
+0.5,natural killer cell,0.7161410018552876,288.0
+0.5,pre-conventional dendritic cell,0.5454545454545454,24.0
+0.6,B cell,0.4838709677419355,75.0
+0.6,"CD4-positive, alpha-beta T cell",0.34432823813354785,791.0
+0.6,double negative T regulatory cell,0.8571428571428571,4.0
+0.6,innate lymphoid cell,0.64,16.0
+0.6,natural killer cell,0.7142857142857143,288.0
+0.6,pre-conventional dendritic cell,0.5945945945945946,24.0
+0.7,B cell,0.5203252032520326,75.0
+0.7,"CD4-positive, alpha-beta T cell",0.3118811881188119,791.0
+0.7,double negative T regulatory cell,0.6666666666666666,4.0
+0.7,innate lymphoid cell,0.72,16.0
+0.7,natural killer cell,0.6372360844529751,288.0
+0.7,pre-conventional dendritic cell,0.5365853658536586,24.0
+0.8,B cell,0.4881889763779528,75.0
+0.8,"CD4-positive, alpha-beta T cell",0.33495145631067963,791.0
+0.8,double negative T regulatory cell,0.8888888888888888,4.0
+0.8,innate lymphoid cell,0.6666666666666666,16.0
+0.8,natural killer cell,0.6501901140684411,288.0
+0.8,pre-conventional dendritic cell,0.6382978723404256,24.0
+0.9,B cell,0.47540983606557374,75.0
+0.9,"CD4-positive, alpha-beta T cell",0.33629749393694425,791.0
+0.9,double negative T regulatory cell,0.8571428571428571,4.0
+0.9,innate lymphoid cell,0.6666666666666666,16.0
+0.9,natural killer cell,0.6389413988657845,288.0
+0.9,pre-conventional dendritic cell,0.6511627906976745,24.0
+1.0,B cell,0.43548387096774194,75.0
+1.0,"CD4-positive, alpha-beta T cell",0.3376413570274637,791.0
+1.0,double negative T regulatory cell,0.8571428571428571,4.0
+1.0,innate lymphoid cell,0.6896551724137931,16.0
+1.0,natural killer cell,0.6692015209125475,288.0
+1.0,pre-conventional dendritic cell,0.6818181818181818,24.0
+0.0,B cell,0.48,75.0
+0.0,"CD4-positive, alpha-beta T cell",0.3017241379310345,791.0
+0.0,double negative T regulatory cell,0.4,4.0
+0.0,innate lymphoid cell,0.5833333333333334,16.0
+0.0,natural killer cell,0.6236162361623616,288.0
+0.0,pre-conventional dendritic cell,0.6486486486486487,24.0
+0.1,B cell,0.48739495798319327,75.0
+0.1,"CD4-positive, alpha-beta T cell",0.2914911541701769,791.0
+0.1,double negative T regulatory cell,0.6666666666666666,4.0
+0.1,innate lymphoid cell,0.5833333333333334,16.0
+0.1,natural killer cell,0.6551059730250481,288.0
+0.1,pre-conventional dendritic cell,0.6363636363636364,24.0
+0.2,B cell,0.5161290322580645,75.0
+0.2,"CD4-positive, alpha-beta T cell",0.33440514469453375,791.0
+0.2,double negative T regulatory cell,0.8571428571428571,4.0
+0.2,innate lymphoid cell,0.5217391304347826,16.0
+0.2,natural killer cell,0.7014388489208633,288.0
+0.2,pre-conventional dendritic cell,0.6222222222222222,24.0
+0.3,B cell,0.4878048780487805,75.0
+0.3,"CD4-positive, alpha-beta T cell",0.2983050847457627,791.0
+0.3,double negative T regulatory cell,1.0,4.0
+0.3,innate lymphoid cell,0.6086956521739131,16.0
+0.3,natural killer cell,0.655367231638418,288.0
+0.3,pre-conventional dendritic cell,0.7441860465116279,24.0
+0.4,B cell,0.5343511450381679,75.0
+0.4,"CD4-positive, alpha-beta T cell",0.3441033925686591,791.0
+0.4,double negative T regulatory cell,0.8571428571428571,4.0
+0.4,innate lymphoid cell,0.6666666666666666,16.0
+0.4,natural killer cell,0.6641651031894934,288.0
+0.4,pre-conventional dendritic cell,0.7619047619047619,24.0
+0.5,B cell,0.47863247863247865,75.0
+0.5,"CD4-positive, alpha-beta T cell",0.3379366368805849,791.0
+0.5,double negative T regulatory cell,0.8571428571428571,4.0
+0.5,innate lymphoid cell,0.6666666666666666,16.0
+0.5,natural killer cell,0.6337760910815939,288.0
+0.5,pre-conventional dendritic cell,0.5945945945945946,24.0
+0.6,B cell,0.5196850393700787,75.0
+0.6,"CD4-positive, alpha-beta T cell",0.3485943775100402,791.0
+0.6,double negative T regulatory cell,0.75,4.0
+0.6,innate lymphoid cell,0.6666666666666666,16.0
+0.6,natural killer cell,0.6742424242424242,288.0
+0.6,pre-conventional dendritic cell,0.6,24.0
+0.7,B cell,0.46551724137931033,75.0
+0.7,"CD4-positive, alpha-beta T cell",0.3397745571658615,791.0
+0.7,double negative T regulatory cell,0.75,4.0
+0.7,innate lymphoid cell,0.64,16.0
+0.7,natural killer cell,0.6393762183235867,288.0
+0.7,pre-conventional dendritic cell,0.65,24.0
+0.8,B cell,0.45925925925925926,75.0
+0.8,"CD4-positive, alpha-beta T cell",0.2966666666666667,791.0
+0.8,double negative T regulatory cell,0.8888888888888888,4.0
+0.8,innate lymphoid cell,0.6923076923076923,16.0
+0.8,natural killer cell,0.6666666666666666,288.0
+0.8,pre-conventional dendritic cell,0.7619047619047619,24.0
+0.9,B cell,0.42735042735042733,75.0
+0.9,"CD4-positive, alpha-beta T cell",0.32854864433811803,791.0
+0.9,double negative T regulatory cell,1.0,4.0
+0.9,innate lymphoid cell,0.56,16.0
+0.9,natural killer cell,0.6666666666666666,288.0
+0.9,pre-conventional dendritic cell,0.7755102040816326,24.0
+1.0,B cell,0.48484848484848486,75.0
+1.0,"CD4-positive, alpha-beta T cell",0.3325301204819277,791.0
+1.0,double negative T regulatory cell,0.8571428571428571,4.0
+1.0,innate lymphoid cell,0.7407407407407407,16.0
+1.0,natural killer cell,0.688588007736944,288.0
+1.0,pre-conventional dendritic cell,0.6341463414634146,24.0
+0.0,B cell,0.49206349206349204,75.0
+0.0,"CD4-positive, alpha-beta T cell",0.29636048526863085,791.0
+0.0,double negative T regulatory cell,0.6666666666666666,4.0
+0.0,innate lymphoid cell,0.72,16.0
+0.0,natural killer cell,0.6105675146771037,288.0
+0.0,pre-conventional dendritic cell,0.717948717948718,24.0
+0.1,B cell,0.4715447154471545,75.0
+0.1,"CD4-positive, alpha-beta T cell",0.3079470198675497,791.0
+0.1,double negative T regulatory cell,0.6666666666666666,4.0
+0.1,innate lymphoid cell,0.38095238095238093,16.0
+0.1,natural killer cell,0.6017699115044248,288.0
+0.1,pre-conventional dendritic cell,0.5789473684210527,24.0
+0.2,B cell,0.5040650406504065,75.0
+0.2,"CD4-positive, alpha-beta T cell",0.3458021612635079,791.0
+0.2,double negative T regulatory cell,0.75,4.0
+0.2,innate lymphoid cell,0.5217391304347826,16.0
+0.2,natural killer cell,0.6407407407407407,288.0
+0.2,pre-conventional dendritic cell,0.5945945945945946,24.0
+0.3,B cell,0.4462809917355372,75.0
+0.3,"CD4-positive, alpha-beta T cell",0.3175394846217789,791.0
+0.3,double negative T regulatory cell,0.6666666666666666,4.0
+0.3,innate lymphoid cell,0.4,16.0
+0.3,natural killer cell,0.635814889336016,288.0
+0.3,pre-conventional dendritic cell,0.65,24.0
+0.4,B cell,0.45528455284552843,75.0
+0.4,"CD4-positive, alpha-beta T cell",0.3349673202614379,791.0
+0.4,double negative T regulatory cell,0.8571428571428571,4.0
+0.4,innate lymphoid cell,0.6666666666666666,16.0
+0.4,natural killer cell,0.6210720887245841,288.0
+0.4,pre-conventional dendritic cell,0.6956521739130435,24.0
+0.5,B cell,0.5,75.0
+0.5,"CD4-positive, alpha-beta T cell",0.34554140127388533,791.0
+0.5,double negative T regulatory cell,0.8571428571428571,4.0
+0.5,innate lymphoid cell,0.5454545454545454,16.0
+0.5,natural killer cell,0.6893939393939394,288.0
+0.5,pre-conventional dendritic cell,0.6666666666666666,24.0
+0.6,B cell,0.4666666666666667,75.0
+0.6,"CD4-positive, alpha-beta T cell",0.3239202657807309,791.0
+0.6,double negative T regulatory cell,0.8571428571428571,4.0
+0.6,innate lymphoid cell,0.72,16.0
+0.6,natural killer cell,0.6784313725490196,288.0
+0.6,pre-conventional dendritic cell,0.782608695652174,24.0
+0.7,B cell,0.464,75.0
+0.7,"CD4-positive, alpha-beta T cell",0.3424980361351139,791.0
+0.7,double negative T regulatory cell,0.8571428571428571,4.0
+0.7,innate lymphoid cell,0.625,16.0
+0.7,natural killer cell,0.6493055555555556,288.0
+0.7,pre-conventional dendritic cell,0.7391304347826086,24.0
+0.8,B cell,0.4297520661157025,75.0
+0.8,"CD4-positive, alpha-beta T cell",0.30718414533443433,791.0
+0.8,double negative T regulatory cell,0.8571428571428571,4.0
+0.8,innate lymphoid cell,0.6666666666666666,16.0
+0.8,natural killer cell,0.6539196940726577,288.0
+0.8,pre-conventional dendritic cell,0.6818181818181818,24.0
+0.9,B cell,0.4461538461538462,75.0
+0.9,"CD4-positive, alpha-beta T cell",0.3267248215701824,791.0
+0.9,double negative T regulatory cell,0.75,4.0
+0.9,innate lymphoid cell,0.6153846153846154,16.0
+0.9,natural killer cell,0.6486486486486487,288.0
+0.9,pre-conventional dendritic cell,0.7555555555555555,24.0
+1.0,B cell,0.4603174603174603,75.0
+1.0,"CD4-positive, alpha-beta T cell",0.3449920508744038,791.0
+1.0,double negative T regulatory cell,0.8571428571428571,4.0
+1.0,innate lymphoid cell,0.7142857142857143,16.0
+1.0,natural killer cell,0.6819047619047619,288.0
+1.0,pre-conventional dendritic cell,0.6363636363636364,24.0
+0.0,B cell,0.484375,75.0
+0.0,"CD4-positive, alpha-beta T cell",0.3025768911055694,791.0
+0.0,double negative T regulatory cell,0.8571428571428571,4.0
+0.0,innate lymphoid cell,0.56,16.0
+0.0,natural killer cell,0.5887445887445888,288.0
+0.0,pre-conventional dendritic cell,0.6341463414634146,24.0
+0.1,B cell,0.5079365079365079,75.0
+0.1,"CD4-positive, alpha-beta T cell",0.30572160546541416,791.0
+0.1,double negative T regulatory cell,0.5714285714285714,4.0
+0.1,innate lymphoid cell,0.7142857142857143,16.0
+0.1,natural killer cell,0.5930232558139535,288.0
+0.1,pre-conventional dendritic cell,0.5853658536585366,24.0
+0.2,B cell,0.48333333333333334,75.0
+0.2,"CD4-positive, alpha-beta T cell",0.29535864978902954,791.0
+0.2,double negative T regulatory cell,0.8571428571428571,4.0
+0.2,innate lymphoid cell,0.6086956521739131,16.0
+0.2,natural killer cell,0.6212121212121212,288.0
+0.2,pre-conventional dendritic cell,0.6666666666666666,24.0
+0.3,B cell,0.4918032786885246,75.0
+0.3,"CD4-positive, alpha-beta T cell",0.29293809938971227,791.0
+0.3,double negative T regulatory cell,0.6666666666666666,4.0
+0.3,innate lymphoid cell,0.5217391304347826,16.0
+0.3,natural killer cell,0.5864077669902913,288.0
+0.3,pre-conventional dendritic cell,0.8260869565217391,24.0
+0.4,B cell,0.512396694214876,75.0
+0.4,"CD4-positive, alpha-beta T cell",0.3300970873786408,791.0
+0.4,double negative T regulatory cell,0.8571428571428571,4.0
+0.4,innate lymphoid cell,0.47619047619047616,16.0
+0.4,natural killer cell,0.6895161290322581,288.0
+0.4,pre-conventional dendritic cell,0.7619047619047619,24.0
+0.5,B cell,0.5736434108527132,75.0
+0.5,"CD4-positive, alpha-beta T cell",0.35646687697160884,791.0
+0.5,double negative T regulatory cell,0.8571428571428571,4.0
+0.5,innate lymphoid cell,0.45454545454545453,16.0
+0.5,natural killer cell,0.6539196940726577,288.0
+0.5,pre-conventional dendritic cell,0.631578947368421,24.0
+0.6,B cell,0.5423728813559322,75.0
+0.6,"CD4-positive, alpha-beta T cell",0.30983606557377047,791.0
+0.6,double negative T regulatory cell,0.8571428571428571,4.0
+0.6,innate lymphoid cell,0.6153846153846154,16.0
+0.6,natural killer cell,0.6465028355387523,288.0
+0.6,pre-conventional dendritic cell,0.5777777777777777,24.0
+0.7,B cell,0.46616541353383456,75.0
+0.7,"CD4-positive, alpha-beta T cell",0.32535094962840627,791.0
+0.7,double negative T regulatory cell,0.8571428571428571,4.0
+0.7,innate lymphoid cell,0.5384615384615384,16.0
+0.7,natural killer cell,0.6501901140684411,288.0
+0.7,pre-conventional dendritic cell,0.6190476190476191,24.0
+0.8,B cell,0.5285714285714286,75.0
+0.8,"CD4-positive, alpha-beta T cell",0.32606941081517354,791.0
+0.8,double negative T regulatory cell,1.0,4.0
+0.8,innate lymphoid cell,0.6666666666666666,16.0
+0.8,natural killer cell,0.6692015209125475,288.0
+0.8,pre-conventional dendritic cell,0.6976744186046512,24.0
+0.9,B cell,0.4409448818897638,75.0
+0.9,"CD4-positive, alpha-beta T cell",0.3064516129032258,791.0
+0.9,double negative T regulatory cell,0.75,4.0
+0.9,innate lymphoid cell,0.6153846153846154,16.0
+0.9,natural killer cell,0.6387832699619772,288.0
+0.9,pre-conventional dendritic cell,0.6666666666666666,24.0
+0.0,B cell,0.46774193548387094,75.0
+0.0,"CD4-positive, alpha-beta T cell",0.26700680272108845,791.0
+0.0,double negative T regulatory cell,0.8571428571428571,4.0
+0.0,innate lymphoid cell,0.6923076923076923,16.0
+0.0,natural killer cell,0.5605095541401274,288.0
+0.0,pre-conventional dendritic cell,0.7,24.0
+0.1,B cell,0.5151515151515151,75.0
+0.1,"CD4-positive, alpha-beta T cell",0.3276283618581907,791.0
+0.1,double negative T regulatory cell,0.75,4.0
+0.1,innate lymphoid cell,0.6086956521739131,16.0
+0.1,natural killer cell,0.7174721189591078,288.0
+0.1,pre-conventional dendritic cell,0.8,24.0
+0.2,B cell,0.5245901639344263,75.0
+0.2,"CD4-positive, alpha-beta T cell",0.2623239436619718,791.0
+0.2,double negative T regulatory cell,0.75,4.0
+0.2,innate lymphoid cell,0.5,16.0
+0.2,natural killer cell,0.5770750988142292,288.0
+0.2,pre-conventional dendritic cell,0.6666666666666666,24.0
+0.3,B cell,0.5528455284552846,75.0
+0.3,"CD4-positive, alpha-beta T cell",0.32077125328659073,791.0
+0.3,double negative T regulatory cell,0.6666666666666666,4.0
+0.3,innate lymphoid cell,0.45454545454545453,16.0
+0.3,natural killer cell,0.6503067484662577,288.0
+0.3,pre-conventional dendritic cell,0.631578947368421,24.0
+0.4,B cell,0.49586776859504134,75.0
+0.4,"CD4-positive, alpha-beta T cell",0.30692243536280234,791.0
+0.4,double negative T regulatory cell,0.8571428571428571,4.0
+0.4,innate lymphoid cell,0.64,16.0
+0.4,natural killer cell,0.6189555125725339,288.0
+0.4,pre-conventional dendritic cell,0.631578947368421,24.0
+0.5,B cell,0.512396694214876,75.0
+0.5,"CD4-positive, alpha-beta T cell",0.35583796664019063,791.0
+0.5,double negative T regulatory cell,0.8571428571428571,4.0
+0.5,innate lymphoid cell,0.5833333333333334,16.0
+0.5,natural killer cell,0.6888888888888889,288.0
+0.5,pre-conventional dendritic cell,0.6976744186046512,24.0
+0.6,B cell,0.47244094488188976,75.0
+0.6,"CD4-positive, alpha-beta T cell",0.3408360128617363,791.0
+0.6,double negative T regulatory cell,0.75,4.0
+0.6,innate lymphoid cell,0.6666666666666666,16.0
+0.6,natural killer cell,0.6319702602230484,288.0
+0.6,pre-conventional dendritic cell,0.7391304347826086,24.0
+0.7,B cell,0.4262295081967213,75.0
+0.7,"CD4-positive, alpha-beta T cell",0.3416599516518936,791.0
+0.7,double negative T regulatory cell,0.75,4.0
+0.7,innate lymphoid cell,0.6666666666666666,16.0
+0.7,natural killer cell,0.620817843866171,288.0
+0.7,pre-conventional dendritic cell,0.6363636363636364,24.0
+0.8,B cell,0.4126984126984127,75.0
+0.8,"CD4-positive, alpha-beta T cell",0.2880932556203164,791.0
+0.8,double negative T regulatory cell,0.8571428571428571,4.0
+0.8,innate lymphoid cell,0.6428571428571429,16.0
+0.8,natural killer cell,0.6536964980544747,288.0
+0.8,pre-conventional dendritic cell,0.6818181818181818,24.0
+0.9,B cell,0.48854961832061067,75.0
+0.9,"CD4-positive, alpha-beta T cell",0.3157894736842105,791.0
+0.9,double negative T regulatory cell,0.75,4.0
+0.9,innate lymphoid cell,0.6153846153846154,16.0
+0.9,natural killer cell,0.6590038314176245,288.0
+0.9,pre-conventional dendritic cell,0.6511627906976745,24.0
+1.0,B cell,0.4696969696969697,75.0
+1.0,"CD4-positive, alpha-beta T cell",0.33252623083131555,791.0
+1.0,double negative T regulatory cell,0.75,4.0
+1.0,innate lymphoid cell,0.7142857142857143,16.0
+1.0,natural killer cell,0.6806883365200764,288.0
+1.0,pre-conventional dendritic cell,0.6511627906976745,24.0
+0.0,B cell,0.5079365079365079,75.0
+0.0,"CD4-positive, alpha-beta T cell",0.32348111658456485,791.0
+0.0,double negative T regulatory cell,0.8571428571428571,4.0
+0.0,innate lymphoid cell,0.5217391304347826,16.0
+0.0,natural killer cell,0.6188524590163934,288.0
+0.0,pre-conventional dendritic cell,0.5945945945945946,24.0
+0.1,B cell,0.48120300751879697,75.0
+0.1,"CD4-positive, alpha-beta T cell",0.29906542056074764,791.0
+0.1,double negative T regulatory cell,0.8571428571428571,4.0
+0.1,innate lymphoid cell,0.5454545454545454,16.0
+0.1,natural killer cell,0.5814432989690722,288.0
+0.1,pre-conventional dendritic cell,0.6666666666666666,24.0
+0.2,B cell,0.5161290322580645,75.0
+0.2,"CD4-positive, alpha-beta T cell",0.2792714657415438,791.0
+0.2,double negative T regulatory cell,0.5714285714285714,4.0
+0.2,innate lymphoid cell,0.5454545454545454,16.0
+0.2,natural killer cell,0.5803921568627451,288.0
+0.2,pre-conventional dendritic cell,0.76,24.0
+0.3,B cell,0.5151515151515151,75.0
+0.3,"CD4-positive, alpha-beta T cell",0.32127838519764507,791.0
+0.3,double negative T regulatory cell,1.0,4.0
+0.3,innate lymphoid cell,0.5454545454545454,16.0
+0.3,natural killer cell,0.6383838383838384,288.0
+0.3,pre-conventional dendritic cell,0.65,24.0
+0.4,B cell,0.49586776859504134,75.0
+0.4,"CD4-positive, alpha-beta T cell",0.3399840383080607,791.0
+0.4,double negative T regulatory cell,0.75,4.0
+0.4,innate lymphoid cell,0.7407407407407407,16.0
+0.4,natural killer cell,0.6440677966101694,288.0
+0.4,pre-conventional dendritic cell,0.5128205128205128,24.0
+0.5,B cell,0.5254237288135594,75.0
+0.5,"CD4-positive, alpha-beta T cell",0.326984126984127,791.0
+0.5,double negative T regulatory cell,0.8,4.0
+0.5,innate lymphoid cell,0.6206896551724138,16.0
+0.5,natural killer cell,0.6589595375722543,288.0
+0.5,pre-conventional dendritic cell,0.6956521739130435,24.0
+0.6,B cell,0.496,75.0
+0.6,"CD4-positive, alpha-beta T cell",0.3458167330677291,791.0
+0.6,double negative T regulatory cell,0.75,4.0
+0.6,innate lymphoid cell,0.6086956521739131,16.0
+0.6,natural killer cell,0.7026022304832714,288.0
+0.6,pre-conventional dendritic cell,0.6666666666666666,24.0
+0.7,B cell,0.43333333333333335,75.0
+0.7,"CD4-positive, alpha-beta T cell",0.32305194805194803,791.0
+0.7,double negative T regulatory cell,0.8571428571428571,4.0
+0.7,innate lymphoid cell,0.5833333333333334,16.0
+0.7,natural killer cell,0.6363636363636364,288.0
+0.7,pre-conventional dendritic cell,0.6976744186046512,24.0
+0.8,B cell,0.5112781954887218,75.0
+0.8,"CD4-positive, alpha-beta T cell",0.33199033037872683,791.0
+0.8,double negative T regulatory cell,0.8571428571428571,4.0
+0.8,innate lymphoid cell,0.6206896551724138,16.0
+0.8,natural killer cell,0.6487523992322457,288.0
+0.8,pre-conventional dendritic cell,0.5909090909090909,24.0
+0.9,B cell,0.47540983606557374,75.0
+0.9,"CD4-positive, alpha-beta T cell",0.3376,791.0
+0.9,double negative T regulatory cell,0.75,4.0
+0.9,innate lymphoid cell,0.6923076923076923,16.0
+0.9,natural killer cell,0.6532846715328468,288.0
+0.9,pre-conventional dendritic cell,0.6818181818181818,24.0
+1.0,B cell,0.3875968992248062,75.0
+1.0,"CD4-positive, alpha-beta T cell",0.33148295003965106,791.0
+1.0,double negative T regulatory cell,0.75,4.0
+1.0,innate lymphoid cell,0.7142857142857143,16.0
+1.0,natural killer cell,0.6617100371747212,288.0
+1.0,pre-conventional dendritic cell,0.7142857142857143,24.0
+0.0,B cell,0.532258064516129,75.0
+0.0,"CD4-positive, alpha-beta T cell",0.33222591362126247,791.0
+0.0,double negative T regulatory cell,0.6666666666666666,4.0
+0.0,innate lymphoid cell,0.45454545454545453,16.0
+0.0,natural killer cell,0.649155722326454,288.0
+0.0,pre-conventional dendritic cell,0.5405405405405406,24.0
+0.1,B cell,0.49612403100775193,75.0
+0.1,"CD4-positive, alpha-beta T cell",0.2935153583617747,791.0
+0.1,double negative T regulatory cell,0.6666666666666666,4.0
+0.1,innate lymphoid cell,0.6086956521739131,16.0
+0.1,natural killer cell,0.6300813008130082,288.0
+0.1,pre-conventional dendritic cell,0.6,24.0
+0.2,B cell,0.5190839694656488,75.0
+0.2,"CD4-positive, alpha-beta T cell",0.30266552020636284,791.0
+0.2,double negative T regulatory cell,0.8571428571428571,4.0
+0.2,innate lymphoid cell,0.64,16.0
+0.2,natural killer cell,0.6223908918406073,288.0
+0.2,pre-conventional dendritic cell,0.5714285714285714,24.0
+0.3,B cell,0.5132743362831859,75.0
+0.3,"CD4-positive, alpha-beta T cell",0.3446054750402576,791.0
+0.3,double negative T regulatory cell,0.5714285714285714,4.0
+0.3,innate lymphoid cell,0.6923076923076923,16.0
+0.3,natural killer cell,0.7094474153297683,288.0
+0.3,pre-conventional dendritic cell,0.7142857142857143,24.0
+0.4,B cell,0.528,75.0
+0.4,"CD4-positive, alpha-beta T cell",0.3172526573998365,791.0
+0.4,double negative T regulatory cell,0.75,4.0
+0.4,innate lymphoid cell,0.45454545454545453,16.0
+0.4,natural killer cell,0.6795366795366795,288.0
+0.4,pre-conventional dendritic cell,0.7619047619047619,24.0
+0.5,B cell,0.5038167938931297,75.0
+0.5,"CD4-positive, alpha-beta T cell",0.3205233033524121,791.0
+0.5,double negative T regulatory cell,0.8571428571428571,4.0
+0.5,innate lymphoid cell,0.5833333333333334,16.0
+0.5,natural killer cell,0.632768361581921,288.0
+0.5,pre-conventional dendritic cell,0.6842105263157895,24.0
+0.6,B cell,0.453125,75.0
+0.6,"CD4-positive, alpha-beta T cell",0.3046683046683047,791.0
+0.6,double negative T regulatory cell,0.8571428571428571,4.0
+0.6,innate lymphoid cell,0.6666666666666666,16.0
+0.6,natural killer cell,0.6177024482109228,288.0
+0.6,pre-conventional dendritic cell,0.6829268292682927,24.0
+0.7,B cell,0.4755244755244755,75.0
+0.7,"CD4-positive, alpha-beta T cell",0.3115161557580779,791.0
+0.7,double negative T regulatory cell,0.8571428571428571,4.0
+0.7,innate lymphoid cell,0.72,16.0
+0.7,natural killer cell,0.660377358490566,288.0
+0.7,pre-conventional dendritic cell,0.6363636363636364,24.0
+0.8,B cell,0.5038167938931297,75.0
+0.8,"CD4-positive, alpha-beta T cell",0.3433685923515053,791.0
+0.8,double negative T regulatory cell,0.8571428571428571,4.0
+0.8,innate lymphoid cell,0.5384615384615384,16.0
+0.8,natural killer cell,0.6924493554327809,288.0
+0.8,pre-conventional dendritic cell,0.5714285714285714,24.0
+0.9,B cell,0.5,75.0
+0.9,"CD4-positive, alpha-beta T cell",0.3163841807909605,791.0
+0.9,double negative T regulatory cell,0.75,4.0
+0.9,innate lymphoid cell,0.7142857142857143,16.0
+0.9,natural killer cell,0.6456692913385826,288.0
+0.9,pre-conventional dendritic cell,0.6511627906976745,24.0
+1.0,B cell,0.4426229508196721,75.0
+1.0,"CD4-positive, alpha-beta T cell",0.34335443037974683,791.0
+1.0,double negative T regulatory cell,0.8571428571428571,4.0
+1.0,innate lymphoid cell,0.7142857142857143,16.0
+1.0,natural killer cell,0.7022058823529411,288.0
+1.0,pre-conventional dendritic cell,0.7441860465116279,24.0
+0.0,B cell,0.49230769230769234,75.0
+0.0,"CD4-positive, alpha-beta T cell",0.27792436235708,791.0
+0.0,double negative T regulatory cell,0.6666666666666666,4.0
+0.0,innate lymphoid cell,0.5454545454545454,16.0
+0.0,natural killer cell,0.530938123752495,288.0
+0.0,pre-conventional dendritic cell,0.6,24.0
+0.1,B cell,0.4852941176470588,75.0
+0.1,"CD4-positive, alpha-beta T cell",0.29285099052540914,791.0
+0.1,double negative T regulatory cell,0.6666666666666666,4.0
+0.1,innate lymphoid cell,0.5217391304347826,16.0
+0.1,natural killer cell,0.6099009900990099,288.0
+0.1,pre-conventional dendritic cell,0.7441860465116279,24.0
+0.2,B cell,0.5909090909090909,75.0
+0.2,"CD4-positive, alpha-beta T cell",0.3344370860927152,791.0
+0.2,double negative T regulatory cell,0.5714285714285714,4.0
+0.2,innate lymphoid cell,0.64,16.0
+0.2,natural killer cell,0.7045871559633028,288.0
+0.2,pre-conventional dendritic cell,0.5853658536585366,24.0
+0.3,B cell,0.532258064516129,75.0
+0.3,"CD4-positive, alpha-beta T cell",0.2878535773710483,791.0
+0.3,double negative T regulatory cell,0.8571428571428571,4.0
+0.3,innate lymphoid cell,0.5454545454545454,16.0
+0.3,natural killer cell,0.6616822429906543,288.0
+0.3,pre-conventional dendritic cell,0.5909090909090909,24.0
+0.4,B cell,0.496,75.0
+0.4,"CD4-positive, alpha-beta T cell",0.32917705735660846,791.0
+0.4,double negative T regulatory cell,1.0,4.0
+0.4,innate lymphoid cell,0.56,16.0
+0.4,natural killer cell,0.6290018832391714,288.0
+0.4,pre-conventional dendritic cell,0.6956521739130435,24.0
+0.5,B cell,0.5891472868217055,75.0
+0.5,"CD4-positive, alpha-beta T cell",0.3431372549019608,791.0
+0.5,double negative T regulatory cell,0.75,4.0
+0.5,innate lymphoid cell,0.6923076923076923,16.0
+0.5,natural killer cell,0.6666666666666666,288.0
+0.5,pre-conventional dendritic cell,0.6956521739130435,24.0
+0.6,B cell,0.4580152671755725,75.0
+0.6,"CD4-positive, alpha-beta T cell",0.27557058326289097,791.0
+0.6,double negative T regulatory cell,0.6666666666666666,4.0
+0.6,innate lymphoid cell,0.6666666666666666,16.0
+0.6,natural killer cell,0.6419753086419753,288.0
+0.6,pre-conventional dendritic cell,0.6938775510204082,24.0
+0.7,B cell,0.432,75.0
+0.7,"CD4-positive, alpha-beta T cell",0.32941176470588235,791.0
+0.7,double negative T regulatory cell,0.75,4.0
+0.7,innate lymphoid cell,0.6153846153846154,16.0
+0.7,natural killer cell,0.6571428571428571,288.0
+0.7,pre-conventional dendritic cell,0.6190476190476191,24.0
+0.8,B cell,0.5112781954887218,75.0
+0.8,"CD4-positive, alpha-beta T cell",0.3185550082101806,791.0
+0.8,double negative T regulatory cell,0.75,4.0
+0.8,innate lymphoid cell,0.72,16.0
+0.8,natural killer cell,0.6939571150097466,288.0
+0.8,pre-conventional dendritic cell,0.6666666666666666,24.0
+0.9,B cell,0.45454545454545453,75.0
+0.9,"CD4-positive, alpha-beta T cell",0.3269537480063796,791.0
+0.9,double negative T regulatory cell,0.75,4.0
+0.9,innate lymphoid cell,0.5925925925925926,16.0
+0.9,natural killer cell,0.6427221172022685,288.0
+0.9,pre-conventional dendritic cell,0.6666666666666666,24.0
+1.0,B cell,0.453125,75.0
+1.0,"CD4-positive, alpha-beta T cell",0.3367588932806324,791.0
+1.0,double negative T regulatory cell,0.8571428571428571,4.0
+1.0,innate lymphoid cell,0.7142857142857143,16.0
+1.0,natural killer cell,0.6741996233521658,288.0
+1.0,pre-conventional dendritic cell,0.6666666666666666,24.0
+0.0,B cell,0.496,75.0
+0.0,"CD4-positive, alpha-beta T cell",0.295,791.0
+0.0,double negative T regulatory cell,0.4,4.0
+0.0,innate lymphoid cell,0.72,16.0
+0.0,natural killer cell,0.6204238921001927,288.0
+0.0,pre-conventional dendritic cell,0.7441860465116279,24.0
+0.1,B cell,0.5040650406504065,75.0
+0.1,"CD4-positive, alpha-beta T cell",0.358974358974359,791.0
+0.1,double negative T regulatory cell,0.8571428571428571,4.0
+0.1,innate lymphoid cell,0.6666666666666666,16.0
+0.1,natural killer cell,0.717391304347826,288.0
+0.1,pre-conventional dendritic cell,0.55,24.0
+0.2,B cell,0.4927536231884058,75.0
+0.2,"CD4-positive, alpha-beta T cell",0.33387888707037644,791.0
+0.2,double negative T regulatory cell,0.8571428571428571,4.0
+0.2,innate lymphoid cell,0.6086956521739131,16.0
+0.2,natural killer cell,0.6489563567362429,288.0
+0.2,pre-conventional dendritic cell,0.7142857142857143,24.0
+0.3,B cell,0.4496124031007752,75.0
+0.3,"CD4-positive, alpha-beta T cell",0.28,791.0
+0.3,double negative T regulatory cell,0.6666666666666666,4.0
+0.3,innate lymphoid cell,0.64,16.0
+0.3,natural killer cell,0.6134969325153374,288.0
+0.3,pre-conventional dendritic cell,0.6818181818181818,24.0
+0.4,B cell,0.5511811023622047,75.0
+0.4,"CD4-positive, alpha-beta T cell",0.34894991922455576,791.0
+0.4,double negative T regulatory cell,0.75,4.0
+0.4,innate lymphoid cell,0.72,16.0
+0.4,natural killer cell,0.671559633027523,288.0
+0.4,pre-conventional dendritic cell,0.6,24.0
+0.5,B cell,0.5,75.0
+0.5,"CD4-positive, alpha-beta T cell",0.2876480541455161,791.0
+0.5,double negative T regulatory cell,0.8571428571428571,4.0
+0.5,innate lymphoid cell,0.5217391304347826,16.0
+0.5,natural killer cell,0.6342412451361867,288.0
+0.5,pre-conventional dendritic cell,0.5,24.0
+0.6,B cell,0.5,75.0
+0.6,"CD4-positive, alpha-beta T cell",0.31825795644891125,791.0
+0.6,double negative T regulatory cell,0.8571428571428571,4.0
+0.6,innate lymphoid cell,0.6666666666666666,16.0
+0.6,natural killer cell,0.6309278350515464,288.0
+0.6,pre-conventional dendritic cell,0.7,24.0
+0.7,B cell,0.4881889763779528,75.0
+0.7,"CD4-positive, alpha-beta T cell",0.3336058871627146,791.0
+0.7,double negative T regulatory cell,0.8571428571428571,4.0
+0.7,innate lymphoid cell,0.56,16.0
+0.7,natural killer cell,0.659877800407332,288.0
+0.7,pre-conventional dendritic cell,0.6666666666666666,24.0
+0.8,B cell,0.4603174603174603,75.0
+0.8,"CD4-positive, alpha-beta T cell",0.3129139072847682,791.0
+0.8,double negative T regulatory cell,0.75,4.0
+0.8,innate lymphoid cell,0.6923076923076923,16.0
+0.8,natural killer cell,0.6549707602339181,288.0
+0.8,pre-conventional dendritic cell,0.6222222222222222,24.0
+0.9,B cell,0.46511627906976744,75.0
+0.9,"CD4-positive, alpha-beta T cell",0.34937888198757766,791.0
+0.9,double negative T regulatory cell,0.75,4.0
+0.9,innate lymphoid cell,0.5925925925925926,16.0
+0.9,natural killer cell,0.696588868940754,288.0
+0.9,pre-conventional dendritic cell,0.6666666666666666,24.0
+1.0,B cell,0.4715447154471545,75.0
+1.0,"CD4-positive, alpha-beta T cell",0.3483057525610717,791.0
+1.0,double negative T regulatory cell,1.0,4.0
+1.0,innate lymphoid cell,0.6666666666666666,16.0
+1.0,natural killer cell,0.6807692307692308,288.0
+1.0,pre-conventional dendritic cell,0.7142857142857143,24.0
+0.0,B cell,0.5806451612903226,75.0
+0.0,"CD4-positive, alpha-beta T cell",0.31821929101401486,791.0
+0.0,double negative T regulatory cell,0.6666666666666666,4.0
+0.0,innate lymphoid cell,0.5,16.0
+0.0,natural killer cell,0.7079303675048356,288.0
+0.0,pre-conventional dendritic cell,0.8,24.0
+0.1,B cell,0.49206349206349204,75.0
+0.1,"CD4-positive, alpha-beta T cell",0.30983606557377047,791.0
+0.1,double negative T regulatory cell,0.6666666666666666,4.0
+0.1,innate lymphoid cell,0.6666666666666666,16.0
+0.1,natural killer cell,0.5651302605210421,288.0
+0.1,pre-conventional dendritic cell,0.6153846153846154,24.0
+0.2,B cell,0.46153846153846156,75.0
+0.2,"CD4-positive, alpha-beta T cell",0.3116883116883117,791.0
+0.2,double negative T regulatory cell,0.75,4.0
+0.2,innate lymphoid cell,0.6206896551724138,16.0
+0.2,natural killer cell,0.7129094412331407,288.0
+0.2,pre-conventional dendritic cell,0.7441860465116279,24.0
+0.3,B cell,0.5271317829457365,75.0
+0.3,"CD4-positive, alpha-beta T cell",0.28270412642669007,791.0
+0.3,double negative T regulatory cell,1.0,4.0
+0.3,innate lymphoid cell,0.5,16.0
+0.3,natural killer cell,0.6336633663366337,288.0
+0.3,pre-conventional dendritic cell,0.6666666666666666,24.0
+0.4,B cell,0.5384615384615384,75.0
+0.4,"CD4-positive, alpha-beta T cell",0.34522821576763485,791.0
+0.4,double negative T regulatory cell,0.8571428571428571,4.0
+0.4,innate lymphoid cell,0.7142857142857143,16.0
+0.4,natural killer cell,0.6539196940726577,288.0
+0.4,pre-conventional dendritic cell,0.6153846153846154,24.0
+0.5,B cell,0.43478260869565216,75.0
+0.5,"CD4-positive, alpha-beta T cell",0.3366186504927976,791.0
+0.5,double negative T regulatory cell,0.8571428571428571,4.0
+0.5,innate lymphoid cell,0.5925925925925926,16.0
+0.5,natural killer cell,0.6933333333333334,288.0
+0.5,pre-conventional dendritic cell,0.7317073170731707,24.0
+0.6,B cell,0.5365853658536586,75.0
+0.6,"CD4-positive, alpha-beta T cell",0.35051546391752575,791.0
+0.6,double negative T regulatory cell,0.8571428571428571,4.0
+0.6,innate lymphoid cell,0.6666666666666666,16.0
+0.6,natural killer cell,0.7026022304832714,288.0
+0.6,pre-conventional dendritic cell,0.5714285714285714,24.0
+0.7,B cell,0.496,75.0
+0.7,"CD4-positive, alpha-beta T cell",0.3262642740619902,791.0
+0.7,double negative T regulatory cell,0.8571428571428571,4.0
+0.7,innate lymphoid cell,0.64,16.0
+0.7,natural killer cell,0.6185185185185185,288.0
+0.7,pre-conventional dendritic cell,0.6808510638297872,24.0
+0.8,B cell,0.4696969696969697,75.0
+0.8,"CD4-positive, alpha-beta T cell",0.3117692907248636,791.0
+0.8,double negative T regulatory cell,0.8571428571428571,4.0
+0.8,innate lymphoid cell,0.72,16.0
+0.8,natural killer cell,0.65,288.0
+0.8,pre-conventional dendritic cell,0.7272727272727273,24.0
+0.9,B cell,0.39344262295081966,75.0
+0.9,"CD4-positive, alpha-beta T cell",0.34185303514376997,791.0
+0.9,double negative T regulatory cell,0.6666666666666666,4.0
+0.9,innate lymphoid cell,0.6666666666666666,16.0
+0.9,natural killer cell,0.6442687747035574,288.0
+0.9,pre-conventional dendritic cell,0.7111111111111111,24.0
+1.0,B cell,0.4603174603174603,75.0
+1.0,"CD4-positive, alpha-beta T cell",0.33571996817820204,791.0
+1.0,double negative T regulatory cell,0.8571428571428571,4.0
+1.0,innate lymphoid cell,0.6666666666666666,16.0
+1.0,natural killer cell,0.6802218114602587,288.0
+1.0,pre-conventional dendritic cell,0.6666666666666666,24.0
+0.0,B cell,0.5116279069767442,75.0
+0.0,"CD4-positive, alpha-beta T cell",0.28859060402684567,791.0
+0.0,double negative T regulatory cell,0.6666666666666666,4.0
+0.0,innate lymphoid cell,0.5925925925925926,16.0
+0.0,natural killer cell,0.6455223880597015,288.0
+0.0,pre-conventional dendritic cell,0.6666666666666666,24.0
+0.1,B cell,0.46875,75.0
+0.1,"CD4-positive, alpha-beta T cell",0.2854594112399643,791.0
+0.1,double negative T regulatory cell,0.8571428571428571,4.0
+0.1,innate lymphoid cell,0.6086956521739131,16.0
+0.1,natural killer cell,0.61328125,288.0
+0.1,pre-conventional dendritic cell,0.7,24.0
+0.2,B cell,0.44274809160305345,75.0
+0.2,"CD4-positive, alpha-beta T cell",0.30318257956448913,791.0
+0.2,double negative T regulatory cell,0.8571428571428571,4.0
+0.2,innate lymphoid cell,0.5384615384615384,16.0
+0.2,natural killer cell,0.6398390342052314,288.0
+0.2,pre-conventional dendritic cell,0.5365853658536586,24.0
+0.3,B cell,0.4748201438848921,75.0
+0.3,"CD4-positive, alpha-beta T cell",0.3,791.0
+0.3,double negative T regulatory cell,0.6666666666666666,4.0
+0.3,innate lymphoid cell,0.5454545454545454,16.0
+0.3,natural killer cell,0.6431535269709544,288.0
+0.3,pre-conventional dendritic cell,0.6923076923076923,24.0
+0.4,B cell,0.5238095238095238,75.0
+0.4,"CD4-positive, alpha-beta T cell",0.36348949919224555,791.0
+0.4,double negative T regulatory cell,0.6666666666666666,4.0
+0.4,innate lymphoid cell,0.7407407407407407,16.0
+0.4,natural killer cell,0.6242299794661191,288.0
+0.4,pre-conventional dendritic cell,0.7727272727272727,24.0
+0.5,B cell,0.4666666666666667,75.0
+0.5,"CD4-positive, alpha-beta T cell",0.3589329021827001,791.0
+0.5,double negative T regulatory cell,0.5714285714285714,4.0
+0.5,innate lymphoid cell,0.64,16.0
+0.5,natural killer cell,0.6530612244897959,288.0
+0.5,pre-conventional dendritic cell,0.7142857142857143,24.0
+0.6,B cell,0.4067796610169492,75.0
+0.6,"CD4-positive, alpha-beta T cell",0.3669008587041374,791.0
+0.6,double negative T regulatory cell,0.75,4.0
+0.6,innate lymphoid cell,0.5833333333333334,16.0
+0.6,natural killer cell,0.6654611211573237,288.0
+0.6,pre-conventional dendritic cell,0.6666666666666666,24.0
+0.7,B cell,0.49612403100775193,75.0
+0.7,"CD4-positive, alpha-beta T cell",0.3184818481848185,791.0
+0.7,double negative T regulatory cell,0.8571428571428571,4.0
+0.7,innate lymphoid cell,0.72,16.0
+0.7,natural killer cell,0.649402390438247,288.0
+0.7,pre-conventional dendritic cell,0.65,24.0
+0.8,B cell,0.4132231404958678,75.0
+0.8,"CD4-positive, alpha-beta T cell",0.3261734287987271,791.0
+0.8,double negative T regulatory cell,0.6666666666666666,4.0
+0.8,innate lymphoid cell,0.5833333333333334,16.0
+0.8,natural killer cell,0.6398537477148081,288.0
+0.8,pre-conventional dendritic cell,0.5116279069767442,24.0
+0.9,B cell,0.416,75.0
+0.9,"CD4-positive, alpha-beta T cell",0.3236449332285939,791.0
+0.9,double negative T regulatory cell,0.75,4.0
+0.9,innate lymphoid cell,0.6666666666666666,16.0
+0.9,natural killer cell,0.6840148698884758,288.0
+0.9,pre-conventional dendritic cell,0.6363636363636364,24.0
+1.0,B cell,0.41935483870967744,75.0
+1.0,"CD4-positive, alpha-beta T cell",0.34049323786793956,791.0
+1.0,double negative T regulatory cell,0.8571428571428571,4.0
+1.0,innate lymphoid cell,0.7142857142857143,16.0
+1.0,natural killer cell,0.683206106870229,288.0
+1.0,pre-conventional dendritic cell,0.6976744186046512,24.0
+0.0,B cell,0.5757575757575758,75.0
+0.0,"CD4-positive, alpha-beta T cell",0.30971993410214166,791.0
+0.0,double negative T regulatory cell,0.5714285714285714,4.0
+0.0,innate lymphoid cell,0.5833333333333334,16.0
+0.0,natural killer cell,0.6074074074074074,288.0
+0.0,pre-conventional dendritic cell,0.7272727272727273,24.0
+0.1,B cell,0.4881889763779528,75.0
+0.1,"CD4-positive, alpha-beta T cell",0.3258145363408521,791.0
+0.1,double negative T regulatory cell,0.8571428571428571,4.0
+0.1,innate lymphoid cell,0.6086956521739131,16.0
+0.1,natural killer cell,0.6679611650485436,288.0
+0.1,pre-conventional dendritic cell,0.75,24.0
+0.2,B cell,0.48226950354609927,75.0
+0.2,"CD4-positive, alpha-beta T cell",0.32078559738134205,791.0
+0.2,double negative T regulatory cell,0.8571428571428571,4.0
+0.2,innate lymphoid cell,0.6923076923076923,16.0
+0.2,natural killer cell,0.6527777777777778,288.0
+0.2,pre-conventional dendritic cell,0.7441860465116279,24.0
+0.3,B cell,0.46511627906976744,75.0
+0.3,"CD4-positive, alpha-beta T cell",0.31862745098039214,791.0
+0.3,double negative T regulatory cell,0.8571428571428571,4.0
+0.3,innate lymphoid cell,0.5,16.0
+0.3,natural killer cell,0.6706586826347305,288.0
+0.3,pre-conventional dendritic cell,0.631578947368421,24.0
+0.4,B cell,0.4132231404958678,75.0
+0.4,"CD4-positive, alpha-beta T cell",0.27887788778877887,791.0
+0.4,double negative T regulatory cell,1.0,4.0
+0.4,innate lymphoid cell,0.6153846153846154,16.0
+0.4,natural killer cell,0.6923076923076923,288.0
+0.4,pre-conventional dendritic cell,0.6666666666666666,24.0
+0.5,B cell,0.4927536231884058,75.0
+0.5,"CD4-positive, alpha-beta T cell",0.36037441497659906,791.0
+0.5,double negative T regulatory cell,0.5,4.0
+0.5,innate lymphoid cell,0.6666666666666666,16.0
+0.5,natural killer cell,0.6505576208178439,288.0
+0.5,pre-conventional dendritic cell,0.6486486486486487,24.0
+0.6,B cell,0.47368421052631576,75.0
+0.6,"CD4-positive, alpha-beta T cell",0.3312,791.0
+0.6,double negative T regulatory cell,0.8571428571428571,4.0
+0.6,innate lymphoid cell,0.6923076923076923,16.0
+0.6,natural killer cell,0.7032136105860114,288.0
+0.6,pre-conventional dendritic cell,0.6341463414634146,24.0
+0.7,B cell,0.5196850393700787,75.0
+0.7,"CD4-positive, alpha-beta T cell",0.2965459140690817,791.0
+0.7,double negative T regulatory cell,0.8571428571428571,4.0
+0.7,innate lymphoid cell,0.5925925925925926,16.0
+0.7,natural killer cell,0.6275229357798165,288.0
+0.7,pre-conventional dendritic cell,0.6818181818181818,24.0
+0.8,B cell,0.43410852713178294,75.0
+0.8,"CD4-positive, alpha-beta T cell",0.3557377049180328,791.0
+0.8,double negative T regulatory cell,0.75,4.0
+0.8,innate lymphoid cell,0.6428571428571429,16.0
+0.8,natural killer cell,0.6704980842911877,288.0
+0.8,pre-conventional dendritic cell,0.6222222222222222,24.0
+0.9,B cell,0.484375,75.0
+0.9,"CD4-positive, alpha-beta T cell",0.3315003927729772,791.0
+0.9,double negative T regulatory cell,0.75,4.0
+0.9,innate lymphoid cell,0.7142857142857143,16.0
+0.9,natural killer cell,0.6654611211573237,288.0
+0.9,pre-conventional dendritic cell,0.7111111111111111,24.0
+1.0,B cell,0.4,75.0
+1.0,"CD4-positive, alpha-beta T cell",0.3328050713153724,791.0
+1.0,double negative T regulatory cell,0.8571428571428571,4.0
+1.0,innate lymphoid cell,0.6666666666666666,16.0
+1.0,natural killer cell,0.6490566037735849,288.0
+1.0,pre-conventional dendritic cell,0.65,24.0
+0.0,B cell,0.4740740740740741,75.0
+0.0,"CD4-positive, alpha-beta T cell",0.28401360544217685,791.0
+0.0,double negative T regulatory cell,0.5714285714285714,4.0
+0.0,innate lymphoid cell,0.4,16.0
+0.0,natural killer cell,0.6533575317604355,288.0
+0.0,pre-conventional dendritic cell,0.6486486486486487,24.0
+0.1,B cell,0.5413533834586466,75.0
+0.1,"CD4-positive, alpha-beta T cell",0.2677165354330709,791.0
+0.1,double negative T regulatory cell,0.6666666666666666,4.0
+0.1,innate lymphoid cell,0.5833333333333334,16.0
+0.1,natural killer cell,0.5951035781544256,288.0
+0.1,pre-conventional dendritic cell,0.6666666666666666,24.0
+0.2,B cell,0.5396825396825397,75.0
+0.2,"CD4-positive, alpha-beta T cell",0.3004769475357711,791.0
+0.2,double negative T regulatory cell,0.6666666666666666,4.0
+0.2,innate lymphoid cell,0.6666666666666666,16.0
+0.2,natural killer cell,0.6344294003868471,288.0
+0.2,pre-conventional dendritic cell,0.6666666666666666,24.0
+0.3,B cell,0.4566929133858268,75.0
+0.3,"CD4-positive, alpha-beta T cell",0.34967320261437906,791.0
+0.3,double negative T regulatory cell,0.8571428571428571,4.0
+0.3,innate lymphoid cell,0.4,16.0
+0.3,natural killer cell,0.6602316602316602,288.0
+0.3,pre-conventional dendritic cell,0.6923076923076923,24.0
+0.4,B cell,0.5384615384615384,75.0
+0.4,"CD4-positive, alpha-beta T cell",0.3179916317991632,791.0
+0.4,double negative T regulatory cell,0.5714285714285714,4.0
+0.4,innate lymphoid cell,0.6086956521739131,16.0
+0.4,natural killer cell,0.6404494382022472,288.0
+0.4,pre-conventional dendritic cell,0.5945945945945946,24.0
+0.5,B cell,0.4878048780487805,75.0
+0.5,"CD4-positive, alpha-beta T cell",0.32445141065830724,791.0
+0.5,double negative T regulatory cell,0.8571428571428571,4.0
+0.5,innate lymphoid cell,0.6923076923076923,16.0
+0.5,natural killer cell,0.6594202898550725,288.0
+0.5,pre-conventional dendritic cell,0.6818181818181818,24.0
+0.6,B cell,0.49612403100775193,75.0
+0.6,"CD4-positive, alpha-beta T cell",0.35889328063241105,791.0
+0.6,double negative T regulatory cell,0.8571428571428571,4.0
+0.6,innate lymphoid cell,0.7407407407407407,16.0
+0.6,natural killer cell,0.7218045112781954,288.0
+0.6,pre-conventional dendritic cell,0.7441860465116279,24.0
+0.7,B cell,0.5343511450381679,75.0
+0.7,"CD4-positive, alpha-beta T cell",0.31259968102073366,791.0
+0.7,double negative T regulatory cell,1.0,4.0
+0.7,innate lymphoid cell,0.45454545454545453,16.0
+0.7,natural killer cell,0.6705426356589147,288.0
+0.7,pre-conventional dendritic cell,0.6086956521739131,24.0
+0.0,B cell,0.5352112676056338,75.0
+0.0,"CD4-positive, alpha-beta T cell",0.2732811140121845,791.0
+0.0,double negative T regulatory cell,0.8571428571428571,4.0
+0.0,innate lymphoid cell,0.38095238095238093,16.0
+0.0,natural killer cell,0.5195876288659794,288.0
+0.0,pre-conventional dendritic cell,0.7727272727272727,24.0
+0.1,B cell,0.532258064516129,75.0
+0.1,"CD4-positive, alpha-beta T cell",0.305111821086262,791.0
+0.1,double negative T regulatory cell,0.8571428571428571,4.0
+0.1,innate lymphoid cell,0.5454545454545454,16.0
+0.1,natural killer cell,0.644808743169399,288.0
+0.1,pre-conventional dendritic cell,0.6829268292682927,24.0
+0.2,B cell,0.5666666666666667,75.0
+0.2,"CD4-positive, alpha-beta T cell",0.3354632587859425,791.0
+0.2,double negative T regulatory cell,0.8571428571428571,4.0
+0.2,innate lymphoid cell,0.6666666666666666,16.0
+0.2,natural killer cell,0.6971830985915493,288.0
+0.2,pre-conventional dendritic cell,0.8095238095238095,24.0
+0.3,B cell,0.4888888888888889,75.0
+0.3,"CD4-positive, alpha-beta T cell",0.257615317667537,791.0
+0.3,double negative T regulatory cell,0.8571428571428571,4.0
+0.3,innate lymphoid cell,0.6086956521739131,16.0
+0.3,natural killer cell,0.6213592233009708,288.0
+0.3,pre-conventional dendritic cell,0.6829268292682927,24.0
+0.4,B cell,0.4262295081967213,75.0
+0.4,"CD4-positive, alpha-beta T cell",0.35668789808917195,791.0
+0.4,double negative T regulatory cell,1.0,4.0
+0.4,innate lymphoid cell,0.6086956521739131,16.0
+0.4,natural killer cell,0.6869409660107334,288.0
+0.4,pre-conventional dendritic cell,0.55,24.0
+0.5,B cell,0.48333333333333334,75.0
+0.5,"CD4-positive, alpha-beta T cell",0.265531914893617,791.0
+0.5,double negative T regulatory cell,0.8571428571428571,4.0
+0.5,innate lymphoid cell,0.5217391304347826,16.0
+0.5,natural killer cell,0.6830188679245283,288.0
+0.5,pre-conventional dendritic cell,0.7391304347826086,24.0
+0.6,B cell,0.43902439024390244,75.0
+0.6,"CD4-positive, alpha-beta T cell",0.33903830480847597,791.0
+0.6,double negative T regulatory cell,0.8571428571428571,4.0
+0.6,innate lymphoid cell,0.7407407407407407,16.0
+0.6,natural killer cell,0.6329113924050633,288.0
+0.6,pre-conventional dendritic cell,0.723404255319149,24.0
+0.7,B cell,0.41379310344827586,75.0
+0.7,"CD4-positive, alpha-beta T cell",0.3251231527093596,791.0
+0.7,double negative T regulatory cell,0.6666666666666666,4.0
+0.7,innate lymphoid cell,0.6428571428571429,16.0
+0.7,natural killer cell,0.655367231638418,288.0
+0.7,pre-conventional dendritic cell,0.6666666666666666,24.0
+0.8,B cell,0.46551724137931033,75.0
+0.8,"CD4-positive, alpha-beta T cell",0.2937853107344633,791.0
+0.8,double negative T regulatory cell,0.6666666666666666,4.0
+0.8,innate lymphoid cell,0.5833333333333334,16.0
+0.8,natural killer cell,0.6191369606003753,288.0
+0.8,pre-conventional dendritic cell,0.7727272727272727,24.0
+0.9,B cell,0.5263157894736842,75.0
+0.9,"CD4-positive, alpha-beta T cell",0.3276283618581907,791.0
+0.9,double negative T regulatory cell,0.75,4.0
+0.9,innate lymphoid cell,0.6153846153846154,16.0
+0.9,natural killer cell,0.6755218216318786,288.0
+0.9,pre-conventional dendritic cell,0.6222222222222222,24.0
+1.0,B cell,0.42276422764227645,75.0
+1.0,"CD4-positive, alpha-beta T cell",0.3370253164556962,791.0
+1.0,double negative T regulatory cell,1.0,4.0
+1.0,innate lymphoid cell,0.64,16.0
+1.0,natural killer cell,0.6755218216318786,288.0
+1.0,pre-conventional dendritic cell,0.6829268292682927,24.0
+0.0,B cell,0.5081967213114754,75.0
+0.0,"CD4-positive, alpha-beta T cell",0.2995744680851064,791.0
+0.0,double negative T regulatory cell,0.8571428571428571,4.0
+0.0,innate lymphoid cell,0.6086956521739131,16.0
+0.0,natural killer cell,0.5416666666666666,288.0
+0.0,pre-conventional dendritic cell,0.7755102040816326,24.0
+0.1,B cell,0.4918032786885246,75.0
+0.1,"CD4-positive, alpha-beta T cell",0.34991708126036486,791.0
+0.1,double negative T regulatory cell,0.8571428571428571,4.0
+0.1,innate lymphoid cell,0.72,16.0
+0.1,natural killer cell,0.6833013435700576,288.0
+0.1,pre-conventional dendritic cell,0.6842105263157895,24.0
+0.2,B cell,0.5528455284552846,75.0
+0.2,"CD4-positive, alpha-beta T cell",0.35714285714285715,791.0
+0.2,double negative T regulatory cell,0.8571428571428571,4.0
+0.2,innate lymphoid cell,0.5454545454545454,16.0
+0.2,natural killer cell,0.6469428007889546,288.0
+0.2,pre-conventional dendritic cell,0.7142857142857143,24.0
+0.3,B cell,0.5040650406504065,75.0
+0.3,"CD4-positive, alpha-beta T cell",0.3511326860841424,791.0
+0.3,double negative T regulatory cell,0.8571428571428571,4.0
+0.3,innate lymphoid cell,0.64,16.0
+0.3,natural killer cell,0.6500956022944551,288.0
+0.3,pre-conventional dendritic cell,0.6222222222222222,24.0
+0.4,B cell,0.453125,75.0
+0.4,"CD4-positive, alpha-beta T cell",0.3194675540765391,791.0
+0.4,double negative T regulatory cell,0.8571428571428571,4.0
+0.4,innate lymphoid cell,0.64,16.0
+0.4,natural killer cell,0.6642066420664207,288.0
+0.4,pre-conventional dendritic cell,0.6111111111111112,24.0
+0.5,B cell,0.5671641791044776,75.0
+0.5,"CD4-positive, alpha-beta T cell",0.295221843003413,791.0
+0.5,double negative T regulatory cell,0.8571428571428571,4.0
+0.5,innate lymphoid cell,0.64,16.0
+0.5,natural killer cell,0.66,288.0
+0.5,pre-conventional dendritic cell,0.7555555555555555,24.0
+0.6,B cell,0.4838709677419355,75.0
+0.6,"CD4-positive, alpha-beta T cell",0.359375,791.0
+0.6,double negative T regulatory cell,0.8571428571428571,4.0
+0.6,innate lymphoid cell,0.5454545454545454,16.0
+0.6,natural killer cell,0.6846846846846847,288.0
+0.6,pre-conventional dendritic cell,0.6956521739130435,24.0
+0.7,B cell,0.515625,75.0
+0.7,"CD4-positive, alpha-beta T cell",0.3610223642172524,791.0
+0.7,double negative T regulatory cell,0.8571428571428571,4.0
+0.7,innate lymphoid cell,0.6153846153846154,16.0
+0.7,natural killer cell,0.6964618249534451,288.0
+0.7,pre-conventional dendritic cell,0.723404255319149,24.0
+0.8,B cell,0.5147058823529411,75.0
+0.8,"CD4-positive, alpha-beta T cell",0.3264291632145816,791.0
+0.8,double negative T regulatory cell,0.8571428571428571,4.0
+0.8,innate lymphoid cell,0.56,16.0
+0.8,natural killer cell,0.6892655367231638,288.0
+0.8,pre-conventional dendritic cell,0.723404255319149,24.0
+0.9,B cell,0.4461538461538462,75.0
+0.9,"CD4-positive, alpha-beta T cell",0.34548335974643424,791.0
+0.9,double negative T regulatory cell,0.8571428571428571,4.0
+0.9,innate lymphoid cell,0.72,16.0
+0.9,natural killer cell,0.669260700389105,288.0
+0.9,pre-conventional dendritic cell,0.6666666666666666,24.0
+1.0,B cell,0.4411764705882353,75.0
+1.0,"CD4-positive, alpha-beta T cell",0.3395012067578439,791.0
+1.0,double negative T regulatory cell,0.8571428571428571,4.0
+1.0,innate lymphoid cell,0.64,16.0
+1.0,natural killer cell,0.6754716981132075,288.0
+1.0,pre-conventional dendritic cell,0.7142857142857143,24.0
+0.0,B cell,0.4722222222222222,75.0
+0.0,"CD4-positive, alpha-beta T cell",0.33694745621351124,791.0
+0.0,double negative T regulatory cell,0.5714285714285714,4.0
+0.0,innate lymphoid cell,0.64,16.0
+0.0,natural killer cell,0.6536964980544747,288.0
+0.0,pre-conventional dendritic cell,0.7804878048780488,24.0
+0.1,B cell,0.4827586206896552,75.0
+0.1,"CD4-positive, alpha-beta T cell",0.2649122807017544,791.0
+0.1,double negative T regulatory cell,0.5714285714285714,4.0
+0.1,innate lymphoid cell,0.5454545454545454,16.0
+0.1,natural killer cell,0.6059322033898306,288.0
+0.1,pre-conventional dendritic cell,0.7,24.0
+0.2,B cell,0.41818181818181815,75.0
+0.2,"CD4-positive, alpha-beta T cell",0.2777307366638442,791.0
+0.2,double negative T regulatory cell,0.8571428571428571,4.0
+0.2,innate lymphoid cell,0.72,16.0
+0.2,natural killer cell,0.5625,288.0
+0.2,pre-conventional dendritic cell,0.5142857142857142,24.0
+0.3,B cell,0.5555555555555556,75.0
+0.3,"CD4-positive, alpha-beta T cell",0.33169934640522875,791.0
+0.3,double negative T regulatory cell,0.8571428571428571,4.0
+0.3,innate lymphoid cell,0.47619047619047616,16.0
+0.3,natural killer cell,0.6990654205607477,288.0
+0.3,pre-conventional dendritic cell,0.6486486486486487,24.0
+0.4,B cell,0.5230769230769231,75.0
+0.4,"CD4-positive, alpha-beta T cell",0.3040650406504065,791.0
+0.4,double negative T regulatory cell,0.8571428571428571,4.0
+0.4,innate lymphoid cell,0.64,16.0
+0.4,natural killer cell,0.6256983240223464,288.0
+0.4,pre-conventional dendritic cell,0.6046511627906976,24.0
+0.5,B cell,0.4878048780487805,75.0
+0.5,"CD4-positive, alpha-beta T cell",0.3376413570274637,791.0
+0.5,double negative T regulatory cell,0.75,4.0
+0.5,innate lymphoid cell,0.4827586206896552,16.0
+0.5,natural killer cell,0.6846846846846847,288.0
+0.5,pre-conventional dendritic cell,0.7142857142857143,24.0
+0.6,B cell,0.4496124031007752,75.0
+0.6,"CD4-positive, alpha-beta T cell",0.30143945808636746,791.0
+0.6,double negative T regulatory cell,0.8571428571428571,4.0
+0.6,innate lymphoid cell,0.5833333333333334,16.0
+0.6,natural killer cell,0.6192170818505338,288.0
+0.6,pre-conventional dendritic cell,0.5555555555555556,24.0
+0.7,B cell,0.5185185185185185,75.0
+0.7,"CD4-positive, alpha-beta T cell",0.34775641025641024,791.0
+0.7,double negative T regulatory cell,0.8571428571428571,4.0
+0.7,innate lymphoid cell,0.6666666666666666,16.0
+0.7,natural killer cell,0.6654135338345865,288.0
+0.7,pre-conventional dendritic cell,0.6086956521739131,24.0
+0.8,B cell,0.4626865671641791,75.0
+0.8,"CD4-positive, alpha-beta T cell",0.3371150729335494,791.0
+0.8,double negative T regulatory cell,0.8571428571428571,4.0
+0.8,innate lymphoid cell,0.48,16.0
+0.8,natural killer cell,0.6739526411657559,288.0
+0.8,pre-conventional dendritic cell,0.6153846153846154,24.0
+0.9,B cell,0.47619047619047616,75.0
+0.9,"CD4-positive, alpha-beta T cell",0.30618892508143325,791.0
+0.9,double negative T regulatory cell,0.8571428571428571,4.0
+0.9,innate lymphoid cell,0.6923076923076923,16.0
+0.9,natural killer cell,0.6603415559772297,288.0
+0.9,pre-conventional dendritic cell,0.6818181818181818,24.0
+1.0,B cell,0.48854961832061067,75.0
+1.0,"CD4-positive, alpha-beta T cell",0.3396825396825397,791.0
+1.0,double negative T regulatory cell,0.6666666666666666,4.0
+1.0,innate lymphoid cell,0.7692307692307693,16.0
+1.0,natural killer cell,0.6730769230769231,288.0
+1.0,pre-conventional dendritic cell,0.6,24.0
+0.0,B cell,0.4838709677419355,75.0
+0.0,"CD4-positive, alpha-beta T cell",0.2763507528786537,791.0
+0.0,double negative T regulatory cell,0.6666666666666666,4.0
+0.0,innate lymphoid cell,0.5454545454545454,16.0
+0.0,natural killer cell,0.5362903225806451,288.0
+0.0,pre-conventional dendritic cell,0.7027027027027027,24.0
+0.1,B cell,0.4426229508196721,75.0
+0.1,"CD4-positive, alpha-beta T cell",0.3241491085899514,791.0
+0.1,double negative T regulatory cell,0.8571428571428571,4.0
+0.1,innate lymphoid cell,0.7142857142857143,16.0
+0.1,natural killer cell,0.685823754789272,288.0
+0.1,pre-conventional dendritic cell,0.5,24.0
+0.2,B cell,0.509090909090909,75.0
+0.2,"CD4-positive, alpha-beta T cell",0.29526916802610115,791.0
+0.2,double negative T regulatory cell,0.8571428571428571,4.0
+0.2,innate lymphoid cell,0.6923076923076923,16.0
+0.2,natural killer cell,0.6753731343283582,288.0
+0.2,pre-conventional dendritic cell,0.7317073170731707,24.0
+0.3,B cell,0.44274809160305345,75.0
+0.3,"CD4-positive, alpha-beta T cell",0.3368940016433854,791.0
+0.3,double negative T regulatory cell,1.0,4.0
+0.3,innate lymphoid cell,0.6086956521739131,16.0
+0.3,natural killer cell,0.6854990583804144,288.0
+0.3,pre-conventional dendritic cell,0.7727272727272727,24.0
+0.4,B cell,0.5384615384615384,75.0
+0.4,"CD4-positive, alpha-beta T cell",0.3418241577649959,791.0
+0.4,double negative T regulatory cell,0.6666666666666666,4.0
+0.4,innate lymphoid cell,0.45454545454545453,16.0
+0.4,natural killer cell,0.6766355140186916,288.0
+0.4,pre-conventional dendritic cell,0.7317073170731707,24.0
+0.5,B cell,0.5116279069767442,75.0
+0.5,"CD4-positive, alpha-beta T cell",0.3467741935483871,791.0
+0.5,double negative T regulatory cell,0.8571428571428571,4.0
+0.5,innate lymphoid cell,0.5833333333333334,16.0
+0.5,natural killer cell,0.717948717948718,288.0
+0.5,pre-conventional dendritic cell,0.6521739130434783,24.0
+0.6,B cell,0.421875,75.0
+0.6,"CD4-positive, alpha-beta T cell",0.3147208121827411,791.0
+0.6,double negative T regulatory cell,0.8571428571428571,4.0
+0.6,innate lymphoid cell,0.5833333333333334,16.0
+0.6,natural killer cell,0.5807692307692308,288.0
+0.6,pre-conventional dendritic cell,0.7346938775510204,24.0
+0.7,B cell,0.4603174603174603,75.0
+0.7,"CD4-positive, alpha-beta T cell",0.2826086956521739,791.0
+0.7,double negative T regulatory cell,0.75,4.0
+0.7,innate lymphoid cell,0.45454545454545453,16.0
+0.7,natural killer cell,0.6170212765957447,288.0
+0.7,pre-conventional dendritic cell,0.5909090909090909,24.0
+0.8,B cell,0.4732824427480916,75.0
+0.8,"CD4-positive, alpha-beta T cell",0.3363119415109667,791.0
+0.8,double negative T regulatory cell,0.8571428571428571,4.0
+0.8,innate lymphoid cell,0.5925925925925926,16.0
+0.8,natural killer cell,0.6468401486988847,288.0
+0.8,pre-conventional dendritic cell,0.6190476190476191,24.0
+0.9,B cell,0.46153846153846156,75.0
+0.9,"CD4-positive, alpha-beta T cell",0.33197721724979656,791.0
+0.9,double negative T regulatory cell,0.8571428571428571,4.0
+0.9,innate lymphoid cell,0.6923076923076923,16.0
+0.9,natural killer cell,0.6640625,288.0
+0.9,pre-conventional dendritic cell,0.7441860465116279,24.0
+1.0,B cell,0.4409448818897638,75.0
+1.0,"CD4-positive, alpha-beta T cell",0.3395012067578439,791.0
+1.0,double negative T regulatory cell,0.75,4.0
+1.0,innate lymphoid cell,0.7142857142857143,16.0
+1.0,natural killer cell,0.6753731343283582,288.0
+1.0,pre-conventional dendritic cell,0.6818181818181818,24.0
+0.0,B cell,0.4444444444444444,75.0
+0.0,"CD4-positive, alpha-beta T cell",0.2887612797374898,791.0
+0.0,double negative T regulatory cell,0.8571428571428571,4.0
+0.0,innate lymphoid cell,0.47619047619047616,16.0
+0.0,natural killer cell,0.6182572614107884,288.0
+0.0,pre-conventional dendritic cell,0.6842105263157895,24.0
+0.1,B cell,0.5161290322580645,75.0
+0.1,"CD4-positive, alpha-beta T cell",0.3152,791.0
+0.1,double negative T regulatory cell,0.8571428571428571,4.0
+0.1,innate lymphoid cell,0.36363636363636365,16.0
+0.1,natural killer cell,0.7135135135135136,288.0
+0.1,pre-conventional dendritic cell,0.6666666666666666,24.0
+0.2,B cell,0.48739495798319327,75.0
+0.2,"CD4-positive, alpha-beta T cell",0.27943760984182775,791.0
+0.2,double negative T regulatory cell,0.6666666666666666,4.0
+0.2,innate lymphoid cell,0.56,16.0
+0.2,natural killer cell,0.5821205821205822,288.0
+0.2,pre-conventional dendritic cell,0.6046511627906976,24.0
+0.3,B cell,0.5076923076923077,75.0
+0.3,"CD4-positive, alpha-beta T cell",0.2982758620689655,791.0
+0.3,double negative T regulatory cell,0.4,4.0
+0.3,innate lymphoid cell,0.6086956521739131,16.0
+0.3,natural killer cell,0.6260162601626016,288.0
+0.3,pre-conventional dendritic cell,0.631578947368421,24.0
+0.4,B cell,0.5528455284552846,75.0
+0.4,"CD4-positive, alpha-beta T cell",0.34290271132376393,791.0
+0.4,double negative T regulatory cell,0.8571428571428571,4.0
+0.4,innate lymphoid cell,0.5454545454545454,16.0
+0.4,natural killer cell,0.6877323420074349,288.0
+0.4,pre-conventional dendritic cell,0.5714285714285714,24.0
+0.5,B cell,0.4666666666666667,75.0
+0.5,"CD4-positive, alpha-beta T cell",0.35614179719703215,791.0
+0.5,double negative T regulatory cell,0.75,4.0
+0.5,innate lymphoid cell,0.6428571428571429,16.0
+0.5,natural killer cell,0.704331450094162,288.0
+0.5,pre-conventional dendritic cell,0.6829268292682927,24.0
+0.6,B cell,0.46153846153846156,75.0
+0.6,"CD4-positive, alpha-beta T cell",0.35074045206547155,791.0
+0.6,double negative T regulatory cell,0.8571428571428571,4.0
+0.6,innate lymphoid cell,0.6086956521739131,16.0
+0.6,natural killer cell,0.6642468239564429,288.0
+0.6,pre-conventional dendritic cell,0.55,24.0
+0.7,B cell,0.43548387096774194,75.0
+0.7,"CD4-positive, alpha-beta T cell",0.3156225218080888,791.0
+0.7,double negative T regulatory cell,0.6666666666666666,4.0
+0.7,innate lymphoid cell,0.72,16.0
+0.7,natural killer cell,0.640926640926641,288.0
+0.7,pre-conventional dendritic cell,0.7142857142857143,24.0
+0.8,B cell,0.4461538461538462,75.0
+0.8,"CD4-positive, alpha-beta T cell",0.34551495016611294,791.0
+0.8,double negative T regulatory cell,0.8571428571428571,4.0
+0.8,innate lymphoid cell,0.5384615384615384,16.0
+0.8,natural killer cell,0.6449136276391555,288.0
+0.8,pre-conventional dendritic cell,0.6956521739130435,24.0
+0.9,B cell,0.43333333333333335,75.0
+0.9,"CD4-positive, alpha-beta T cell",0.3348909657320872,791.0
+0.9,double negative T regulatory cell,1.0,4.0
+0.9,innate lymphoid cell,0.6666666666666666,16.0
+0.9,natural killer cell,0.6252285191956124,288.0
+0.9,pre-conventional dendritic cell,0.7142857142857143,24.0
+1.0,B cell,0.4696969696969697,75.0
+1.0,"CD4-positive, alpha-beta T cell",0.34022257551669316,791.0
+1.0,double negative T regulatory cell,0.8571428571428571,4.0
+1.0,innate lymphoid cell,0.7142857142857143,16.0
+1.0,natural killer cell,0.651252408477842,288.0
+1.0,pre-conventional dendritic cell,0.6976744186046512,24.0
+0.0,B cell,0.5454545454545454,75.0
+0.0,"CD4-positive, alpha-beta T cell",0.2903225806451613,791.0
+0.0,double negative T regulatory cell,0.6666666666666666,4.0
+0.0,innate lymphoid cell,0.6086956521739131,16.0
+0.0,natural killer cell,0.6514285714285715,288.0
+0.0,pre-conventional dendritic cell,0.8095238095238095,24.0
+0.1,B cell,0.5161290322580645,75.0
+0.1,"CD4-positive, alpha-beta T cell",0.2878787878787879,791.0
+0.1,double negative T regulatory cell,0.6666666666666666,4.0
+0.1,innate lymphoid cell,0.5833333333333334,16.0
+0.1,natural killer cell,0.5720250521920668,288.0
+0.1,pre-conventional dendritic cell,0.6341463414634146,24.0
+0.2,B cell,0.5037037037037037,75.0
+0.2,"CD4-positive, alpha-beta T cell",0.3076923076923077,791.0
+0.2,double negative T regulatory cell,0.8888888888888888,4.0
+0.2,innate lymphoid cell,0.64,16.0
+0.2,natural killer cell,0.6029411764705882,288.0
+0.2,pre-conventional dendritic cell,0.6486486486486487,24.0
+0.3,B cell,0.5196850393700787,75.0
+0.3,"CD4-positive, alpha-beta T cell",0.35180722891566263,791.0
+0.3,double negative T regulatory cell,0.8571428571428571,4.0
+0.3,innate lymphoid cell,0.72,16.0
+0.3,natural killer cell,0.6370370370370371,288.0
+0.3,pre-conventional dendritic cell,0.5789473684210527,24.0
+0.4,B cell,0.5409836065573771,75.0
+0.4,"CD4-positive, alpha-beta T cell",0.3158756137479542,791.0
+0.4,double negative T regulatory cell,0.8571428571428571,4.0
+0.4,innate lymphoid cell,0.5833333333333334,16.0
+0.4,natural killer cell,0.6856060606060606,288.0
+0.4,pre-conventional dendritic cell,0.5128205128205128,24.0
+0.5,B cell,0.5384615384615384,75.0
+0.5,"CD4-positive, alpha-beta T cell",0.37094281298299847,791.0
+0.5,double negative T regulatory cell,1.0,4.0
+0.5,innate lymphoid cell,0.5925925925925926,16.0
+0.5,natural killer cell,0.7161410018552876,288.0
+0.5,pre-conventional dendritic cell,0.5454545454545454,24.0
+0.6,B cell,0.4838709677419355,75.0
+0.6,"CD4-positive, alpha-beta T cell",0.34432823813354785,791.0
+0.6,double negative T regulatory cell,0.8571428571428571,4.0
+0.6,innate lymphoid cell,0.64,16.0
+0.6,natural killer cell,0.7142857142857143,288.0
+0.6,pre-conventional dendritic cell,0.5945945945945946,24.0
+0.7,B cell,0.5203252032520326,75.0
+0.7,"CD4-positive, alpha-beta T cell",0.3118811881188119,791.0
+0.7,double negative T regulatory cell,0.6666666666666666,4.0
+0.7,innate lymphoid cell,0.72,16.0
+0.7,natural killer cell,0.6372360844529751,288.0
+0.7,pre-conventional dendritic cell,0.5365853658536586,24.0
+0.8,B cell,0.4881889763779528,75.0
+0.8,"CD4-positive, alpha-beta T cell",0.33495145631067963,791.0
+0.8,double negative T regulatory cell,0.8888888888888888,4.0
+0.8,innate lymphoid cell,0.6666666666666666,16.0
+0.8,natural killer cell,0.6501901140684411,288.0
+0.8,pre-conventional dendritic cell,0.6382978723404256,24.0
+0.9,B cell,0.47540983606557374,75.0
+0.9,"CD4-positive, alpha-beta T cell",0.33468067906224735,791.0
+0.9,double negative T regulatory cell,0.8571428571428571,4.0
+0.9,innate lymphoid cell,0.6666666666666666,16.0
+0.9,natural killer cell,0.6389413988657845,288.0
+0.9,pre-conventional dendritic cell,0.6511627906976745,24.0
+1.0,B cell,0.43548387096774194,75.0
+1.0,"CD4-positive, alpha-beta T cell",0.3376413570274637,791.0
+1.0,double negative T regulatory cell,0.8571428571428571,4.0
+1.0,innate lymphoid cell,0.6896551724137931,16.0
+1.0,natural killer cell,0.6730038022813688,288.0
+1.0,pre-conventional dendritic cell,0.6818181818181818,24.0
+0.0,B cell,0.48,75.0
+0.0,"CD4-positive, alpha-beta T cell",0.3017241379310345,791.0
+0.0,double negative T regulatory cell,0.4,4.0
+0.0,innate lymphoid cell,0.5833333333333334,16.0
+0.0,natural killer cell,0.6236162361623616,288.0
+0.0,pre-conventional dendritic cell,0.6111111111111112,24.0
+0.1,B cell,0.48739495798319327,75.0
+0.1,"CD4-positive, alpha-beta T cell",0.29124579124579125,791.0
+0.1,double negative T regulatory cell,0.6666666666666666,4.0
+0.1,innate lymphoid cell,0.6086956521739131,16.0
+0.1,natural killer cell,0.6551059730250481,288.0
+0.1,pre-conventional dendritic cell,0.6363636363636364,24.0
+0.2,B cell,0.5161290322580645,75.0
+0.2,"CD4-positive, alpha-beta T cell",0.33440514469453375,791.0
+0.2,double negative T regulatory cell,0.8571428571428571,4.0
+0.2,innate lymphoid cell,0.5217391304347826,16.0
+0.2,natural killer cell,0.703770197486535,288.0
+0.2,pre-conventional dendritic cell,0.6222222222222222,24.0
+0.3,B cell,0.4878048780487805,75.0
+0.3,"CD4-positive, alpha-beta T cell",0.2983050847457627,791.0
+0.3,double negative T regulatory cell,1.0,4.0
+0.3,innate lymphoid cell,0.6086956521739131,16.0
+0.3,natural killer cell,0.655367231638418,288.0
+0.3,pre-conventional dendritic cell,0.7441860465116279,24.0
+0.4,B cell,0.5384615384615384,75.0
+0.4,"CD4-positive, alpha-beta T cell",0.3441033925686591,791.0
+0.4,double negative T regulatory cell,0.8571428571428571,4.0
+0.4,innate lymphoid cell,0.6666666666666666,16.0
+0.4,natural killer cell,0.6641651031894934,288.0
+0.4,pre-conventional dendritic cell,0.7619047619047619,24.0
+0.5,B cell,0.47863247863247865,75.0
+0.5,"CD4-positive, alpha-beta T cell",0.3379366368805849,791.0
+0.5,double negative T regulatory cell,0.8571428571428571,4.0
+0.5,innate lymphoid cell,0.6666666666666666,16.0
+0.5,natural killer cell,0.6337760910815939,288.0
+0.5,pre-conventional dendritic cell,0.5945945945945946,24.0
+0.6,B cell,0.5196850393700787,75.0
+0.6,"CD4-positive, alpha-beta T cell",0.3485943775100402,791.0
+0.6,double negative T regulatory cell,0.75,4.0
+0.6,innate lymphoid cell,0.6666666666666666,16.0
+0.6,natural killer cell,0.6742424242424242,288.0
+0.6,pre-conventional dendritic cell,0.6,24.0
+0.7,B cell,0.46551724137931033,75.0
+0.7,"CD4-positive, alpha-beta T cell",0.3397745571658615,791.0
+0.7,double negative T regulatory cell,0.75,4.0
+0.7,innate lymphoid cell,0.64,16.0
+0.7,natural killer cell,0.6393762183235867,288.0
+0.7,pre-conventional dendritic cell,0.65,24.0
+0.8,B cell,0.45925925925925926,75.0
+0.8,"CD4-positive, alpha-beta T cell",0.2966666666666667,791.0
+0.8,double negative T regulatory cell,0.8888888888888888,4.0
+0.8,innate lymphoid cell,0.6923076923076923,16.0
+0.8,natural killer cell,0.6666666666666666,288.0
+0.8,pre-conventional dendritic cell,0.7619047619047619,24.0
+0.9,B cell,0.43103448275862066,75.0
+0.9,"CD4-positive, alpha-beta T cell",0.32854864433811803,791.0
+0.9,double negative T regulatory cell,1.0,4.0
+0.9,innate lymphoid cell,0.56,16.0
+0.9,natural killer cell,0.6666666666666666,288.0
+0.9,pre-conventional dendritic cell,0.7755102040816326,24.0
+1.0,B cell,0.48484848484848486,75.0
+1.0,"CD4-positive, alpha-beta T cell",0.3325301204819277,791.0
+1.0,double negative T regulatory cell,0.8571428571428571,4.0
+1.0,innate lymphoid cell,0.7407407407407407,16.0
+1.0,natural killer cell,0.688588007736944,288.0
+1.0,pre-conventional dendritic cell,0.6341463414634146,24.0
+0.0,B cell,0.49206349206349204,75.0
+0.0,"CD4-positive, alpha-beta T cell",0.29636048526863085,791.0
+0.0,double negative T regulatory cell,0.6666666666666666,4.0
+0.0,innate lymphoid cell,0.72,16.0
+0.0,natural killer cell,0.6105675146771037,288.0
+0.0,pre-conventional dendritic cell,0.717948717948718,24.0
+0.1,B cell,0.47540983606557374,75.0
+0.1,"CD4-positive, alpha-beta T cell",0.3079470198675497,791.0
+0.1,double negative T regulatory cell,0.6666666666666666,4.0
+0.1,innate lymphoid cell,0.38095238095238093,16.0
+0.1,natural killer cell,0.6017699115044248,288.0
+0.1,pre-conventional dendritic cell,0.5789473684210527,24.0
+0.2,B cell,0.5040650406504065,75.0
+0.2,"CD4-positive, alpha-beta T cell",0.3458021612635079,791.0
+0.2,double negative T regulatory cell,0.75,4.0
+0.2,innate lymphoid cell,0.5217391304347826,16.0
+0.2,natural killer cell,0.6407407407407407,288.0
+0.2,pre-conventional dendritic cell,0.5945945945945946,24.0
+0.3,B cell,0.4462809917355372,75.0
+0.3,"CD4-positive, alpha-beta T cell",0.3175394846217789,791.0
+0.3,double negative T regulatory cell,0.6666666666666666,4.0
+0.3,innate lymphoid cell,0.4,16.0
+0.3,natural killer cell,0.6370967741935484,288.0
+0.3,pre-conventional dendritic cell,0.65,24.0
+0.4,B cell,0.45528455284552843,75.0
+0.4,"CD4-positive, alpha-beta T cell",0.3349673202614379,791.0
+0.4,double negative T regulatory cell,0.8571428571428571,4.0
+0.4,innate lymphoid cell,0.6666666666666666,16.0
+0.4,natural killer cell,0.6210720887245841,288.0
+0.4,pre-conventional dendritic cell,0.6808510638297872,24.0
+0.5,B cell,0.5,75.0
+0.5,"CD4-positive, alpha-beta T cell",0.345266507557677,791.0
+0.5,double negative T regulatory cell,0.8571428571428571,4.0
+0.5,innate lymphoid cell,0.5454545454545454,16.0
+0.5,natural killer cell,0.6893939393939394,288.0
+0.5,pre-conventional dendritic cell,0.6666666666666666,24.0
+0.6,B cell,0.4666666666666667,75.0
+0.6,"CD4-positive, alpha-beta T cell",0.3239202657807309,791.0
+0.6,double negative T regulatory cell,0.8571428571428571,4.0
+0.6,innate lymphoid cell,0.72,16.0
+0.6,natural killer cell,0.6784313725490196,288.0
+0.6,pre-conventional dendritic cell,0.782608695652174,24.0
+0.7,B cell,0.464,75.0
+0.7,"CD4-positive, alpha-beta T cell",0.3424980361351139,791.0
+0.7,double negative T regulatory cell,0.8571428571428571,4.0
+0.7,innate lymphoid cell,0.625,16.0
+0.7,natural killer cell,0.6493055555555556,288.0
+0.7,pre-conventional dendritic cell,0.7555555555555555,24.0
+0.8,B cell,0.4426229508196721,75.0
+0.8,"CD4-positive, alpha-beta T cell",0.3074380165289256,791.0
+0.8,double negative T regulatory cell,0.8571428571428571,4.0
+0.8,innate lymphoid cell,0.6666666666666666,16.0
+0.8,natural killer cell,0.6539196940726577,288.0
+0.8,pre-conventional dendritic cell,0.6818181818181818,24.0
+0.9,B cell,0.4461538461538462,75.0
+0.9,"CD4-positive, alpha-beta T cell",0.3267248215701824,791.0
+0.9,double negative T regulatory cell,0.75,4.0
+0.9,innate lymphoid cell,0.6153846153846154,16.0
+0.9,natural killer cell,0.6486486486486487,288.0
+0.9,pre-conventional dendritic cell,0.7555555555555555,24.0
+1.0,B cell,0.4603174603174603,75.0
+1.0,"CD4-positive, alpha-beta T cell",0.3449920508744038,791.0
+1.0,double negative T regulatory cell,0.8571428571428571,4.0
+1.0,innate lymphoid cell,0.6896551724137931,16.0
+1.0,natural killer cell,0.6819047619047619,288.0
+1.0,pre-conventional dendritic cell,0.6363636363636364,24.0
+0.0,B cell,0.484375,75.0
+0.0,"CD4-positive, alpha-beta T cell",0.3025768911055694,791.0
+0.0,double negative T regulatory cell,0.8571428571428571,4.0
+0.0,innate lymphoid cell,0.56,16.0
+0.0,natural killer cell,0.5887445887445888,288.0
+0.0,pre-conventional dendritic cell,0.6341463414634146,24.0
+0.1,B cell,0.5079365079365079,75.0
+0.1,"CD4-positive, alpha-beta T cell",0.30572160546541416,791.0
+0.1,double negative T regulatory cell,0.5714285714285714,4.0
+0.1,innate lymphoid cell,0.7142857142857143,16.0
+0.1,natural killer cell,0.5918762088974855,288.0
+0.1,pre-conventional dendritic cell,0.5853658536585366,24.0
+0.2,B cell,0.48333333333333334,75.0
+0.2,"CD4-positive, alpha-beta T cell",0.29535864978902954,791.0
+0.2,double negative T regulatory cell,0.8571428571428571,4.0
+0.2,innate lymphoid cell,0.6086956521739131,16.0
+0.2,natural killer cell,0.6212121212121212,288.0
+0.2,pre-conventional dendritic cell,0.6666666666666666,24.0
+0.3,B cell,0.4918032786885246,75.0
+0.3,"CD4-positive, alpha-beta T cell",0.29293809938971227,791.0
+0.3,double negative T regulatory cell,0.6666666666666666,4.0
+0.3,innate lymphoid cell,0.5217391304347826,16.0
+0.3,natural killer cell,0.5864077669902913,288.0
+0.3,pre-conventional dendritic cell,0.8260869565217391,24.0
+0.4,B cell,0.512396694214876,75.0
+0.4,"CD4-positive, alpha-beta T cell",0.3300970873786408,791.0
+0.4,double negative T regulatory cell,0.8571428571428571,4.0
+0.4,innate lymphoid cell,0.47619047619047616,16.0
+0.4,natural killer cell,0.6895161290322581,288.0
+0.4,pre-conventional dendritic cell,0.7619047619047619,24.0
+0.5,B cell,0.578125,75.0
+0.5,"CD4-positive, alpha-beta T cell",0.35674822415153906,791.0
+0.5,double negative T regulatory cell,0.8571428571428571,4.0
+0.5,innate lymphoid cell,0.45454545454545453,16.0
+0.5,natural killer cell,0.6539196940726577,288.0
+0.5,pre-conventional dendritic cell,0.631578947368421,24.0
+0.6,B cell,0.5423728813559322,75.0
+0.6,"CD4-positive, alpha-beta T cell",0.30983606557377047,791.0
+0.6,double negative T regulatory cell,0.8571428571428571,4.0
+0.6,innate lymphoid cell,0.6153846153846154,16.0
+0.6,natural killer cell,0.6490566037735849,288.0
+0.6,pre-conventional dendritic cell,0.5777777777777777,24.0
+0.7,B cell,0.46616541353383456,75.0
+0.7,"CD4-positive, alpha-beta T cell",0.32535094962840627,791.0
+0.7,double negative T regulatory cell,0.8571428571428571,4.0
+0.7,innate lymphoid cell,0.5384615384615384,16.0
+0.7,natural killer cell,0.6514285714285715,288.0
+0.7,pre-conventional dendritic cell,0.6190476190476191,24.0
+0.8,B cell,0.5285714285714286,75.0
+0.8,"CD4-positive, alpha-beta T cell",0.32606941081517354,791.0
+0.8,double negative T regulatory cell,1.0,4.0
+0.8,innate lymphoid cell,0.6666666666666666,16.0
+0.8,natural killer cell,0.6692015209125475,288.0
+0.8,pre-conventional dendritic cell,0.6976744186046512,24.0
+0.9,B cell,0.4409448818897638,75.0
+0.9,"CD4-positive, alpha-beta T cell",0.30781627719580984,791.0
+0.9,double negative T regulatory cell,0.75,4.0
+0.9,innate lymphoid cell,0.6153846153846154,16.0
+0.9,natural killer cell,0.6387832699619772,288.0
+0.9,pre-conventional dendritic cell,0.6666666666666666,24.0
+0.0,B cell,0.5352112676056338,75.0
+0.0,"CD4-positive, alpha-beta T cell",0.2732811140121845,791.0
+0.0,double negative T regulatory cell,0.8571428571428571,4.0
+0.0,innate lymphoid cell,0.38095238095238093,16.0
+0.0,natural killer cell,0.5195876288659794,288.0
+0.0,pre-conventional dendritic cell,0.7727272727272727,24.0
+0.1,B cell,0.532258064516129,75.0
+0.1,"CD4-positive, alpha-beta T cell",0.305111821086262,791.0
+0.1,double negative T regulatory cell,0.8571428571428571,4.0
+0.1,innate lymphoid cell,0.5454545454545454,16.0
+0.1,natural killer cell,0.644808743169399,288.0
+0.1,pre-conventional dendritic cell,0.6829268292682927,24.0
+0.2,B cell,0.5666666666666667,75.0
+0.2,"CD4-positive, alpha-beta T cell",0.3354632587859425,791.0
+0.2,double negative T regulatory cell,0.8571428571428571,4.0
+0.2,innate lymphoid cell,0.6666666666666666,16.0
+0.2,natural killer cell,0.6971830985915493,288.0
+0.2,pre-conventional dendritic cell,0.7906976744186046,24.0
+0.3,B cell,0.4888888888888889,75.0
+0.3,"CD4-positive, alpha-beta T cell",0.257615317667537,791.0
+0.3,double negative T regulatory cell,0.8571428571428571,4.0
+0.3,innate lymphoid cell,0.6086956521739131,16.0
+0.3,natural killer cell,0.624031007751938,288.0
+0.3,pre-conventional dendritic cell,0.6829268292682927,24.0
+0.4,B cell,0.4262295081967213,75.0
+0.4,"CD4-positive, alpha-beta T cell",0.35668789808917195,791.0
+0.4,double negative T regulatory cell,1.0,4.0
+0.4,innate lymphoid cell,0.6086956521739131,16.0
+0.4,natural killer cell,0.6892857142857143,288.0
+0.4,pre-conventional dendritic cell,0.55,24.0
+0.5,B cell,0.48333333333333334,75.0
+0.5,"CD4-positive, alpha-beta T cell",0.265531914893617,791.0
+0.5,double negative T regulatory cell,0.8571428571428571,4.0
+0.5,innate lymphoid cell,0.5217391304347826,16.0
+0.5,natural killer cell,0.6830188679245283,288.0
+0.5,pre-conventional dendritic cell,0.7391304347826086,24.0
+0.6,B cell,0.45161290322580644,75.0
+0.6,"CD4-positive, alpha-beta T cell",0.33876221498371334,791.0
+0.6,double negative T regulatory cell,0.8571428571428571,4.0
+0.6,innate lymphoid cell,0.6923076923076923,16.0
+0.6,natural killer cell,0.6329113924050633,288.0
+0.6,pre-conventional dendritic cell,0.723404255319149,24.0
+0.7,B cell,0.41379310344827586,75.0
+0.7,"CD4-positive, alpha-beta T cell",0.3251231527093596,791.0
+0.7,double negative T regulatory cell,0.6666666666666666,4.0
+0.7,innate lymphoid cell,0.6428571428571429,16.0
+0.7,natural killer cell,0.655367231638418,288.0
+0.7,pre-conventional dendritic cell,0.6666666666666666,24.0
+0.8,B cell,0.46153846153846156,75.0
+0.8,"CD4-positive, alpha-beta T cell",0.2937853107344633,791.0
+0.8,double negative T regulatory cell,0.6666666666666666,4.0
+0.8,innate lymphoid cell,0.5833333333333334,16.0
+0.8,natural killer cell,0.6191369606003753,288.0
+0.8,pre-conventional dendritic cell,0.7727272727272727,24.0
+0.9,B cell,0.5151515151515151,75.0
+0.9,"CD4-positive, alpha-beta T cell",0.3276283618581907,791.0
+0.9,double negative T regulatory cell,0.75,4.0
+0.9,innate lymphoid cell,0.6153846153846154,16.0
+0.9,natural killer cell,0.6730038022813688,288.0
+0.9,pre-conventional dendritic cell,0.6222222222222222,24.0
+1.0,B cell,0.42276422764227645,75.0
+1.0,"CD4-positive, alpha-beta T cell",0.3367588932806324,791.0
+1.0,double negative T regulatory cell,1.0,4.0
+1.0,innate lymphoid cell,0.5833333333333334,16.0
+1.0,natural killer cell,0.6768060836501901,288.0
+1.0,pre-conventional dendritic cell,0.6829268292682927,24.0
+0.0,B cell,0.5081967213114754,75.0
+0.0,"CD4-positive, alpha-beta T cell",0.2995744680851064,791.0
+0.0,double negative T regulatory cell,0.8571428571428571,4.0
+0.0,innate lymphoid cell,0.6086956521739131,16.0
+0.0,natural killer cell,0.5416666666666666,288.0
+0.0,pre-conventional dendritic cell,0.7755102040816326,24.0
+0.1,B cell,0.4918032786885246,75.0
+0.1,"CD4-positive, alpha-beta T cell",0.34991708126036486,791.0
+0.1,double negative T regulatory cell,0.8571428571428571,4.0
+0.1,innate lymphoid cell,0.72,16.0
+0.1,natural killer cell,0.6833013435700576,288.0
+0.1,pre-conventional dendritic cell,0.6842105263157895,24.0
+0.2,B cell,0.5528455284552846,75.0
+0.2,"CD4-positive, alpha-beta T cell",0.35714285714285715,791.0
+0.2,double negative T regulatory cell,0.8571428571428571,4.0
+0.2,innate lymphoid cell,0.5454545454545454,16.0
+0.2,natural killer cell,0.6496062992125984,288.0
+0.2,pre-conventional dendritic cell,0.7142857142857143,24.0
+0.3,B cell,0.5040650406504065,75.0
+0.3,"CD4-positive, alpha-beta T cell",0.3511326860841424,791.0
+0.3,double negative T regulatory cell,0.8571428571428571,4.0
+0.3,innate lymphoid cell,0.64,16.0
+0.3,natural killer cell,0.6500956022944551,288.0
+0.3,pre-conventional dendritic cell,0.6222222222222222,24.0
+0.4,B cell,0.4566929133858268,75.0
+0.4,"CD4-positive, alpha-beta T cell",0.3194675540765391,791.0
+0.4,double negative T regulatory cell,0.8571428571428571,4.0
+0.4,innate lymphoid cell,0.64,16.0
+0.4,natural killer cell,0.6642066420664207,288.0
+0.4,pre-conventional dendritic cell,0.6111111111111112,24.0
+0.5,B cell,0.5671641791044776,75.0
+0.5,"CD4-positive, alpha-beta T cell",0.295221843003413,791.0
+0.5,double negative T regulatory cell,0.8571428571428571,4.0
+0.5,innate lymphoid cell,0.64,16.0
+0.5,natural killer cell,0.66,288.0
+0.5,pre-conventional dendritic cell,0.7555555555555555,24.0
+0.6,B cell,0.4838709677419355,75.0
+0.6,"CD4-positive, alpha-beta T cell",0.359375,791.0
+0.6,double negative T regulatory cell,0.8571428571428571,4.0
+0.6,innate lymphoid cell,0.5454545454545454,16.0
+0.6,natural killer cell,0.6846846846846847,288.0
+0.6,pre-conventional dendritic cell,0.6956521739130435,24.0
+0.7,B cell,0.515625,75.0
+0.7,"CD4-positive, alpha-beta T cell",0.3610223642172524,791.0
+0.7,double negative T regulatory cell,0.8571428571428571,4.0
+0.7,innate lymphoid cell,0.6153846153846154,16.0
+0.7,natural killer cell,0.6951672862453532,288.0
+0.7,pre-conventional dendritic cell,0.723404255319149,24.0
+0.8,B cell,0.5147058823529411,75.0
+0.8,"CD4-positive, alpha-beta T cell",0.3264291632145816,791.0
+0.8,double negative T regulatory cell,0.8571428571428571,4.0
+0.8,innate lymphoid cell,0.56,16.0
+0.8,natural killer cell,0.6892655367231638,288.0
+0.8,pre-conventional dendritic cell,0.723404255319149,24.0
+0.9,B cell,0.4461538461538462,75.0
+0.9,"CD4-positive, alpha-beta T cell",0.34548335974643424,791.0
+0.9,double negative T regulatory cell,0.8571428571428571,4.0
+0.9,innate lymphoid cell,0.72,16.0
+0.9,natural killer cell,0.669260700389105,288.0
+0.9,pre-conventional dendritic cell,0.6666666666666666,24.0
+1.0,B cell,0.4411764705882353,75.0
+1.0,"CD4-positive, alpha-beta T cell",0.3395012067578439,791.0
+1.0,double negative T regulatory cell,0.8571428571428571,4.0
+1.0,innate lymphoid cell,0.64,16.0
+1.0,natural killer cell,0.6754716981132075,288.0
+1.0,pre-conventional dendritic cell,0.7142857142857143,24.0
+0.0,B cell,0.4722222222222222,75.0
+0.0,"CD4-positive, alpha-beta T cell",0.33694745621351124,791.0
+0.0,double negative T regulatory cell,0.5714285714285714,4.0
+0.0,innate lymphoid cell,0.5833333333333334,16.0
+0.0,natural killer cell,0.6524271844660194,288.0
+0.0,pre-conventional dendritic cell,0.7804878048780488,24.0
+0.1,B cell,0.4827586206896552,75.0
+0.1,"CD4-positive, alpha-beta T cell",0.2649122807017544,791.0
+0.1,double negative T regulatory cell,0.5714285714285714,4.0
+0.1,innate lymphoid cell,0.5454545454545454,16.0
+0.1,natural killer cell,0.6059322033898306,288.0
+0.1,pre-conventional dendritic cell,0.7,24.0
+0.2,B cell,0.41818181818181815,75.0
+0.2,"CD4-positive, alpha-beta T cell",0.2777307366638442,791.0
+0.2,double negative T regulatory cell,0.8571428571428571,4.0
+0.2,innate lymphoid cell,0.72,16.0
+0.2,natural killer cell,0.5625,288.0
+0.2,pre-conventional dendritic cell,0.5142857142857142,24.0
+0.3,B cell,0.5555555555555556,75.0
+0.3,"CD4-positive, alpha-beta T cell",0.33169934640522875,791.0
+0.3,double negative T regulatory cell,0.8571428571428571,4.0
+0.3,innate lymphoid cell,0.47619047619047616,16.0
+0.3,natural killer cell,0.6990654205607477,288.0
+0.3,pre-conventional dendritic cell,0.6486486486486487,24.0
+0.4,B cell,0.5230769230769231,75.0
+0.4,"CD4-positive, alpha-beta T cell",0.3040650406504065,791.0
+0.4,double negative T regulatory cell,0.8571428571428571,4.0
+0.4,innate lymphoid cell,0.64,16.0
+0.4,natural killer cell,0.6256983240223464,288.0
+0.4,pre-conventional dendritic cell,0.6046511627906976,24.0
+0.5,B cell,0.4878048780487805,75.0
+0.5,"CD4-positive, alpha-beta T cell",0.3376413570274637,791.0
+0.5,double negative T regulatory cell,0.75,4.0
+0.5,innate lymphoid cell,0.4827586206896552,16.0
+0.5,natural killer cell,0.6846846846846847,288.0
+0.5,pre-conventional dendritic cell,0.7142857142857143,24.0
+0.6,B cell,0.4496124031007752,75.0
+0.6,"CD4-positive, alpha-beta T cell",0.3011844331641286,791.0
+0.6,double negative T regulatory cell,0.8571428571428571,4.0
+0.6,innate lymphoid cell,0.5833333333333334,16.0
+0.6,natural killer cell,0.6192170818505338,288.0
+0.6,pre-conventional dendritic cell,0.5555555555555556,24.0
+0.7,B cell,0.5185185185185185,75.0
+0.7,"CD4-positive, alpha-beta T cell",0.34775641025641024,791.0
+0.7,double negative T regulatory cell,0.8571428571428571,4.0
+0.7,innate lymphoid cell,0.6666666666666666,16.0
+0.7,natural killer cell,0.6654135338345865,288.0
+0.7,pre-conventional dendritic cell,0.6086956521739131,24.0
+0.8,B cell,0.4740740740740741,75.0
+0.8,"CD4-positive, alpha-beta T cell",0.3371150729335494,791.0
+0.8,double negative T regulatory cell,0.8571428571428571,4.0
+0.8,innate lymphoid cell,0.48,16.0
+0.8,natural killer cell,0.6739526411657559,288.0
+0.8,pre-conventional dendritic cell,0.6153846153846154,24.0
+0.9,B cell,0.47619047619047616,75.0
+0.9,"CD4-positive, alpha-beta T cell",0.30618892508143325,791.0
+0.9,double negative T regulatory cell,0.8571428571428571,4.0
+0.9,innate lymphoid cell,0.6923076923076923,16.0
+0.9,natural killer cell,0.6603415559772297,288.0
+0.9,pre-conventional dendritic cell,0.6818181818181818,24.0
+1.0,B cell,0.47692307692307695,75.0
+1.0,"CD4-positive, alpha-beta T cell",0.3396825396825397,791.0
+1.0,double negative T regulatory cell,0.6666666666666666,4.0
+1.0,innate lymphoid cell,0.7692307692307693,16.0
+1.0,natural killer cell,0.6730769230769231,288.0
+1.0,pre-conventional dendritic cell,0.6,24.0
+0.0,B cell,0.4838709677419355,75.0
+0.0,"CD4-positive, alpha-beta T cell",0.2763507528786537,791.0
+0.0,double negative T regulatory cell,0.6666666666666666,4.0
+0.0,innate lymphoid cell,0.5454545454545454,16.0
+0.0,natural killer cell,0.5362903225806451,288.0
+0.0,pre-conventional dendritic cell,0.7027027027027027,24.0
+0.1,B cell,0.43902439024390244,75.0
+0.1,"CD4-positive, alpha-beta T cell",0.3241491085899514,791.0
+0.1,double negative T regulatory cell,0.8571428571428571,4.0
+0.1,innate lymphoid cell,0.7142857142857143,16.0
+0.1,natural killer cell,0.685823754789272,288.0
+0.1,pre-conventional dendritic cell,0.5,24.0
+0.2,B cell,0.509090909090909,75.0
+0.2,"CD4-positive, alpha-beta T cell",0.2938775510204082,791.0
+0.2,double negative T regulatory cell,0.8571428571428571,4.0
+0.2,innate lymphoid cell,0.6923076923076923,16.0
+0.2,natural killer cell,0.6741154562383612,288.0
+0.2,pre-conventional dendritic cell,0.7317073170731707,24.0
+0.3,B cell,0.44274809160305345,75.0
+0.3,"CD4-positive, alpha-beta T cell",0.3368940016433854,791.0
+0.3,double negative T regulatory cell,1.0,4.0
+0.3,innate lymphoid cell,0.6086956521739131,16.0
+0.3,natural killer cell,0.6854990583804144,288.0
+0.3,pre-conventional dendritic cell,0.7727272727272727,24.0
+0.4,B cell,0.5384615384615384,75.0
+0.4,"CD4-positive, alpha-beta T cell",0.3418241577649959,791.0
+0.4,double negative T regulatory cell,0.6666666666666666,4.0
+0.4,innate lymphoid cell,0.45454545454545453,16.0
+0.4,natural killer cell,0.6766355140186916,288.0
+0.4,pre-conventional dendritic cell,0.7317073170731707,24.0
+0.5,B cell,0.5116279069767442,75.0
+0.5,"CD4-positive, alpha-beta T cell",0.3467741935483871,791.0
+0.5,double negative T regulatory cell,0.8571428571428571,4.0
+0.5,innate lymphoid cell,0.5833333333333334,16.0
+0.5,natural killer cell,0.717948717948718,288.0
+0.5,pre-conventional dendritic cell,0.6521739130434783,24.0
+0.6,B cell,0.421875,75.0
+0.6,"CD4-positive, alpha-beta T cell",0.3147208121827411,791.0
+0.6,double negative T regulatory cell,0.8571428571428571,4.0
+0.6,innate lymphoid cell,0.5833333333333334,16.0
+0.6,natural killer cell,0.5807692307692308,288.0
+0.6,pre-conventional dendritic cell,0.7346938775510204,24.0
+0.7,B cell,0.4603174603174603,75.0
+0.7,"CD4-positive, alpha-beta T cell",0.2826086956521739,791.0
+0.7,double negative T regulatory cell,0.75,4.0
+0.7,innate lymphoid cell,0.45454545454545453,16.0
+0.7,natural killer cell,0.6170212765957447,288.0
+0.7,pre-conventional dendritic cell,0.5909090909090909,24.0
+0.8,B cell,0.4732824427480916,75.0
+0.8,"CD4-positive, alpha-beta T cell",0.33495934959349594,791.0
+0.8,double negative T regulatory cell,0.8571428571428571,4.0
+0.8,innate lymphoid cell,0.5925925925925926,16.0
+0.8,natural killer cell,0.6468401486988847,288.0
+0.8,pre-conventional dendritic cell,0.6190476190476191,24.0
+0.9,B cell,0.46153846153846156,75.0
+0.9,"CD4-positive, alpha-beta T cell",0.3306188925081433,791.0
+0.9,double negative T regulatory cell,0.8571428571428571,4.0
+0.9,innate lymphoid cell,0.6923076923076923,16.0
+0.9,natural killer cell,0.6640625,288.0
+0.9,pre-conventional dendritic cell,0.7441860465116279,24.0
+1.0,B cell,0.4409448818897638,75.0
+1.0,"CD4-positive, alpha-beta T cell",0.3395012067578439,791.0
+1.0,double negative T regulatory cell,0.75,4.0
+1.0,innate lymphoid cell,0.7142857142857143,16.0
+1.0,natural killer cell,0.6753731343283582,288.0
+1.0,pre-conventional dendritic cell,0.6818181818181818,24.0
+0.0,B cell,0.4444444444444444,75.0
+0.0,"CD4-positive, alpha-beta T cell",0.2887612797374898,791.0
+0.0,double negative T regulatory cell,0.8571428571428571,4.0
+0.0,innate lymphoid cell,0.47619047619047616,16.0
+0.0,natural killer cell,0.6182572614107884,288.0
+0.0,pre-conventional dendritic cell,0.6842105263157895,24.0
+0.1,B cell,0.5161290322580645,75.0
+0.1,"CD4-positive, alpha-beta T cell",0.3152,791.0
+0.1,double negative T regulatory cell,0.8571428571428571,4.0
+0.1,innate lymphoid cell,0.36363636363636365,16.0
+0.1,natural killer cell,0.7135135135135136,288.0
+0.1,pre-conventional dendritic cell,0.6666666666666666,24.0
+0.2,B cell,0.48739495798319327,75.0
+0.2,"CD4-positive, alpha-beta T cell",0.27943760984182775,791.0
+0.2,double negative T regulatory cell,0.6666666666666666,4.0
+0.2,innate lymphoid cell,0.56,16.0
+0.2,natural killer cell,0.5833333333333334,288.0
+0.2,pre-conventional dendritic cell,0.6046511627906976,24.0
+0.3,B cell,0.5076923076923077,75.0
+0.3,"CD4-positive, alpha-beta T cell",0.2982758620689655,791.0
+0.3,double negative T regulatory cell,0.4,4.0
+0.3,innate lymphoid cell,0.6086956521739131,16.0
+0.3,natural killer cell,0.6260162601626016,288.0
+0.3,pre-conventional dendritic cell,0.631578947368421,24.0
+0.4,B cell,0.5528455284552846,75.0
+0.4,"CD4-positive, alpha-beta T cell",0.34290271132376393,791.0
+0.4,double negative T regulatory cell,0.8571428571428571,4.0
+0.4,innate lymphoid cell,0.5454545454545454,16.0
+0.4,natural killer cell,0.6877323420074349,288.0
+0.4,pre-conventional dendritic cell,0.5714285714285714,24.0
+0.5,B cell,0.4666666666666667,75.0
+0.5,"CD4-positive, alpha-beta T cell",0.35614179719703215,791.0
+0.5,double negative T regulatory cell,0.75,4.0
+0.5,innate lymphoid cell,0.6428571428571429,16.0
+0.5,natural killer cell,0.704331450094162,288.0
+0.5,pre-conventional dendritic cell,0.6829268292682927,24.0
+0.6,B cell,0.47863247863247865,75.0
+0.6,"CD4-positive, alpha-beta T cell",0.35074045206547155,791.0
+0.6,double negative T regulatory cell,0.8571428571428571,4.0
+0.6,innate lymphoid cell,0.6086956521739131,16.0
+0.6,natural killer cell,0.6642468239564429,288.0
+0.6,pre-conventional dendritic cell,0.55,24.0
+0.7,B cell,0.43548387096774194,75.0
+0.7,"CD4-positive, alpha-beta T cell",0.3156225218080888,791.0
+0.7,double negative T regulatory cell,0.6666666666666666,4.0
+0.7,innate lymphoid cell,0.72,16.0
+0.7,natural killer cell,0.6421663442940039,288.0
+0.7,pre-conventional dendritic cell,0.7142857142857143,24.0
+0.8,B cell,0.4461538461538462,75.0
+0.8,"CD4-positive, alpha-beta T cell",0.34551495016611294,791.0
+0.8,double negative T regulatory cell,0.8571428571428571,4.0
+0.8,innate lymphoid cell,0.5384615384615384,16.0
+0.8,natural killer cell,0.6449136276391555,288.0
+0.8,pre-conventional dendritic cell,0.6956521739130435,24.0
+0.9,B cell,0.4462809917355372,75.0
+0.9,"CD4-positive, alpha-beta T cell",0.33515198752922837,791.0
+0.9,double negative T regulatory cell,1.0,4.0
+0.9,innate lymphoid cell,0.6666666666666666,16.0
+0.9,natural killer cell,0.6252285191956124,288.0
+0.9,pre-conventional dendritic cell,0.7142857142857143,24.0
+1.0,B cell,0.4696969696969697,75.0
+1.0,"CD4-positive, alpha-beta T cell",0.34022257551669316,791.0
+1.0,double negative T regulatory cell,0.8571428571428571,4.0
+1.0,innate lymphoid cell,0.7142857142857143,16.0
+1.0,natural killer cell,0.651252408477842,288.0
+1.0,pre-conventional dendritic cell,0.6976744186046512,24.0
+0.0,B cell,0.5454545454545454,75.0
+0.0,"CD4-positive, alpha-beta T cell",0.2903225806451613,791.0
+0.0,double negative T regulatory cell,0.6666666666666666,4.0
+0.0,innate lymphoid cell,0.6086956521739131,16.0
+0.0,natural killer cell,0.6514285714285715,288.0
+0.0,pre-conventional dendritic cell,0.8095238095238095,24.0
+0.1,B cell,0.5161290322580645,75.0
+0.1,"CD4-positive, alpha-beta T cell",0.2878787878787879,791.0
+0.1,double negative T regulatory cell,0.6666666666666666,4.0
+0.1,innate lymphoid cell,0.5833333333333334,16.0
+0.1,natural killer cell,0.5720250521920668,288.0
+0.1,pre-conventional dendritic cell,0.6341463414634146,24.0
+0.2,B cell,0.5037037037037037,75.0
+0.2,"CD4-positive, alpha-beta T cell",0.3076923076923077,791.0
+0.2,double negative T regulatory cell,0.8888888888888888,4.0
+0.2,innate lymphoid cell,0.64,16.0
+0.2,natural killer cell,0.6029411764705882,288.0
+0.2,pre-conventional dendritic cell,0.6486486486486487,24.0
+0.3,B cell,0.5196850393700787,75.0
+0.3,"CD4-positive, alpha-beta T cell",0.35152487961476725,791.0
+0.3,double negative T regulatory cell,0.8571428571428571,4.0
+0.3,innate lymphoid cell,0.72,16.0
+0.3,natural killer cell,0.6370370370370371,288.0
+0.3,pre-conventional dendritic cell,0.5789473684210527,24.0
+0.4,B cell,0.5409836065573771,75.0
+0.4,"CD4-positive, alpha-beta T cell",0.3158756137479542,791.0
+0.4,double negative T regulatory cell,0.8571428571428571,4.0
+0.4,innate lymphoid cell,0.5833333333333334,16.0
+0.4,natural killer cell,0.6856060606060606,288.0
+0.4,pre-conventional dendritic cell,0.5128205128205128,24.0
+0.5,B cell,0.5384615384615384,75.0
+0.5,"CD4-positive, alpha-beta T cell",0.37094281298299847,791.0
+0.5,double negative T regulatory cell,1.0,4.0
+0.5,innate lymphoid cell,0.5925925925925926,16.0
+0.5,natural killer cell,0.7137546468401487,288.0
+0.5,pre-conventional dendritic cell,0.5454545454545454,24.0
+0.6,B cell,0.4838709677419355,75.0
+0.6,"CD4-positive, alpha-beta T cell",0.34432823813354785,791.0
+0.6,double negative T regulatory cell,0.8571428571428571,4.0
+0.6,innate lymphoid cell,0.64,16.0
+0.6,natural killer cell,0.7142857142857143,288.0
+0.6,pre-conventional dendritic cell,0.5945945945945946,24.0
+0.7,B cell,0.5203252032520326,75.0
+0.7,"CD4-positive, alpha-beta T cell",0.3118811881188119,791.0
+0.7,double negative T regulatory cell,0.6666666666666666,4.0
+0.7,innate lymphoid cell,0.72,16.0
+0.7,natural killer cell,0.6372360844529751,288.0
+0.7,pre-conventional dendritic cell,0.5365853658536586,24.0
+0.8,B cell,0.484375,75.0
+0.8,"CD4-positive, alpha-beta T cell",0.33495145631067963,791.0
+0.8,double negative T regulatory cell,0.8888888888888888,4.0
+0.8,innate lymphoid cell,0.6666666666666666,16.0
+0.8,natural killer cell,0.6501901140684411,288.0
+0.8,pre-conventional dendritic cell,0.6382978723404256,24.0
+0.9,B cell,0.47540983606557374,75.0
+0.9,"CD4-positive, alpha-beta T cell",0.33468067906224735,791.0
+0.9,double negative T regulatory cell,0.8571428571428571,4.0
+0.9,innate lymphoid cell,0.6666666666666666,16.0
+0.9,natural killer cell,0.6389413988657845,288.0
+0.9,pre-conventional dendritic cell,0.6818181818181818,24.0
+1.0,B cell,0.43548387096774194,75.0
+1.0,"CD4-positive, alpha-beta T cell",0.3376413570274637,791.0
+1.0,double negative T regulatory cell,0.8571428571428571,4.0
+1.0,innate lymphoid cell,0.6896551724137931,16.0
+1.0,natural killer cell,0.6692015209125475,288.0
+1.0,pre-conventional dendritic cell,0.6818181818181818,24.0
+0.0,B cell,0.48,75.0
+0.0,"CD4-positive, alpha-beta T cell",0.3017241379310345,791.0
+0.0,double negative T regulatory cell,0.4,4.0
+0.0,innate lymphoid cell,0.5833333333333334,16.0
+0.0,natural killer cell,0.6236162361623616,288.0
+0.0,pre-conventional dendritic cell,0.6111111111111112,24.0
+0.1,B cell,0.48739495798319327,75.0
+0.1,"CD4-positive, alpha-beta T cell",0.29124579124579125,791.0
+0.1,double negative T regulatory cell,0.6666666666666666,4.0
+0.1,innate lymphoid cell,0.6086956521739131,16.0
+0.1,natural killer cell,0.6551059730250481,288.0
+0.1,pre-conventional dendritic cell,0.6363636363636364,24.0
+0.2,B cell,0.5161290322580645,75.0
+0.2,"CD4-positive, alpha-beta T cell",0.33440514469453375,791.0
+0.2,double negative T regulatory cell,0.8571428571428571,4.0
+0.2,innate lymphoid cell,0.5217391304347826,16.0
+0.2,natural killer cell,0.7014388489208633,288.0
+0.2,pre-conventional dendritic cell,0.6222222222222222,24.0
+0.3,B cell,0.4918032786885246,75.0
+0.3,"CD4-positive, alpha-beta T cell",0.2983050847457627,791.0
+0.3,double negative T regulatory cell,1.0,4.0
+0.3,innate lymphoid cell,0.6086956521739131,16.0
+0.3,natural killer cell,0.655367231638418,288.0
+0.3,pre-conventional dendritic cell,0.7441860465116279,24.0
+0.4,B cell,0.5384615384615384,75.0
+0.4,"CD4-positive, alpha-beta T cell",0.3441033925686591,791.0
+0.4,double negative T regulatory cell,0.8571428571428571,4.0
+0.4,innate lymphoid cell,0.6666666666666666,16.0
+0.4,natural killer cell,0.6641651031894934,288.0
+0.4,pre-conventional dendritic cell,0.7619047619047619,24.0
+0.5,B cell,0.47863247863247865,75.0
+0.5,"CD4-positive, alpha-beta T cell",0.3379366368805849,791.0
+0.5,double negative T regulatory cell,0.8571428571428571,4.0
+0.5,innate lymphoid cell,0.6666666666666666,16.0
+0.5,natural killer cell,0.6337760910815939,288.0
+0.5,pre-conventional dendritic cell,0.5945945945945946,24.0
+0.6,B cell,0.5196850393700787,75.0
+0.6,"CD4-positive, alpha-beta T cell",0.3485943775100402,791.0
+0.6,double negative T regulatory cell,0.75,4.0
+0.6,innate lymphoid cell,0.6666666666666666,16.0
+0.6,natural killer cell,0.6742424242424242,288.0
+0.6,pre-conventional dendritic cell,0.6,24.0
+0.7,B cell,0.46551724137931033,75.0
+0.7,"CD4-positive, alpha-beta T cell",0.3397745571658615,791.0
+0.7,double negative T regulatory cell,0.75,4.0
+0.7,innate lymphoid cell,0.64,16.0
+0.7,natural killer cell,0.6393762183235867,288.0
+0.7,pre-conventional dendritic cell,0.65,24.0
+0.8,B cell,0.45925925925925926,75.0
+0.8,"CD4-positive, alpha-beta T cell",0.2966666666666667,791.0
+0.8,double negative T regulatory cell,0.8888888888888888,4.0
+0.8,innate lymphoid cell,0.6923076923076923,16.0
+0.8,natural killer cell,0.6666666666666666,288.0
+0.8,pre-conventional dendritic cell,0.7619047619047619,24.0
+0.9,B cell,0.42735042735042733,75.0
+0.9,"CD4-positive, alpha-beta T cell",0.32854864433811803,791.0
+0.9,double negative T regulatory cell,1.0,4.0
+0.9,innate lymphoid cell,0.56,16.0
+0.9,natural killer cell,0.664179104477612,288.0
+0.9,pre-conventional dendritic cell,0.7755102040816326,24.0
+1.0,B cell,0.48484848484848486,75.0
+1.0,"CD4-positive, alpha-beta T cell",0.3325301204819277,791.0
+1.0,double negative T regulatory cell,0.8571428571428571,4.0
+1.0,innate lymphoid cell,0.7142857142857143,16.0
+1.0,natural killer cell,0.688588007736944,288.0
+1.0,pre-conventional dendritic cell,0.6341463414634146,24.0
+0.0,B cell,0.49206349206349204,75.0
+0.0,"CD4-positive, alpha-beta T cell",0.2948829141370338,791.0
+0.0,double negative T regulatory cell,0.6666666666666666,4.0
+0.0,innate lymphoid cell,0.72,16.0
+0.0,natural killer cell,0.6105675146771037,288.0
+0.0,pre-conventional dendritic cell,0.717948717948718,24.0
+0.1,B cell,0.4715447154471545,75.0
+0.1,"CD4-positive, alpha-beta T cell",0.3079470198675497,791.0
+0.1,double negative T regulatory cell,0.6666666666666666,4.0
+0.1,innate lymphoid cell,0.38095238095238093,16.0
+0.1,natural killer cell,0.6017699115044248,288.0
+0.1,pre-conventional dendritic cell,0.5789473684210527,24.0
+0.2,B cell,0.5040650406504065,75.0
+0.2,"CD4-positive, alpha-beta T cell",0.3458021612635079,791.0
+0.2,double negative T regulatory cell,0.75,4.0
+0.2,innate lymphoid cell,0.5217391304347826,16.0
+0.2,natural killer cell,0.6407407407407407,288.0
+0.2,pre-conventional dendritic cell,0.5789473684210527,24.0
+0.3,B cell,0.4462809917355372,75.0
+0.3,"CD4-positive, alpha-beta T cell",0.3175394846217789,791.0
+0.3,double negative T regulatory cell,0.6666666666666666,4.0
+0.3,innate lymphoid cell,0.4,16.0
+0.3,natural killer cell,0.6370967741935484,288.0
+0.3,pre-conventional dendritic cell,0.65,24.0
+0.4,B cell,0.45528455284552843,75.0
+0.4,"CD4-positive, alpha-beta T cell",0.3349673202614379,791.0
+0.4,double negative T regulatory cell,0.8571428571428571,4.0
+0.4,innate lymphoid cell,0.6666666666666666,16.0
+0.4,natural killer cell,0.6210720887245841,288.0
+0.4,pre-conventional dendritic cell,0.6956521739130435,24.0
+0.5,B cell,0.5,75.0
+0.5,"CD4-positive, alpha-beta T cell",0.345266507557677,791.0
+0.5,double negative T regulatory cell,0.8571428571428571,4.0
+0.5,innate lymphoid cell,0.5454545454545454,16.0
+0.5,natural killer cell,0.6893939393939394,288.0
+0.5,pre-conventional dendritic cell,0.6666666666666666,24.0
+0.6,B cell,0.4666666666666667,75.0
+0.6,"CD4-positive, alpha-beta T cell",0.3239202657807309,791.0
+0.6,double negative T regulatory cell,0.8571428571428571,4.0
+0.6,innate lymphoid cell,0.72,16.0
+0.6,natural killer cell,0.6784313725490196,288.0
+0.6,pre-conventional dendritic cell,0.7659574468085106,24.0
+0.7,B cell,0.464,75.0
+0.7,"CD4-positive, alpha-beta T cell",0.3424980361351139,791.0
+0.7,double negative T regulatory cell,0.8571428571428571,4.0
+0.7,innate lymphoid cell,0.625,16.0
+0.7,natural killer cell,0.6493055555555556,288.0
+0.7,pre-conventional dendritic cell,0.7555555555555555,24.0
+0.8,B cell,0.4297520661157025,75.0
+0.8,"CD4-positive, alpha-beta T cell",0.3074380165289256,791.0
+0.8,double negative T regulatory cell,0.8571428571428571,4.0
+0.8,innate lymphoid cell,0.6666666666666666,16.0
+0.8,natural killer cell,0.6539196940726577,288.0
+0.8,pre-conventional dendritic cell,0.6818181818181818,24.0
+0.9,B cell,0.4461538461538462,75.0
+0.9,"CD4-positive, alpha-beta T cell",0.3267248215701824,791.0
+0.9,double negative T regulatory cell,0.75,4.0
+0.9,innate lymphoid cell,0.6153846153846154,16.0
+0.9,natural killer cell,0.6486486486486487,288.0
+0.9,pre-conventional dendritic cell,0.7272727272727273,24.0
+1.0,B cell,0.4603174603174603,75.0
+1.0,"CD4-positive, alpha-beta T cell",0.3449920508744038,791.0
+1.0,double negative T regulatory cell,0.8571428571428571,4.0
+1.0,innate lymphoid cell,0.7142857142857143,16.0
+1.0,natural killer cell,0.6819047619047619,288.0
+1.0,pre-conventional dendritic cell,0.6363636363636364,24.0
+0.0,B cell,0.484375,75.0
+0.0,"CD4-positive, alpha-beta T cell",0.3025768911055694,791.0
+0.0,double negative T regulatory cell,0.8571428571428571,4.0
+0.0,innate lymphoid cell,0.56,16.0
+0.0,natural killer cell,0.5887445887445888,288.0
+0.0,pre-conventional dendritic cell,0.6341463414634146,24.0
+0.1,B cell,0.5079365079365079,75.0
+0.1,"CD4-positive, alpha-beta T cell",0.30572160546541416,791.0
+0.1,double negative T regulatory cell,0.5714285714285714,4.0
+0.1,innate lymphoid cell,0.7142857142857143,16.0
+0.1,natural killer cell,0.5930232558139535,288.0
+0.1,pre-conventional dendritic cell,0.5853658536585366,24.0
+0.2,B cell,0.48333333333333334,75.0
+0.2,"CD4-positive, alpha-beta T cell",0.29535864978902954,791.0
+0.2,double negative T regulatory cell,0.8571428571428571,4.0
+0.2,innate lymphoid cell,0.6086956521739131,16.0
+0.2,natural killer cell,0.6212121212121212,288.0
+0.2,pre-conventional dendritic cell,0.6666666666666666,24.0
+0.3,B cell,0.4918032786885246,75.0
+0.3,"CD4-positive, alpha-beta T cell",0.29293809938971227,791.0
+0.3,double negative T regulatory cell,0.6666666666666666,4.0
+0.3,innate lymphoid cell,0.5217391304347826,16.0
+0.3,natural killer cell,0.5864077669902913,288.0
+0.3,pre-conventional dendritic cell,0.8260869565217391,24.0
+0.4,B cell,0.512396694214876,75.0
+0.4,"CD4-positive, alpha-beta T cell",0.3300970873786408,791.0
+0.4,double negative T regulatory cell,0.8571428571428571,4.0
+0.4,innate lymphoid cell,0.47619047619047616,16.0
+0.4,natural killer cell,0.6895161290322581,288.0
+0.4,pre-conventional dendritic cell,0.7619047619047619,24.0
+0.5,B cell,0.578125,75.0
+0.5,"CD4-positive, alpha-beta T cell",0.35674822415153906,791.0
+0.5,double negative T regulatory cell,0.8571428571428571,4.0
+0.5,innate lymphoid cell,0.45454545454545453,16.0
+0.5,natural killer cell,0.6526717557251909,288.0
+0.5,pre-conventional dendritic cell,0.631578947368421,24.0
+0.6,B cell,0.5423728813559322,75.0
+0.6,"CD4-positive, alpha-beta T cell",0.30983606557377047,791.0
+0.6,double negative T regulatory cell,0.8571428571428571,4.0
+0.6,innate lymphoid cell,0.6153846153846154,16.0
+0.6,natural killer cell,0.6465028355387523,288.0
+0.6,pre-conventional dendritic cell,0.5777777777777777,24.0
+0.7,B cell,0.46616541353383456,75.0
+0.7,"CD4-positive, alpha-beta T cell",0.32535094962840627,791.0
+0.7,double negative T regulatory cell,0.8571428571428571,4.0
+0.7,innate lymphoid cell,0.5384615384615384,16.0
+0.7,natural killer cell,0.6514285714285715,288.0
+0.7,pre-conventional dendritic cell,0.6190476190476191,24.0
+0.8,B cell,0.5285714285714286,75.0
+0.8,"CD4-positive, alpha-beta T cell",0.32606941081517354,791.0
+0.8,double negative T regulatory cell,1.0,4.0
+0.8,innate lymphoid cell,0.6666666666666666,16.0
+0.8,natural killer cell,0.6692015209125475,288.0
+0.8,pre-conventional dendritic cell,0.6976744186046512,24.0
+0.9,B cell,0.4409448818897638,75.0
+0.9,"CD4-positive, alpha-beta T cell",0.3064516129032258,791.0
+0.9,double negative T regulatory cell,0.75,4.0
+0.9,innate lymphoid cell,0.6153846153846154,16.0
+0.9,natural killer cell,0.6387832699619772,288.0
+0.9,pre-conventional dendritic cell,0.6666666666666666,24.0
+1.0,B cell,0.4186046511627907,75.0
+1.0,"CD4-positive, alpha-beta T cell",0.3250201126307321,791.0
+1.0,double negative T regulatory cell,0.75,4.0
+1.0,innate lymphoid cell,0.6153846153846154,16.0
+1.0,natural killer cell,0.6756756756756757,288.0
+1.0,pre-conventional dendritic cell,0.7272727272727273,24.0
