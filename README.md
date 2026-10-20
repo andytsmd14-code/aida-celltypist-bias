@@ -45,7 +45,8 @@ Rare cell types show the largest F1 changes in either direction, reflecting high
 
 ### The B cell paradox
 
-B cell F1 paradoxically decreases with more SG_Chinese reference.  SG_Chinese donors contribute only 4.8% B cells to the reference pool, versus 11.6% in other-ethnicity donors (2.4×). As SG_Chinese proportion rises, the absolute number of “B cell” training examples falls, classifier recall weakens, and F1 drops — even though the reference is ethnically closer to the query.
+B cell F1 paradoxically decreases with more SG_Chinese reference.  SG_Chinese donors contribute only 4.8% B cells to the reference pool, versus 11.6% in other-ethnicity donors (2.4×). As SG_Chinese proportion rises, the absolute number of “B cell” training examples falls, classifier recall weakens, and F1 drops — even though the reference is ethnically closer to the query.Misclassification analysis (10 runs, 0% vs. 100% reference) confirms this: at 100% SG_Chinese, 9 query B cells are misclassified as “T cell” — a category absent from the 0% misclassification profile — consistent with a weakened B cell decision boundary.
+
 **This is a reminder that matched ethnicity in the reference does not guarantee matched training-example availability for each cell type.**
 
 ### NK cells, dnT cells, and ILCs
