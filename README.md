@@ -100,9 +100,9 @@ The long training cell in each ethnicity notebook is marked with a ⚠️ warnin
 | `aida_sg_chinese_full_curve.ipynb` | SG Chinese | Complete (0–100%) |
 | `aida_japanese_full_curve.ipynb` | Japanese | Complete (0–100%) |
 | `aida_korean_full_curve.ipynb` | Korean | Complete (0–100%) |
-| `aida_thai_full_curve.ipynb` | Thai | In progress (0–60%) |
-| `aida_singaporean_malay_full_curve.ipynb` | Singaporean Malay | In progress (0–60%) |
-| `aida_singaporean_indian_full_curve.ipynb` | Singaporean Indian | In progress (0–80%) |
+| `aida_thai_full_curve.ipynb` | Thai | (0–60%) |
+| `aida_singaporean_malay_full_curve.ipynb` | Singaporean Malay | (0–60%) |
+| `aida_singaporean_indian_full_curve.ipynb` | Singaporean Indian | (0–80%) |
 
 ### Cross-cohort summary
 
