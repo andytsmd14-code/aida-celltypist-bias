@@ -1,0 +1,561 @@
+proportion,cell_type,f1,support
+0.0,T cell,0.5957651588065448,1146.0
+0.0,double negative T regulatory cell,0.7647058823529411,19.0
+0.0,hematopoietic stem cell,0.5454545454545454,14.0
+0.0,innate lymphoid cell,0.4230769230769231,35.0
+0.0,pre-conventional dendritic cell,0.6363636363636364,27.0
+0.1,T cell,0.5937046004842615,1146.0
+0.1,double negative T regulatory cell,0.5517241379310345,19.0
+0.1,hematopoietic stem cell,0.6086956521739131,14.0
+0.1,innate lymphoid cell,0.5614035087719298,35.0
+0.1,pre-conventional dendritic cell,0.6122448979591837,27.0
+0.2,T cell,0.5984174085064293,1146.0
+0.2,double negative T regulatory cell,0.7096774193548387,19.0
+0.2,hematopoietic stem cell,0.2222222222222222,14.0
+0.2,innate lymphoid cell,0.45161290322580644,35.0
+0.2,pre-conventional dendritic cell,0.6511627906976745,27.0
+0.3,T cell,0.6308526367668802,1146.0
+0.3,double negative T regulatory cell,0.6428571428571429,19.0
+0.3,hematopoietic stem cell,0.7333333333333333,14.0
+0.3,innate lymphoid cell,0.5098039215686274,35.0
+0.3,pre-conventional dendritic cell,0.7755102040816326,27.0
+0.4,T cell,0.6167846309403437,1146.0
+0.4,double negative T regulatory cell,0.7878787878787878,19.0
+0.4,hematopoietic stem cell,0.5833333333333334,14.0
+0.4,innate lymphoid cell,0.576271186440678,35.0
+0.4,pre-conventional dendritic cell,0.6222222222222222,27.0
+0.5,T cell,0.6206196038598273,1146.0
+0.5,double negative T regulatory cell,0.8125,19.0
+0.5,hematopoietic stem cell,0.6896551724137931,14.0
+0.5,innate lymphoid cell,0.5660377358490566,35.0
+0.5,pre-conventional dendritic cell,0.6190476190476191,27.0
+0.6,T cell,0.6086065573770492,1146.0
+0.6,double negative T regulatory cell,0.7096774193548387,19.0
+0.6,hematopoietic stem cell,0.6666666666666666,14.0
+0.6,innate lymphoid cell,0.5283018867924528,35.0
+0.6,pre-conventional dendritic cell,0.6521739130434783,27.0
+0.0,T cell,0.5810623556581986,1146.0
+0.0,double negative T regulatory cell,0.7272727272727273,19.0
+0.0,hematopoietic stem cell,0.7272727272727273,14.0
+0.0,innate lymphoid cell,0.47058823529411764,35.0
+0.0,pre-conventional dendritic cell,0.3783783783783784,27.0
+0.1,T cell,0.6134538152610441,1146.0
+0.1,double negative T regulatory cell,0.7741935483870968,19.0
+0.1,hematopoietic stem cell,0.38095238095238093,14.0
+0.1,innate lymphoid cell,0.4727272727272727,35.0
+0.1,pre-conventional dendritic cell,0.6818181818181818,27.0
+0.2,T cell,0.615617128463476,1146.0
+0.2,double negative T regulatory cell,0.7058823529411765,19.0
+0.2,hematopoietic stem cell,0.75,14.0
+0.2,innate lymphoid cell,0.5357142857142857,35.0
+0.2,pre-conventional dendritic cell,0.7692307692307693,27.0
+0.3,T cell,0.6095334685598377,1146.0
+0.3,double negative T regulatory cell,0.5517241379310345,19.0
+0.3,hematopoietic stem cell,0.7096774193548387,14.0
+0.3,innate lymphoid cell,0.49056603773584906,35.0
+0.3,pre-conventional dendritic cell,0.6808510638297872,27.0
+0.4,T cell,0.6146146146146146,1146.0
+0.4,double negative T regulatory cell,0.6875,19.0
+0.4,hematopoietic stem cell,0.5714285714285714,14.0
+0.4,innate lymphoid cell,0.5517241379310345,35.0
+0.4,pre-conventional dendritic cell,0.5714285714285714,27.0
+0.5,T cell,0.6153846153846154,1146.0
+0.5,double negative T regulatory cell,0.6666666666666666,19.0
+0.5,hematopoietic stem cell,0.75,14.0
+0.5,innate lymphoid cell,0.3829787234042553,35.0
+0.5,pre-conventional dendritic cell,0.6818181818181818,27.0
+0.6,T cell,0.6306584362139918,1146.0
+0.6,double negative T regulatory cell,0.7878787878787878,19.0
+0.6,hematopoietic stem cell,0.7741935483870968,14.0
+0.6,innate lymphoid cell,0.5818181818181818,35.0
+0.6,pre-conventional dendritic cell,0.6808510638297872,27.0
+0.0,T cell,0.5541958041958042,1146.0
+0.0,double negative T regulatory cell,0.5714285714285714,19.0
+0.0,hematopoietic stem cell,0.0,14.0
+0.0,innate lymphoid cell,0.45614035087719296,35.0
+0.0,pre-conventional dendritic cell,0.723404255319149,27.0
+0.1,T cell,0.5816929133858267,1146.0
+0.1,double negative T regulatory cell,0.625,19.0
+0.1,hematopoietic stem cell,0.5,14.0
+0.1,innate lymphoid cell,0.48148148148148145,35.0
+0.1,pre-conventional dendritic cell,0.7083333333333334,27.0
+0.2,T cell,0.6063936063936064,1146.0
+0.2,double negative T regulatory cell,0.7894736842105263,19.0
+0.2,hematopoietic stem cell,0.5833333333333334,14.0
+0.2,innate lymphoid cell,0.6129032258064516,35.0
+0.2,pre-conventional dendritic cell,0.723404255319149,27.0
+0.3,T cell,0.5986124876114965,1146.0
+0.3,double negative T regulatory cell,0.6666666666666666,19.0
+0.3,hematopoietic stem cell,0.5833333333333334,14.0
+0.3,innate lymphoid cell,0.48148148148148145,35.0
+0.3,pre-conventional dendritic cell,0.6666666666666666,27.0
+0.4,T cell,0.5925187032418953,1146.0
+0.4,double negative T regulatory cell,0.75,19.0
+0.4,hematopoietic stem cell,0.3,14.0
+0.4,innate lymphoid cell,0.42857142857142855,35.0
+0.4,pre-conventional dendritic cell,0.6363636363636364,27.0
+0.5,T cell,0.6051179126944305,1146.0
+0.5,double negative T regulatory cell,0.7647058823529411,19.0
+0.5,hematopoietic stem cell,0.5925925925925926,14.0
+0.5,innate lymphoid cell,0.509090909090909,35.0
+0.5,pre-conventional dendritic cell,0.7391304347826086,27.0
+0.6,T cell,0.618546365914787,1146.0
+0.6,double negative T regulatory cell,0.7272727272727273,19.0
+0.6,hematopoietic stem cell,0.7586206896551724,14.0
+0.6,innate lymphoid cell,0.5283018867924528,35.0
+0.6,pre-conventional dendritic cell,0.7555555555555555,27.0
+0.0,T cell,0.5521472392638037,1146.0
+0.0,double negative T regulatory cell,0.5,19.0
+0.0,hematopoietic stem cell,0.4,14.0
+0.0,innate lymphoid cell,0.43333333333333335,35.0
+0.0,pre-conventional dendritic cell,0.6,27.0
+0.1,T cell,0.6008793356130924,1146.0
+0.1,double negative T regulatory cell,0.6,19.0
+0.1,hematopoietic stem cell,0.8,14.0
+0.1,innate lymphoid cell,0.48,35.0
+0.1,pre-conventional dendritic cell,0.65,27.0
+0.2,T cell,0.6054386865059005,1146.0
+0.2,double negative T regulatory cell,0.6875,19.0
+0.2,hematopoietic stem cell,0.34782608695652173,14.0
+0.2,innate lymphoid cell,0.4444444444444444,35.0
+0.2,pre-conventional dendritic cell,0.6222222222222222,27.0
+0.3,T cell,0.6130952380952381,1146.0
+0.3,double negative T regulatory cell,0.6428571428571429,19.0
+0.3,hematopoietic stem cell,0.4,14.0
+0.3,innate lymphoid cell,0.5714285714285714,35.0
+0.3,pre-conventional dendritic cell,0.76,27.0
+0.4,T cell,0.6089108910891089,1146.0
+0.4,double negative T regulatory cell,0.6666666666666666,19.0
+0.4,hematopoietic stem cell,0.7333333333333333,14.0
+0.4,innate lymphoid cell,0.5818181818181818,35.0
+0.4,pre-conventional dendritic cell,0.6818181818181818,27.0
+0.5,T cell,0.5978152929493545,1146.0
+0.5,double negative T regulatory cell,0.6206896551724138,19.0
+0.5,hematopoietic stem cell,0.43478260869565216,14.0
+0.5,innate lymphoid cell,0.5,35.0
+0.5,pre-conventional dendritic cell,0.6666666666666666,27.0
+0.6,T cell,0.6256763403836695,1146.0
+0.6,double negative T regulatory cell,0.6896551724137931,19.0
+0.6,hematopoietic stem cell,0.5384615384615384,14.0
+0.6,innate lymphoid cell,0.5614035087719298,35.0
+0.6,pre-conventional dendritic cell,0.6956521739130435,27.0
+0.0,T cell,0.5975261655566128,1146.0
+0.0,double negative T regulatory cell,0.7428571428571429,19.0
+0.0,hematopoietic stem cell,0.13333333333333333,14.0
+0.0,innate lymphoid cell,0.5079365079365079,35.0
+0.0,pre-conventional dendritic cell,0.5714285714285714,27.0
+0.1,T cell,0.6055045871559633,1146.0
+0.1,double negative T regulatory cell,0.5517241379310345,19.0
+0.1,hematopoietic stem cell,0.56,14.0
+0.1,innate lymphoid cell,0.4,35.0
+0.1,pre-conventional dendritic cell,0.6,27.0
+0.2,T cell,0.5829725829725829,1146.0
+0.2,double negative T regulatory cell,0.5517241379310345,19.0
+0.2,hematopoietic stem cell,0.6896551724137931,14.0
+0.2,innate lymphoid cell,0.52,35.0
+0.2,pre-conventional dendritic cell,0.6086956521739131,27.0
+0.3,T cell,0.5720761559383499,1146.0
+0.3,double negative T regulatory cell,0.6857142857142857,19.0
+0.3,hematopoietic stem cell,0.8,14.0
+0.3,innate lymphoid cell,0.375,35.0
+0.3,pre-conventional dendritic cell,0.6222222222222222,27.0
+0.4,T cell,0.6150773839241138,1146.0
+0.4,double negative T regulatory cell,0.6206896551724138,19.0
+0.4,hematopoietic stem cell,0.75,14.0
+0.4,innate lymphoid cell,0.43137254901960786,35.0
+0.4,pre-conventional dendritic cell,0.7441860465116279,27.0
+0.5,T cell,0.6068895643363729,1146.0
+0.5,double negative T regulatory cell,0.6451612903225806,19.0
+0.5,hematopoietic stem cell,0.7096774193548387,14.0
+0.5,innate lymphoid cell,0.48148148148148145,35.0
+0.5,pre-conventional dendritic cell,0.6976744186046512,27.0
+0.6,T cell,0.633622892181911,1146.0
+0.6,double negative T regulatory cell,0.6060606060606061,19.0
+0.6,hematopoietic stem cell,0.75,14.0
+0.6,innate lymphoid cell,0.4489795918367347,35.0
+0.6,pre-conventional dendritic cell,0.6222222222222222,27.0
+0.0,T cell,0.5595854922279793,1146.0
+0.0,double negative T regulatory cell,0.6875,19.0
+0.0,hematopoietic stem cell,0.6451612903225806,14.0
+0.0,innate lymphoid cell,0.37209302325581395,35.0
+0.0,pre-conventional dendritic cell,0.6818181818181818,27.0
+0.1,T cell,0.60727969348659,1146.0
+0.1,double negative T regulatory cell,0.7058823529411765,19.0
+0.1,hematopoietic stem cell,0.7096774193548387,14.0
+0.1,innate lymphoid cell,0.5384615384615384,35.0
+0.1,pre-conventional dendritic cell,0.65,27.0
+0.2,T cell,0.6347954657466732,1146.0
+0.2,double negative T regulatory cell,0.75,19.0
+0.2,hematopoietic stem cell,0.6666666666666666,14.0
+0.2,innate lymphoid cell,0.5263157894736842,35.0
+0.2,pre-conventional dendritic cell,0.5405405405405406,27.0
+0.3,T cell,0.6064516129032258,1146.0
+0.3,double negative T regulatory cell,0.5714285714285714,19.0
+0.3,hematopoietic stem cell,0.7741935483870968,14.0
+0.3,innate lymphoid cell,0.5,35.0
+0.3,pre-conventional dendritic cell,0.7111111111111111,27.0
+0.4,T cell,0.5808325266214908,1146.0
+0.4,double negative T regulatory cell,0.6857142857142857,19.0
+0.4,hematopoietic stem cell,0.7096774193548387,14.0
+0.4,innate lymphoid cell,0.5283018867924528,35.0
+0.4,pre-conventional dendritic cell,0.6666666666666666,27.0
+0.5,T cell,0.6231599607458292,1146.0
+0.5,double negative T regulatory cell,0.6896551724137931,19.0
+0.5,hematopoietic stem cell,0.75,14.0
+0.5,innate lymphoid cell,0.5925925925925926,35.0
+0.5,pre-conventional dendritic cell,0.6046511627906976,27.0
+0.6,T cell,0.6051179126944305,1146.0
+0.6,double negative T regulatory cell,0.6896551724137931,19.0
+0.6,hematopoietic stem cell,0.7586206896551724,14.0
+0.6,innate lymphoid cell,0.6153846153846154,35.0
+0.6,pre-conventional dendritic cell,0.6530612244897959,27.0
+0.0,T cell,0.5533190578158458,1146.0
+0.0,double negative T regulatory cell,0.6896551724137931,19.0
+0.0,hematopoietic stem cell,0.43478260869565216,14.0
+0.0,innate lymphoid cell,0.24489795918367346,35.0
+0.0,pre-conventional dendritic cell,0.6046511627906976,27.0
+0.1,T cell,0.598825831702544,1146.0
+0.1,double negative T regulatory cell,0.8235294117647058,19.0
+0.1,hematopoietic stem cell,0.8125,14.0
+0.1,innate lymphoid cell,0.391304347826087,35.0
+0.1,pre-conventional dendritic cell,0.6808510638297872,27.0
+0.2,T cell,0.5909317389138017,1146.0
+0.2,double negative T regulatory cell,0.7692307692307693,19.0
+0.2,hematopoietic stem cell,0.6896551724137931,14.0
+0.2,innate lymphoid cell,0.3673469387755102,35.0
+0.2,pre-conventional dendritic cell,0.6938775510204082,27.0
+0.3,T cell,0.6014056224899599,1146.0
+0.3,double negative T regulatory cell,0.7272727272727273,19.0
+0.3,hematopoietic stem cell,0.875,14.0
+0.3,innate lymphoid cell,0.5306122448979592,35.0
+0.3,pre-conventional dendritic cell,0.6521739130434783,27.0
+0.4,T cell,0.6317948717948718,1146.0
+0.4,double negative T regulatory cell,0.75,19.0
+0.4,hematopoietic stem cell,0.7333333333333333,14.0
+0.4,innate lymphoid cell,0.5283018867924528,35.0
+0.4,pre-conventional dendritic cell,0.6382978723404256,27.0
+0.5,T cell,0.6321190354027707,1146.0
+0.5,double negative T regulatory cell,0.6666666666666666,19.0
+0.5,hematopoietic stem cell,0.75,14.0
+0.5,innate lymphoid cell,0.43137254901960786,35.0
+0.5,pre-conventional dendritic cell,0.6808510638297872,27.0
+0.6,T cell,0.6074527820316488,1146.0
+0.6,double negative T regulatory cell,0.6896551724137931,19.0
+0.6,hematopoietic stem cell,0.6896551724137931,14.0
+0.6,innate lymphoid cell,0.5964912280701754,35.0
+0.6,pre-conventional dendritic cell,0.6976744186046512,27.0
+0.0,T cell,0.5835616438356165,1146.0
+0.0,double negative T regulatory cell,0.7272727272727273,19.0
+0.0,hematopoietic stem cell,0.6363636363636364,14.0
+0.0,innate lymphoid cell,0.5,35.0
+0.0,pre-conventional dendritic cell,0.55,27.0
+0.1,T cell,0.5713047247507586,1146.0
+0.1,double negative T regulatory cell,0.7058823529411765,19.0
+0.1,hematopoietic stem cell,0.72,14.0
+0.1,innate lymphoid cell,0.3181818181818182,35.0
+0.1,pre-conventional dendritic cell,0.5909090909090909,27.0
+0.2,T cell,0.5733590733590733,1146.0
+0.2,double negative T regulatory cell,0.6206896551724138,19.0
+0.2,hematopoietic stem cell,0.6153846153846154,14.0
+0.2,innate lymphoid cell,0.375,35.0
+0.2,pre-conventional dendritic cell,0.6808510638297872,27.0
+0.3,T cell,0.6232741617357002,1146.0
+0.3,double negative T regulatory cell,0.7878787878787878,19.0
+0.3,hematopoietic stem cell,0.6896551724137931,14.0
+0.3,innate lymphoid cell,0.5490196078431373,35.0
+0.3,pre-conventional dendritic cell,0.6956521739130435,27.0
+0.4,T cell,0.606508875739645,1146.0
+0.4,double negative T regulatory cell,0.5925925925925926,19.0
+0.4,hematopoietic stem cell,0.6428571428571429,14.0
+0.4,innate lymphoid cell,0.4727272727272727,35.0
+0.4,pre-conventional dendritic cell,0.6956521739130435,27.0
+0.5,T cell,0.6135902636916836,1146.0
+0.5,double negative T regulatory cell,0.75,19.0
+0.5,hematopoietic stem cell,0.8125,14.0
+0.5,innate lymphoid cell,0.5384615384615384,35.0
+0.5,pre-conventional dendritic cell,0.5581395348837209,27.0
+0.6,T cell,0.6276107997962302,1146.0
+0.6,double negative T regulatory cell,0.75,19.0
+0.6,hematopoietic stem cell,0.75,14.0
+0.6,innate lymphoid cell,0.5555555555555556,35.0
+0.6,pre-conventional dendritic cell,0.5909090909090909,27.0
+0.0,T cell,0.5957651588065448,1146.0
+0.0,double negative T regulatory cell,0.7272727272727273,19.0
+0.0,hematopoietic stem cell,0.5454545454545454,14.0
+0.0,innate lymphoid cell,0.4230769230769231,35.0
+0.0,pre-conventional dendritic cell,0.6363636363636364,27.0
+0.1,T cell,0.5937046004842615,1146.0
+0.1,double negative T regulatory cell,0.5517241379310345,19.0
+0.1,hematopoietic stem cell,0.6086956521739131,14.0
+0.1,innate lymphoid cell,0.5614035087719298,35.0
+0.1,pre-conventional dendritic cell,0.6122448979591837,27.0
+0.2,T cell,0.5987135081642752,1146.0
+0.2,double negative T regulatory cell,0.7096774193548387,19.0
+0.2,hematopoietic stem cell,0.2222222222222222,14.0
+0.2,innate lymphoid cell,0.45161290322580644,35.0
+0.2,pre-conventional dendritic cell,0.6511627906976745,27.0
+0.3,T cell,0.6308526367668802,1146.0
+0.3,double negative T regulatory cell,0.6428571428571429,19.0
+0.3,hematopoietic stem cell,0.7333333333333333,14.0
+0.3,innate lymphoid cell,0.5098039215686274,35.0
+0.3,pre-conventional dendritic cell,0.7755102040816326,27.0
+0.4,T cell,0.6167846309403437,1146.0
+0.4,double negative T regulatory cell,0.7878787878787878,19.0
+0.4,hematopoietic stem cell,0.5833333333333334,14.0
+0.4,innate lymphoid cell,0.576271186440678,35.0
+0.4,pre-conventional dendritic cell,0.6222222222222222,27.0
+0.5,T cell,0.6209349593495935,1146.0
+0.5,double negative T regulatory cell,0.8125,19.0
+0.5,hematopoietic stem cell,0.6896551724137931,14.0
+0.5,innate lymphoid cell,0.5660377358490566,35.0
+0.5,pre-conventional dendritic cell,0.6190476190476191,27.0
+0.6,T cell,0.6086065573770492,1146.0
+0.6,double negative T regulatory cell,0.7096774193548387,19.0
+0.6,hematopoietic stem cell,0.6666666666666666,14.0
+0.6,innate lymphoid cell,0.5283018867924528,35.0
+0.6,pre-conventional dendritic cell,0.6521739130434783,27.0
+0.0,T cell,0.5810623556581986,1146.0
+0.0,double negative T regulatory cell,0.7272727272727273,19.0
+0.0,hematopoietic stem cell,0.6956521739130435,14.0
+0.0,innate lymphoid cell,0.47058823529411764,35.0
+0.0,pre-conventional dendritic cell,0.3783783783783784,27.0
+0.1,T cell,0.6131460110386352,1146.0
+0.1,double negative T regulatory cell,0.7741935483870968,19.0
+0.1,hematopoietic stem cell,0.38095238095238093,14.0
+0.1,innate lymphoid cell,0.4727272727272727,35.0
+0.1,pre-conventional dendritic cell,0.6818181818181818,27.0
+0.2,T cell,0.615617128463476,1146.0
+0.2,double negative T regulatory cell,0.7058823529411765,19.0
+0.2,hematopoietic stem cell,0.75,14.0
+0.2,innate lymphoid cell,0.5357142857142857,35.0
+0.2,pre-conventional dendritic cell,0.7692307692307693,27.0
+0.3,T cell,0.6095334685598377,1146.0
+0.3,double negative T regulatory cell,0.5517241379310345,19.0
+0.3,hematopoietic stem cell,0.7096774193548387,14.0
+0.3,innate lymphoid cell,0.49056603773584906,35.0
+0.3,pre-conventional dendritic cell,0.7083333333333334,27.0
+0.4,T cell,0.6146146146146146,1146.0
+0.4,double negative T regulatory cell,0.6875,19.0
+0.4,hematopoietic stem cell,0.5925925925925926,14.0
+0.4,innate lymphoid cell,0.5517241379310345,35.0
+0.4,pre-conventional dendritic cell,0.5714285714285714,27.0
+0.5,T cell,0.6146741918932787,1146.0
+0.5,double negative T regulatory cell,0.6666666666666666,19.0
+0.5,hematopoietic stem cell,0.75,14.0
+0.5,innate lymphoid cell,0.3829787234042553,35.0
+0.5,pre-conventional dendritic cell,0.6976744186046512,27.0
+0.6,T cell,0.6306584362139918,1146.0
+0.6,double negative T regulatory cell,0.7878787878787878,19.0
+0.6,hematopoietic stem cell,0.75,14.0
+0.6,innate lymphoid cell,0.5818181818181818,35.0
+0.6,pre-conventional dendritic cell,0.6808510638297872,27.0
+0.0,T cell,0.5541958041958042,1146.0
+0.0,double negative T regulatory cell,0.5714285714285714,19.0
+0.0,hematopoietic stem cell,0.0,14.0
+0.0,innate lymphoid cell,0.45614035087719296,35.0
+0.0,pre-conventional dendritic cell,0.723404255319149,27.0
+0.1,T cell,0.5816929133858267,1146.0
+0.1,double negative T regulatory cell,0.625,19.0
+0.1,hematopoietic stem cell,0.5,14.0
+0.1,innate lymphoid cell,0.48148148148148145,35.0
+0.1,pre-conventional dendritic cell,0.7083333333333334,27.0
+0.2,T cell,0.6063936063936064,1146.0
+0.2,double negative T regulatory cell,0.7894736842105263,19.0
+0.2,hematopoietic stem cell,0.5833333333333334,14.0
+0.2,innate lymphoid cell,0.6129032258064516,35.0
+0.2,pre-conventional dendritic cell,0.75,27.0
+0.3,T cell,0.5986124876114965,1146.0
+0.3,double negative T regulatory cell,0.6666666666666666,19.0
+0.3,hematopoietic stem cell,0.5833333333333334,14.0
+0.3,innate lymphoid cell,0.48148148148148145,35.0
+0.3,pre-conventional dendritic cell,0.6666666666666666,27.0
+0.4,T cell,0.5925187032418953,1146.0
+0.4,double negative T regulatory cell,0.75,19.0
+0.4,hematopoietic stem cell,0.3,14.0
+0.4,innate lymphoid cell,0.42857142857142855,35.0
+0.4,pre-conventional dendritic cell,0.6363636363636364,27.0
+0.5,T cell,0.6051179126944305,1146.0
+0.5,double negative T regulatory cell,0.7647058823529411,19.0
+0.5,hematopoietic stem cell,0.6428571428571429,14.0
+0.5,innate lymphoid cell,0.5185185185185185,35.0
+0.5,pre-conventional dendritic cell,0.7391304347826086,27.0
+0.6,T cell,0.618546365914787,1146.0
+0.6,double negative T regulatory cell,0.7272727272727273,19.0
+0.6,hematopoietic stem cell,0.7586206896551724,14.0
+0.6,innate lymphoid cell,0.5283018867924528,35.0
+0.6,pre-conventional dendritic cell,0.7555555555555555,27.0
+0.0,T cell,0.5521472392638037,1146.0
+0.0,double negative T regulatory cell,0.5,19.0
+0.0,hematopoietic stem cell,0.4,14.0
+0.0,innate lymphoid cell,0.43333333333333335,35.0
+0.0,pre-conventional dendritic cell,0.6122448979591837,27.0
+0.1,T cell,0.6008793356130924,1146.0
+0.1,double negative T regulatory cell,0.6,19.0
+0.1,hematopoietic stem cell,0.8,14.0
+0.1,innate lymphoid cell,0.48,35.0
+0.1,pre-conventional dendritic cell,0.65,27.0
+0.2,T cell,0.6054386865059005,1146.0
+0.2,double negative T regulatory cell,0.6875,19.0
+0.2,hematopoietic stem cell,0.34782608695652173,14.0
+0.2,innate lymphoid cell,0.4444444444444444,35.0
+0.2,pre-conventional dendritic cell,0.6222222222222222,27.0
+0.3,T cell,0.6130952380952381,1146.0
+0.3,double negative T regulatory cell,0.6428571428571429,19.0
+0.3,hematopoietic stem cell,0.4,14.0
+0.3,innate lymphoid cell,0.5714285714285714,35.0
+0.3,pre-conventional dendritic cell,0.76,27.0
+0.4,T cell,0.6089108910891089,1146.0
+0.4,double negative T regulatory cell,0.6666666666666666,19.0
+0.4,hematopoietic stem cell,0.7333333333333333,14.0
+0.4,innate lymphoid cell,0.5818181818181818,35.0
+0.4,pre-conventional dendritic cell,0.6818181818181818,27.0
+0.5,T cell,0.5978152929493545,1146.0
+0.5,double negative T regulatory cell,0.6206896551724138,19.0
+0.5,hematopoietic stem cell,0.43478260869565216,14.0
+0.5,innate lymphoid cell,0.5,35.0
+0.5,pre-conventional dendritic cell,0.6666666666666666,27.0
+0.6,T cell,0.6256763403836695,1146.0
+0.6,double negative T regulatory cell,0.6896551724137931,19.0
+0.6,hematopoietic stem cell,0.5384615384615384,14.0
+0.6,innate lymphoid cell,0.5614035087719298,35.0
+0.6,pre-conventional dendritic cell,0.6956521739130435,27.0
+0.0,T cell,0.5972420351878269,1146.0
+0.0,double negative T regulatory cell,0.7428571428571429,19.0
+0.0,hematopoietic stem cell,0.13333333333333333,14.0
+0.0,innate lymphoid cell,0.5079365079365079,35.0
+0.0,pre-conventional dendritic cell,0.5714285714285714,27.0
+0.1,T cell,0.6055045871559633,1146.0
+0.1,double negative T regulatory cell,0.5517241379310345,19.0
+0.1,hematopoietic stem cell,0.56,14.0
+0.1,innate lymphoid cell,0.4,35.0
+0.1,pre-conventional dendritic cell,0.6,27.0
+0.2,T cell,0.5829725829725829,1146.0
+0.2,double negative T regulatory cell,0.5517241379310345,19.0
+0.2,hematopoietic stem cell,0.7333333333333333,14.0
+0.2,innate lymphoid cell,0.5306122448979592,35.0
+0.2,pre-conventional dendritic cell,0.6086956521739131,27.0
+0.3,T cell,0.5720761559383499,1146.0
+0.3,double negative T regulatory cell,0.6857142857142857,19.0
+0.3,hematopoietic stem cell,0.8,14.0
+0.3,innate lymphoid cell,0.375,35.0
+0.3,pre-conventional dendritic cell,0.6222222222222222,27.0
+0.4,T cell,0.6150773839241138,1146.0
+0.4,double negative T regulatory cell,0.6206896551724138,19.0
+0.4,hematopoietic stem cell,0.75,14.0
+0.4,innate lymphoid cell,0.46153846153846156,35.0
+0.4,pre-conventional dendritic cell,0.7441860465116279,27.0
+0.5,T cell,0.6068895643363729,1146.0
+0.5,double negative T regulatory cell,0.6451612903225806,19.0
+0.5,hematopoietic stem cell,0.7096774193548387,14.0
+0.5,innate lymphoid cell,0.48148148148148145,35.0
+0.5,pre-conventional dendritic cell,0.6976744186046512,27.0
+0.6,T cell,0.633622892181911,1146.0
+0.6,double negative T regulatory cell,0.6060606060606061,19.0
+0.6,hematopoietic stem cell,0.75,14.0
+0.6,innate lymphoid cell,0.4489795918367347,35.0
+0.6,pre-conventional dendritic cell,0.6222222222222222,27.0
+0.0,T cell,0.5595854922279793,1146.0
+0.0,double negative T regulatory cell,0.6875,19.0
+0.0,hematopoietic stem cell,0.6451612903225806,14.0
+0.0,innate lymphoid cell,0.37209302325581395,35.0
+0.0,pre-conventional dendritic cell,0.6976744186046512,27.0
+0.1,T cell,0.60727969348659,1146.0
+0.1,double negative T regulatory cell,0.7058823529411765,19.0
+0.1,hematopoietic stem cell,0.7096774193548387,14.0
+0.1,innate lymphoid cell,0.5384615384615384,35.0
+0.1,pre-conventional dendritic cell,0.65,27.0
+0.2,T cell,0.6347954657466732,1146.0
+0.2,double negative T regulatory cell,0.75,19.0
+0.2,hematopoietic stem cell,0.6666666666666666,14.0
+0.2,innate lymphoid cell,0.5263157894736842,35.0
+0.2,pre-conventional dendritic cell,0.5405405405405406,27.0
+0.3,T cell,0.6064516129032258,1146.0
+0.3,double negative T regulatory cell,0.5714285714285714,19.0
+0.3,hematopoietic stem cell,0.7741935483870968,14.0
+0.3,innate lymphoid cell,0.5,35.0
+0.3,pre-conventional dendritic cell,0.7111111111111111,27.0
+0.4,T cell,0.5808325266214908,1146.0
+0.4,double negative T regulatory cell,0.6857142857142857,19.0
+0.4,hematopoietic stem cell,0.7096774193548387,14.0
+0.4,innate lymphoid cell,0.5283018867924528,35.0
+0.4,pre-conventional dendritic cell,0.6666666666666666,27.0
+0.5,T cell,0.6231599607458292,1146.0
+0.5,double negative T regulatory cell,0.6896551724137931,19.0
+0.5,hematopoietic stem cell,0.75,14.0
+0.5,innate lymphoid cell,0.5925925925925926,35.0
+0.5,pre-conventional dendritic cell,0.6046511627906976,27.0
+0.6,T cell,0.6054216867469879,1146.0
+0.6,double negative T regulatory cell,0.6896551724137931,19.0
+0.6,hematopoietic stem cell,0.7586206896551724,14.0
+0.6,innate lymphoid cell,0.6153846153846154,35.0
+0.6,pre-conventional dendritic cell,0.6530612244897959,27.0
+0.0,T cell,0.5533190578158458,1146.0
+0.0,double negative T regulatory cell,0.6896551724137931,19.0
+0.0,hematopoietic stem cell,0.43478260869565216,14.0
+0.0,innate lymphoid cell,0.24489795918367346,35.0
+0.0,pre-conventional dendritic cell,0.6046511627906976,27.0
+0.1,T cell,0.5995110024449878,1146.0
+0.1,double negative T regulatory cell,0.8235294117647058,19.0
+0.1,hematopoietic stem cell,0.8125,14.0
+0.1,innate lymphoid cell,0.391304347826087,35.0
+0.1,pre-conventional dendritic cell,0.6808510638297872,27.0
+0.2,T cell,0.5909317389138017,1146.0
+0.2,double negative T regulatory cell,0.7692307692307693,19.0
+0.2,hematopoietic stem cell,0.6896551724137931,14.0
+0.2,innate lymphoid cell,0.3333333333333333,35.0
+0.2,pre-conventional dendritic cell,0.6938775510204082,27.0
+0.3,T cell,0.6014056224899599,1146.0
+0.3,double negative T regulatory cell,0.7272727272727273,19.0
+0.3,hematopoietic stem cell,0.875,14.0
+0.3,innate lymphoid cell,0.5306122448979592,35.0
+0.3,pre-conventional dendritic cell,0.6521739130434783,27.0
+0.4,T cell,0.6317948717948718,1146.0
+0.4,double negative T regulatory cell,0.75,19.0
+0.4,hematopoietic stem cell,0.7333333333333333,14.0
+0.4,innate lymphoid cell,0.5283018867924528,35.0
+0.4,pre-conventional dendritic cell,0.6382978723404256,27.0
+0.5,T cell,0.6321190354027707,1146.0
+0.5,double negative T regulatory cell,0.6666666666666666,19.0
+0.5,hematopoietic stem cell,0.75,14.0
+0.5,innate lymphoid cell,0.43137254901960786,35.0
+0.5,pre-conventional dendritic cell,0.6808510638297872,27.0
+0.6,T cell,0.6074527820316488,1146.0
+0.6,double negative T regulatory cell,0.6896551724137931,19.0
+0.6,hematopoietic stem cell,0.6896551724137931,14.0
+0.6,innate lymphoid cell,0.5964912280701754,35.0
+0.6,pre-conventional dendritic cell,0.6976744186046512,27.0
+0.0,T cell,0.5835616438356165,1146.0
+0.0,double negative T regulatory cell,0.7272727272727273,19.0
+0.0,hematopoietic stem cell,0.6363636363636364,14.0
+0.0,innate lymphoid cell,0.5,35.0
+0.0,pre-conventional dendritic cell,0.55,27.0
+0.1,T cell,0.5713047247507586,1146.0
+0.1,double negative T regulatory cell,0.7058823529411765,19.0
+0.1,hematopoietic stem cell,0.72,14.0
+0.1,innate lymphoid cell,0.3181818181818182,35.0
+0.1,pre-conventional dendritic cell,0.5909090909090909,27.0
+0.2,T cell,0.5733590733590733,1146.0
+0.2,double negative T regulatory cell,0.6206896551724138,19.0
+0.2,hematopoietic stem cell,0.6153846153846154,14.0
+0.2,innate lymphoid cell,0.375,35.0
+0.2,pre-conventional dendritic cell,0.6808510638297872,27.0
+0.3,T cell,0.6232741617357002,1146.0
+0.3,double negative T regulatory cell,0.7878787878787878,19.0
+0.3,hematopoietic stem cell,0.6896551724137931,14.0
+0.3,innate lymphoid cell,0.5490196078431373,35.0
+0.3,pre-conventional dendritic cell,0.6956521739130435,27.0
+0.4,T cell,0.606508875739645,1146.0
+0.4,double negative T regulatory cell,0.5925925925925926,19.0
+0.4,hematopoietic stem cell,0.6428571428571429,14.0
+0.4,innate lymphoid cell,0.4727272727272727,35.0
+0.4,pre-conventional dendritic cell,0.6956521739130435,27.0
+0.5,T cell,0.6135902636916836,1146.0
+0.5,double negative T regulatory cell,0.75,19.0
+0.5,hematopoietic stem cell,0.8125,14.0
+0.5,innate lymphoid cell,0.5384615384615384,35.0
+0.5,pre-conventional dendritic cell,0.5714285714285714,27.0
+0.6,T cell,0.6276107997962302,1146.0
+0.6,double negative T regulatory cell,0.75,19.0
+0.6,hematopoietic stem cell,0.75,14.0
+0.6,innate lymphoid cell,0.5555555555555556,35.0
+0.6,pre-conventional dendritic cell,0.5909090909090909,27.0

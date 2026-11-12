@@ -1,0 +1,865 @@
+proportion,cell_type,f1,support
+0.0,"CD4-positive, alpha-beta T cell",0.2718334297281666,1213.0
+0.0,"CD8-positive, alpha-beta T cell",0.6637674525062943,2367.0
+0.0,double negative T regulatory cell,0.8571428571428571,8.0
+0.0,hematopoietic stem cell,0.8,3.0
+0.0,natural killer cell,0.61,338.0
+0.0,pre-conventional dendritic cell,0.5490196078431373,33.0
+0.1,"CD4-positive, alpha-beta T cell",0.3038990825688073,1213.0
+0.1,"CD8-positive, alpha-beta T cell",0.6912463243610043,2367.0
+0.1,double negative T regulatory cell,0.6666666666666666,8.0
+0.1,hematopoietic stem cell,0.0,3.0
+0.1,natural killer cell,0.6677265500794912,338.0
+0.1,pre-conventional dendritic cell,0.6181818181818182,33.0
+0.2,"CD4-positive, alpha-beta T cell",0.2940516273849607,1213.0
+0.2,"CD8-positive, alpha-beta T cell",0.6722460981678353,2367.0
+0.2,double negative T regulatory cell,0.6666666666666666,8.0
+0.2,hematopoietic stem cell,1.0,3.0
+0.2,natural killer cell,0.6912,338.0
+0.2,pre-conventional dendritic cell,0.5660377358490566,33.0
+0.3,"CD4-positive, alpha-beta T cell",0.30264672036823936,1213.0
+0.3,"CD8-positive, alpha-beta T cell",0.7017008286088094,2367.0
+0.3,double negative T regulatory cell,0.8,8.0
+0.3,hematopoietic stem cell,0.8,3.0
+0.3,natural killer cell,0.6858054226475279,338.0
+0.3,pre-conventional dendritic cell,0.6101694915254238,33.0
+0.4,"CD4-positive, alpha-beta T cell",0.3221476510067114,1213.0
+0.4,"CD8-positive, alpha-beta T cell",0.6591743119266055,2367.0
+0.4,double negative T regulatory cell,0.7692307692307693,8.0
+0.4,hematopoietic stem cell,1.0,3.0
+0.4,natural killer cell,0.6782334384858044,338.0
+0.4,pre-conventional dendritic cell,0.5714285714285714,33.0
+0.5,"CD4-positive, alpha-beta T cell",0.348543155579989,1213.0
+0.5,"CD8-positive, alpha-beta T cell",0.6916309496954658,2367.0
+0.5,double negative T regulatory cell,0.8571428571428571,8.0
+0.5,hematopoietic stem cell,0.8,3.0
+0.5,natural killer cell,0.7310789049919485,338.0
+0.5,pre-conventional dendritic cell,0.5964912280701754,33.0
+0.6,"CD4-positive, alpha-beta T cell",0.32805429864253394,1213.0
+0.6,"CD8-positive, alpha-beta T cell",0.7033503439094742,2367.0
+0.6,double negative T regulatory cell,0.9333333333333333,8.0
+0.6,hematopoietic stem cell,0.8,3.0
+0.6,natural killer cell,0.6559485530546624,338.0
+0.6,pre-conventional dendritic cell,0.6545454545454545,33.0
+0.7,"CD4-positive, alpha-beta T cell",0.32294617563739375,1213.0
+0.7,"CD8-positive, alpha-beta T cell",0.70019942388655,2367.0
+0.7,double negative T regulatory cell,0.5454545454545454,8.0
+0.7,hematopoietic stem cell,0.8,3.0
+0.7,natural killer cell,0.6288492706645057,338.0
+0.7,pre-conventional dendritic cell,0.6909090909090909,33.0
+0.8,"CD4-positive, alpha-beta T cell",0.3455674760022586,1213.0
+0.8,"CD8-positive, alpha-beta T cell",0.6982142857142857,2367.0
+0.8,double negative T regulatory cell,0.8571428571428571,8.0
+0.8,hematopoietic stem cell,0.8,3.0
+0.8,natural killer cell,0.6283783783783784,338.0
+0.8,pre-conventional dendritic cell,0.6666666666666666,33.0
+0.0,"CD4-positive, alpha-beta T cell",0.28298708590679394,1213.0
+0.0,"CD8-positive, alpha-beta T cell",0.6729559748427673,2367.0
+0.0,double negative T regulatory cell,0.5,8.0
+0.0,hematopoietic stem cell,1.0,3.0
+0.0,natural killer cell,0.6209150326797386,338.0
+0.0,pre-conventional dendritic cell,0.43478260869565216,33.0
+0.1,"CD4-positive, alpha-beta T cell",0.24168126094570927,1213.0
+0.1,"CD8-positive, alpha-beta T cell",0.6784673986108,2367.0
+0.1,double negative T regulatory cell,0.75,8.0
+0.1,hematopoietic stem cell,1.0,3.0
+0.1,natural killer cell,0.5361842105263158,338.0
+0.1,pre-conventional dendritic cell,0.3829787234042553,33.0
+0.2,"CD4-positive, alpha-beta T cell",0.3333333333333333,1213.0
+0.2,"CD8-positive, alpha-beta T cell",0.6966145833333334,2367.0
+0.2,double negative T regulatory cell,0.8235294117647058,8.0
+0.2,hematopoietic stem cell,0.8,3.0
+0.2,natural killer cell,0.6421725239616614,338.0
+0.2,pre-conventional dendritic cell,0.6181818181818182,33.0
+0.3,"CD4-positive, alpha-beta T cell",0.29408450704225353,1213.0
+0.3,"CD8-positive, alpha-beta T cell",0.6755235307363207,2367.0
+0.3,double negative T regulatory cell,0.875,8.0
+0.3,hematopoietic stem cell,0.8,3.0
+0.3,natural killer cell,0.6192893401015228,338.0
+0.3,pre-conventional dendritic cell,0.5925925925925926,33.0
+0.4,"CD4-positive, alpha-beta T cell",0.33783783783783783,1213.0
+0.4,"CD8-positive, alpha-beta T cell",0.6994462901439645,2367.0
+0.4,double negative T regulatory cell,0.5,8.0
+0.4,hematopoietic stem cell,0.8,3.0
+0.4,natural killer cell,0.6599664991624791,338.0
+0.4,pre-conventional dendritic cell,0.5454545454545454,33.0
+0.5,"CD4-positive, alpha-beta T cell",0.2896710905943451,1213.0
+0.5,"CD8-positive, alpha-beta T cell",0.6715228773048031,2367.0
+0.5,double negative T regulatory cell,0.5454545454545454,8.0
+0.5,hematopoietic stem cell,1.0,3.0
+0.5,natural killer cell,0.6219931271477663,338.0
+0.5,pre-conventional dendritic cell,0.6229508196721312,33.0
+0.6,"CD4-positive, alpha-beta T cell",0.32298136645962733,1213.0
+0.6,"CD8-positive, alpha-beta T cell",0.6891555354312882,2367.0
+0.6,double negative T regulatory cell,0.7692307692307693,8.0
+0.6,hematopoietic stem cell,0.5,3.0
+0.6,natural killer cell,0.6406779661016949,338.0
+0.6,pre-conventional dendritic cell,0.5660377358490566,33.0
+0.7,"CD4-positive, alpha-beta T cell",0.34444444444444444,1213.0
+0.7,"CD8-positive, alpha-beta T cell",0.7006425880788832,2367.0
+0.7,double negative T regulatory cell,0.8,8.0
+0.7,hematopoietic stem cell,0.8,3.0
+0.7,natural killer cell,0.6742671009771987,338.0
+0.7,pre-conventional dendritic cell,0.5517241379310345,33.0
+0.8,"CD4-positive, alpha-beta T cell",0.33839235525576167,1213.0
+0.8,"CD8-positive, alpha-beta T cell",0.7007751937984497,2367.0
+0.8,double negative T regulatory cell,0.5,8.0
+0.8,hematopoietic stem cell,1.0,3.0
+0.8,natural killer cell,0.5993265993265994,338.0
+0.8,pre-conventional dendritic cell,0.6296296296296297,33.0
+0.0,"CD4-positive, alpha-beta T cell",0.2581818181818182,1213.0
+0.0,"CD8-positive, alpha-beta T cell",0.6499655251666283,2367.0
+0.0,double negative T regulatory cell,0.5,8.0
+0.0,hematopoietic stem cell,0.8,3.0
+0.0,natural killer cell,0.5618374558303887,338.0
+0.0,pre-conventional dendritic cell,0.5490196078431373,33.0
+0.1,"CD4-positive, alpha-beta T cell",0.2904707233065442,1213.0
+0.1,"CD8-positive, alpha-beta T cell",0.6770833333333334,2367.0
+0.1,double negative T regulatory cell,0.6666666666666666,8.0
+0.1,hematopoietic stem cell,1.0,3.0
+0.1,natural killer cell,0.6024096385542169,338.0
+0.1,pre-conventional dendritic cell,0.6037735849056604,33.0
+0.2,"CD4-positive, alpha-beta T cell",0.32081911262798635,1213.0
+0.2,"CD8-positive, alpha-beta T cell",0.6768060836501901,2367.0
+0.2,double negative T regulatory cell,0.4,8.0
+0.2,hematopoietic stem cell,0.5,3.0
+0.2,natural killer cell,0.6423841059602649,338.0
+0.2,pre-conventional dendritic cell,0.52,33.0
+0.3,"CD4-positive, alpha-beta T cell",0.29904440697020795,1213.0
+0.3,"CD8-positive, alpha-beta T cell",0.6771512019770838,2367.0
+0.3,double negative T regulatory cell,0.6666666666666666,8.0
+0.3,hematopoietic stem cell,0.8,3.0
+0.3,natural killer cell,0.686084142394822,338.0
+0.3,pre-conventional dendritic cell,0.43478260869565216,33.0
+0.4,"CD4-positive, alpha-beta T cell",0.3100511073253833,1213.0
+0.4,"CD8-positive, alpha-beta T cell",0.6934583612413485,2367.0
+0.4,double negative T regulatory cell,0.5,8.0
+0.4,hematopoietic stem cell,0.5,3.0
+0.4,natural killer cell,0.6688417618270799,338.0
+0.4,pre-conventional dendritic cell,0.5818181818181818,33.0
+0.5,"CD4-positive, alpha-beta T cell",0.35659760087241005,1213.0
+0.5,"CD8-positive, alpha-beta T cell",0.7198947137530161,2367.0
+0.5,double negative T regulatory cell,0.7692307692307693,8.0
+0.5,hematopoietic stem cell,1.0,3.0
+0.5,natural killer cell,0.6722129783693843,338.0
+0.5,pre-conventional dendritic cell,0.5283018867924528,33.0
+0.6,"CD4-positive, alpha-beta T cell",0.343342776203966,1213.0
+0.6,"CD8-positive, alpha-beta T cell",0.6982565936522128,2367.0
+0.6,double negative T regulatory cell,0.8571428571428571,8.0
+0.6,hematopoietic stem cell,1.0,3.0
+0.6,natural killer cell,0.7038216560509554,338.0
+0.6,pre-conventional dendritic cell,0.7384615384615385,33.0
+0.7,"CD4-positive, alpha-beta T cell",0.31959345002823264,1213.0
+0.7,"CD8-positive, alpha-beta T cell",0.6832518880497557,2367.0
+0.7,double negative T regulatory cell,0.6666666666666666,8.0
+0.7,hematopoietic stem cell,0.8,3.0
+0.7,natural killer cell,0.6066666666666667,338.0
+0.7,pre-conventional dendritic cell,0.5660377358490566,33.0
+0.8,"CD4-positive, alpha-beta T cell",0.33370165745856356,1213.0
+0.8,"CD8-positive, alpha-beta T cell",0.6875988253896544,2367.0
+0.8,double negative T regulatory cell,0.5,8.0
+0.8,hematopoietic stem cell,0.8,3.0
+0.8,natural killer cell,0.6430868167202572,338.0
+0.8,pre-conventional dendritic cell,0.5925925925925926,33.0
+0.0,"CD4-positive, alpha-beta T cell",0.3231538034425319,1213.0
+0.0,"CD8-positive, alpha-beta T cell",0.6731996353691887,2367.0
+0.0,double negative T regulatory cell,0.9411764705882353,8.0
+0.0,hematopoietic stem cell,0.5,3.0
+0.0,natural killer cell,0.6523076923076923,338.0
+0.0,pre-conventional dendritic cell,0.6666666666666666,33.0
+0.1,"CD4-positive, alpha-beta T cell",0.25882352941176473,1213.0
+0.1,"CD8-positive, alpha-beta T cell",0.7057833859095689,2367.0
+0.1,double negative T regulatory cell,0.5,8.0
+0.1,hematopoietic stem cell,0.8,3.0
+0.1,natural killer cell,0.5159010600706714,338.0
+0.1,pre-conventional dendritic cell,0.5490196078431373,33.0
+0.2,"CD4-positive, alpha-beta T cell",0.2766333137139494,1213.0
+0.2,"CD8-positive, alpha-beta T cell",0.6660690273419991,2367.0
+0.2,double negative T regulatory cell,0.8571428571428571,8.0
+0.2,hematopoietic stem cell,1.0,3.0
+0.2,natural killer cell,0.5714285714285714,338.0
+0.2,pre-conventional dendritic cell,0.4444444444444444,33.0
+0.3,"CD4-positive, alpha-beta T cell",0.25921521997621877,1213.0
+0.3,"CD8-positive, alpha-beta T cell",0.6686072548141514,2367.0
+0.3,double negative T regulatory cell,0.5454545454545454,8.0
+0.3,hematopoietic stem cell,1.0,3.0
+0.3,natural killer cell,0.6003372681281619,338.0
+0.3,pre-conventional dendritic cell,0.56,33.0
+0.4,"CD4-positive, alpha-beta T cell",0.3262736119061248,1213.0
+0.4,"CD8-positive, alpha-beta T cell",0.6766614455135377,2367.0
+0.4,double negative T regulatory cell,0.8,8.0
+0.4,hematopoietic stem cell,0.8,3.0
+0.4,natural killer cell,0.6358974358974359,338.0
+0.4,pre-conventional dendritic cell,0.5925925925925926,33.0
+0.5,"CD4-positive, alpha-beta T cell",0.291497975708502,1213.0
+0.5,"CD8-positive, alpha-beta T cell",0.6709529276693456,2367.0
+0.5,double negative T regulatory cell,0.5454545454545454,8.0
+0.5,hematopoietic stem cell,0.8,3.0
+0.5,natural killer cell,0.5648312611012434,338.0
+0.5,pre-conventional dendritic cell,0.5490196078431373,33.0
+0.6,"CD4-positive, alpha-beta T cell",0.3425720620842572,1213.0
+0.6,"CD8-positive, alpha-beta T cell",0.6772463120250335,2367.0
+0.6,double negative T regulatory cell,1.0,8.0
+0.6,hematopoietic stem cell,1.0,3.0
+0.6,natural killer cell,0.6580645161290323,338.0
+0.6,pre-conventional dendritic cell,0.6666666666666666,33.0
+0.7,"CD4-positive, alpha-beta T cell",0.31789594053744996,1213.0
+0.7,"CD8-positive, alpha-beta T cell",0.6975815398269358,2367.0
+0.7,double negative T regulatory cell,0.8571428571428571,8.0
+0.7,hematopoietic stem cell,1.0,3.0
+0.7,natural killer cell,0.613013698630137,338.0
+0.7,pre-conventional dendritic cell,0.6545454545454545,33.0
+0.8,"CD4-positive, alpha-beta T cell",0.3423728813559322,1213.0
+0.8,"CD8-positive, alpha-beta T cell",0.7156970362239298,2367.0
+0.8,double negative T regulatory cell,0.7142857142857143,8.0
+0.8,hematopoietic stem cell,0.5,3.0
+0.8,natural killer cell,0.6452702702702703,338.0
+0.8,pre-conventional dendritic cell,0.6909090909090909,33.0
+0.0,"CD4-positive, alpha-beta T cell",0.3054131054131054,1213.0
+0.0,"CD8-positive, alpha-beta T cell",0.6591119333950046,2367.0
+0.0,double negative T regulatory cell,0.8571428571428571,8.0
+0.0,hematopoietic stem cell,1.0,3.0
+0.0,natural killer cell,0.6539074960127592,338.0
+0.0,pre-conventional dendritic cell,0.5660377358490566,33.0
+0.1,"CD4-positive, alpha-beta T cell",0.28308400460299193,1213.0
+0.1,"CD8-positive, alpha-beta T cell",0.6455696202531646,2367.0
+0.1,double negative T regulatory cell,0.6666666666666666,8.0
+0.1,hematopoietic stem cell,1.0,3.0
+0.1,natural killer cell,0.5220228384991843,338.0
+0.1,pre-conventional dendritic cell,0.6153846153846154,33.0
+0.2,"CD4-positive, alpha-beta T cell",0.28222996515679444,1213.0
+0.2,"CD8-positive, alpha-beta T cell",0.6624590930341281,2367.0
+0.2,double negative T regulatory cell,0.8571428571428571,8.0
+0.2,hematopoietic stem cell,1.0,3.0
+0.2,natural killer cell,0.6027874564459931,338.0
+0.2,pre-conventional dendritic cell,0.5769230769230769,33.0
+0.3,"CD4-positive, alpha-beta T cell",0.2902654867256637,1213.0
+0.3,"CD8-positive, alpha-beta T cell",0.6592282659228266,2367.0
+0.3,double negative T regulatory cell,0.4,8.0
+0.3,hematopoietic stem cell,0.5,3.0
+0.3,natural killer cell,0.5833333333333334,338.0
+0.3,pre-conventional dendritic cell,0.6551724137931034,33.0
+0.4,"CD4-positive, alpha-beta T cell",0.3348519362186788,1213.0
+0.4,"CD8-positive, alpha-beta T cell",0.6876245295550144,2367.0
+0.4,double negative T regulatory cell,0.6153846153846154,8.0
+0.4,hematopoietic stem cell,0.5,3.0
+0.4,natural killer cell,0.6591276252019386,338.0
+0.4,pre-conventional dendritic cell,0.5490196078431373,33.0
+0.5,"CD4-positive, alpha-beta T cell",0.32293986636971045,1213.0
+0.5,"CD8-positive, alpha-beta T cell",0.6771340114993366,2367.0
+0.5,double negative T regulatory cell,0.7142857142857143,8.0
+0.5,hematopoietic stem cell,0.8,3.0
+0.5,natural killer cell,0.6362098138747885,338.0
+0.5,pre-conventional dendritic cell,0.6440677966101694,33.0
+0.6,"CD4-positive, alpha-beta T cell",0.34872351982618144,1213.0
+0.6,"CD8-positive, alpha-beta T cell",0.7188755020080321,2367.0
+0.6,double negative T regulatory cell,0.8571428571428571,8.0
+0.6,hematopoietic stem cell,1.0,3.0
+0.6,natural killer cell,0.6742671009771987,338.0
+0.6,pre-conventional dendritic cell,0.5555555555555556,33.0
+0.7,"CD4-positive, alpha-beta T cell",0.32395950506186727,1213.0
+0.7,"CD8-positive, alpha-beta T cell",0.6893138357705287,2367.0
+0.7,double negative T regulatory cell,0.7692307692307693,8.0
+0.7,hematopoietic stem cell,1.0,3.0
+0.7,natural killer cell,0.6633333333333333,338.0
+0.7,pre-conventional dendritic cell,0.6296296296296297,33.0
+0.8,"CD4-positive, alpha-beta T cell",0.33578292820802713,1213.0
+0.8,"CD8-positive, alpha-beta T cell",0.7025483304042179,2367.0
+0.8,double negative T regulatory cell,0.6666666666666666,8.0
+0.8,hematopoietic stem cell,0.8,3.0
+0.8,natural killer cell,0.6621621621621622,338.0
+0.8,pre-conventional dendritic cell,0.6896551724137931,33.0
+0.0,"CD4-positive, alpha-beta T cell",0.2698412698412698,1213.0
+0.0,"CD8-positive, alpha-beta T cell",0.6671299513551077,2367.0
+0.0,double negative T regulatory cell,0.9333333333333333,8.0
+0.0,hematopoietic stem cell,1.0,3.0
+0.0,natural killer cell,0.6085470085470085,338.0
+0.0,pre-conventional dendritic cell,0.631578947368421,33.0
+0.1,"CD4-positive, alpha-beta T cell",0.2986225895316804,1213.0
+0.1,"CD8-positive, alpha-beta T cell",0.6914660831509847,2367.0
+0.1,double negative T regulatory cell,0.6666666666666666,8.0
+0.1,hematopoietic stem cell,0.8,3.0
+0.1,natural killer cell,0.6092943201376936,338.0
+0.1,pre-conventional dendritic cell,0.47058823529411764,33.0
+0.2,"CD4-positive, alpha-beta T cell",0.318233295583239,1213.0
+0.2,"CD8-positive, alpha-beta T cell",0.6785231877532643,2367.0
+0.2,double negative T regulatory cell,1.0,8.0
+0.2,hematopoietic stem cell,0.8,3.0
+0.2,natural killer cell,0.6717791411042945,338.0
+0.2,pre-conventional dendritic cell,0.6037735849056604,33.0
+0.3,"CD4-positive, alpha-beta T cell",0.28034188034188035,1213.0
+0.3,"CD8-positive, alpha-beta T cell",0.6860956618464961,2367.0
+0.3,double negative T regulatory cell,0.4,8.0
+0.3,hematopoietic stem cell,1.0,3.0
+0.3,natural killer cell,0.5394495412844037,338.0
+0.3,pre-conventional dendritic cell,0.52,33.0
+0.4,"CD4-positive, alpha-beta T cell",0.3344370860927152,1213.0
+0.4,"CD8-positive, alpha-beta T cell",0.6791493296347665,2367.0
+0.4,double negative T regulatory cell,0.8235294117647058,8.0
+0.4,hematopoietic stem cell,1.0,3.0
+0.4,natural killer cell,0.7003154574132492,338.0
+0.4,pre-conventional dendritic cell,0.6274509803921569,33.0
+0.5,"CD4-positive, alpha-beta T cell",0.33042529989094876,1213.0
+0.5,"CD8-positive, alpha-beta T cell",0.6938775510204082,2367.0
+0.5,double negative T regulatory cell,0.6153846153846154,8.0
+0.5,hematopoietic stem cell,0.8,3.0
+0.5,natural killer cell,0.6511627906976745,338.0
+0.5,pre-conventional dendritic cell,0.5714285714285714,33.0
+0.6,"CD4-positive, alpha-beta T cell",0.3432343234323432,1213.0
+0.6,"CD8-positive, alpha-beta T cell",0.6929590017825312,2367.0
+0.6,double negative T regulatory cell,0.4,8.0
+0.6,hematopoietic stem cell,0.8,3.0
+0.6,natural killer cell,0.601018675721562,338.0
+0.6,pre-conventional dendritic cell,0.631578947368421,33.0
+0.7,"CD4-positive, alpha-beta T cell",0.3303769401330377,1213.0
+0.7,"CD8-positive, alpha-beta T cell",0.6831368993653671,2367.0
+0.7,double negative T regulatory cell,0.7692307692307693,8.0
+0.7,hematopoietic stem cell,0.5,3.0
+0.7,natural killer cell,0.6232876712328768,338.0
+0.7,pre-conventional dendritic cell,0.6206896551724138,33.0
+0.8,"CD4-positive, alpha-beta T cell",0.34359805510534847,1213.0
+0.8,"CD8-positive, alpha-beta T cell",0.7070796460176991,2367.0
+0.8,double negative T regulatory cell,0.6666666666666666,8.0
+0.8,hematopoietic stem cell,1.0,3.0
+0.8,natural killer cell,0.6479338842975206,338.0
+0.8,pre-conventional dendritic cell,0.7,33.0
+0.0,"CD4-positive, alpha-beta T cell",0.24924379915305506,1213.0
+0.0,"CD8-positive, alpha-beta T cell",0.6421200750469043,2367.0
+0.0,double negative T regulatory cell,0.5454545454545454,8.0
+0.0,hematopoietic stem cell,0.8,3.0
+0.0,natural killer cell,0.4642857142857143,338.0
+0.0,pre-conventional dendritic cell,0.5964912280701754,33.0
+0.1,"CD4-positive, alpha-beta T cell",0.27824019024970276,1213.0
+0.1,"CD8-positive, alpha-beta T cell",0.6536096561147803,2367.0
+0.1,double negative T regulatory cell,0.5454545454545454,8.0
+0.1,hematopoietic stem cell,1.0,3.0
+0.1,natural killer cell,0.610051993067591,338.0
+0.1,pre-conventional dendritic cell,0.5925925925925926,33.0
+0.2,"CD4-positive, alpha-beta T cell",0.26934435912581217,1213.0
+0.2,"CD8-positive, alpha-beta T cell",0.6594448205822614,2367.0
+0.2,double negative T regulatory cell,0.5,8.0
+0.2,hematopoietic stem cell,0.5,3.0
+0.2,natural killer cell,0.6234676007005254,338.0
+0.2,pre-conventional dendritic cell,0.6122448979591837,33.0
+0.3,"CD4-positive, alpha-beta T cell",0.2714878482513337,1213.0
+0.3,"CD8-positive, alpha-beta T cell",0.6876663708961845,2367.0
+0.3,double negative T regulatory cell,0.6666666666666666,8.0
+0.3,hematopoietic stem cell,1.0,3.0
+0.3,natural killer cell,0.5785714285714286,338.0
+0.3,pre-conventional dendritic cell,0.5106382978723404,33.0
+0.4,"CD4-positive, alpha-beta T cell",0.2776470588235294,1213.0
+0.4,"CD8-positive, alpha-beta T cell",0.7062146892655368,2367.0
+0.4,double negative T regulatory cell,0.2222222222222222,8.0
+0.4,hematopoietic stem cell,1.0,3.0
+0.4,natural killer cell,0.5585284280936454,338.0
+0.4,pre-conventional dendritic cell,0.6153846153846154,33.0
+0.5,"CD4-positive, alpha-beta T cell",0.3059083379348426,1213.0
+0.5,"CD8-positive, alpha-beta T cell",0.6767357980162308,2367.0
+0.5,double negative T regulatory cell,0.6666666666666666,8.0
+0.5,hematopoietic stem cell,1.0,3.0
+0.5,natural killer cell,0.6333333333333333,338.0
+0.5,pre-conventional dendritic cell,0.6666666666666666,33.0
+0.6,"CD4-positive, alpha-beta T cell",0.3155505107832009,1213.0
+0.6,"CD8-positive, alpha-beta T cell",0.6863319072281018,2367.0
+0.6,double negative T regulatory cell,0.8571428571428571,8.0
+0.6,hematopoietic stem cell,0.5,3.0
+0.6,natural killer cell,0.6548387096774193,338.0
+0.6,pre-conventional dendritic cell,0.6206896551724138,33.0
+0.7,"CD4-positive, alpha-beta T cell",0.3259176863181313,1213.0
+0.7,"CD8-positive, alpha-beta T cell",0.670556552962298,2367.0
+0.7,double negative T regulatory cell,0.7692307692307693,8.0
+0.7,hematopoietic stem cell,1.0,3.0
+0.7,natural killer cell,0.639344262295082,338.0
+0.7,pre-conventional dendritic cell,0.6666666666666666,33.0
+0.8,"CD4-positive, alpha-beta T cell",0.34850166481687017,1213.0
+0.8,"CD8-positive, alpha-beta T cell",0.7041873030166592,2367.0
+0.8,double negative T regulatory cell,0.8571428571428571,8.0
+0.8,hematopoietic stem cell,0.8,3.0
+0.8,natural killer cell,0.6500829187396352,338.0
+0.8,pre-conventional dendritic cell,0.6181818181818182,33.0
+0.0,"CD4-positive, alpha-beta T cell",0.2845714285714286,1213.0
+0.0,"CD8-positive, alpha-beta T cell",0.6941889163114202,2367.0
+0.0,double negative T regulatory cell,0.7692307692307693,8.0
+0.0,hematopoietic stem cell,0.0,3.0
+0.0,natural killer cell,0.6025641025641025,338.0
+0.0,pre-conventional dendritic cell,0.6415094339622641,33.0
+0.1,"CD4-positive, alpha-beta T cell",0.2779386218876665,1213.0
+0.1,"CD8-positive, alpha-beta T cell",0.667262969588551,2367.0
+0.1,double negative T regulatory cell,0.5454545454545454,8.0
+0.1,hematopoietic stem cell,1.0,3.0
+0.1,natural killer cell,0.5684931506849316,338.0
+0.1,pre-conventional dendritic cell,0.5098039215686274,33.0
+0.2,"CD4-positive, alpha-beta T cell",0.2768328445747801,1213.0
+0.2,"CD8-positive, alpha-beta T cell",0.6662065792500576,2367.0
+0.2,double negative T regulatory cell,0.7692307692307693,8.0
+0.2,hematopoietic stem cell,0.8,3.0
+0.2,natural killer cell,0.5051903114186851,338.0
+0.2,pre-conventional dendritic cell,0.711864406779661,33.0
+0.3,"CD4-positive, alpha-beta T cell",0.32943795214245963,1213.0
+0.3,"CD8-positive, alpha-beta T cell",0.665884561238855,2367.0
+0.3,double negative T regulatory cell,0.9333333333333333,8.0
+0.3,hematopoietic stem cell,1.0,3.0
+0.3,natural killer cell,0.695364238410596,338.0
+0.3,pre-conventional dendritic cell,0.6538461538461539,33.0
+0.4,"CD4-positive, alpha-beta T cell",0.36904761904761907,1213.0
+0.4,"CD8-positive, alpha-beta T cell",0.7054658110201372,2367.0
+0.4,double negative T regulatory cell,0.7692307692307693,8.0
+0.4,hematopoietic stem cell,0.5,3.0
+0.4,natural killer cell,0.6845637583892618,338.0
+0.4,pre-conventional dendritic cell,0.5925925925925926,33.0
+0.5,"CD4-positive, alpha-beta T cell",0.3258678611422172,1213.0
+0.5,"CD8-positive, alpha-beta T cell",0.6915555555555556,2367.0
+0.5,double negative T regulatory cell,0.8571428571428571,8.0
+0.5,hematopoietic stem cell,1.0,3.0
+0.5,natural killer cell,0.673202614379085,338.0
+0.5,pre-conventional dendritic cell,0.6545454545454545,33.0
+0.6,"CD4-positive, alpha-beta T cell",0.3142370958593307,1213.0
+0.6,"CD8-positive, alpha-beta T cell",0.6902050113895216,2367.0
+0.6,double negative T regulatory cell,0.7142857142857143,8.0
+0.6,hematopoietic stem cell,0.8,3.0
+0.6,natural killer cell,0.6826923076923077,338.0
+0.6,pre-conventional dendritic cell,0.6037735849056604,33.0
+0.7,"CD4-positive, alpha-beta T cell",0.3569060773480663,1213.0
+0.7,"CD8-positive, alpha-beta T cell",0.7097057531840141,2367.0
+0.7,double negative T regulatory cell,0.7142857142857143,8.0
+0.7,hematopoietic stem cell,0.8,3.0
+0.7,natural killer cell,0.6148648648648649,338.0
+0.7,pre-conventional dendritic cell,0.7017543859649122,33.0
+0.8,"CD4-positive, alpha-beta T cell",0.3324006715165081,1213.0
+0.8,"CD8-positive, alpha-beta T cell",0.6933453237410072,2367.0
+0.8,double negative T regulatory cell,0.7692307692307693,8.0
+0.8,hematopoietic stem cell,0.8,3.0
+0.8,natural killer cell,0.6272577996715928,338.0
+0.8,pre-conventional dendritic cell,0.6792452830188679,33.0
+0.0,"CD4-positive, alpha-beta T cell",0.2718334297281666,1213.0
+0.0,"CD8-positive, alpha-beta T cell",0.6637674525062943,2367.0
+0.0,double negative T regulatory cell,0.8571428571428571,8.0
+0.0,hematopoietic stem cell,0.8,3.0
+0.0,natural killer cell,0.61,338.0
+0.0,pre-conventional dendritic cell,0.5490196078431373,33.0
+0.1,"CD4-positive, alpha-beta T cell",0.3038990825688073,1213.0
+0.1,"CD8-positive, alpha-beta T cell",0.6912463243610043,2367.0
+0.1,double negative T regulatory cell,0.6666666666666666,8.0
+0.1,hematopoietic stem cell,0.0,3.0
+0.1,natural killer cell,0.6677265500794912,338.0
+0.1,pre-conventional dendritic cell,0.6181818181818182,33.0
+0.2,"CD4-positive, alpha-beta T cell",0.2940516273849607,1213.0
+0.2,"CD8-positive, alpha-beta T cell",0.6725463591135233,2367.0
+0.2,double negative T regulatory cell,0.6666666666666666,8.0
+0.2,hematopoietic stem cell,1.0,3.0
+0.2,natural killer cell,0.6891025641025641,338.0
+0.2,pre-conventional dendritic cell,0.5660377358490566,33.0
+0.3,"CD4-positive, alpha-beta T cell",0.30264672036823936,1213.0
+0.3,"CD8-positive, alpha-beta T cell",0.7017008286088094,2367.0
+0.3,double negative T regulatory cell,0.8,8.0
+0.3,hematopoietic stem cell,0.8,3.0
+0.3,natural killer cell,0.6858054226475279,338.0
+0.3,pre-conventional dendritic cell,0.6101694915254238,33.0
+0.4,"CD4-positive, alpha-beta T cell",0.3221476510067114,1213.0
+0.4,"CD8-positive, alpha-beta T cell",0.6591743119266055,2367.0
+0.4,double negative T regulatory cell,0.7692307692307693,8.0
+0.4,hematopoietic stem cell,1.0,3.0
+0.4,natural killer cell,0.6782334384858044,338.0
+0.4,pre-conventional dendritic cell,0.6,33.0
+0.5,"CD4-positive, alpha-beta T cell",0.348543155579989,1213.0
+0.5,"CD8-positive, alpha-beta T cell",0.6914749661705006,2367.0
+0.5,double negative T regulatory cell,0.8571428571428571,8.0
+0.5,hematopoietic stem cell,0.8,3.0
+0.5,natural killer cell,0.7310789049919485,338.0
+0.5,pre-conventional dendritic cell,0.5964912280701754,33.0
+0.6,"CD4-positive, alpha-beta T cell",0.32805429864253394,1213.0
+0.6,"CD8-positive, alpha-beta T cell",0.7030625832223701,2367.0
+0.6,double negative T regulatory cell,0.9333333333333333,8.0
+0.6,hematopoietic stem cell,0.8,3.0
+0.6,natural killer cell,0.6559485530546624,338.0
+0.6,pre-conventional dendritic cell,0.6545454545454545,33.0
+0.7,"CD4-positive, alpha-beta T cell",0.32276330690826727,1213.0
+0.7,"CD8-positive, alpha-beta T cell",0.70019942388655,2367.0
+0.7,double negative T regulatory cell,0.5454545454545454,8.0
+0.7,hematopoietic stem cell,0.8,3.0
+0.7,natural killer cell,0.6288492706645057,338.0
+0.7,pre-conventional dendritic cell,0.6909090909090909,33.0
+0.8,"CD4-positive, alpha-beta T cell",0.345372460496614,1213.0
+0.8,"CD8-positive, alpha-beta T cell",0.6982142857142857,2367.0
+0.8,double negative T regulatory cell,0.8571428571428571,8.0
+0.8,hematopoietic stem cell,0.8,3.0
+0.8,natural killer cell,0.6306913996627319,338.0
+0.8,pre-conventional dendritic cell,0.6666666666666666,33.0
+0.0,"CD4-positive, alpha-beta T cell",0.28298708590679394,1213.0
+0.0,"CD8-positive, alpha-beta T cell",0.6726578297011907,2367.0
+0.0,double negative T regulatory cell,0.5,8.0
+0.0,hematopoietic stem cell,1.0,3.0
+0.0,natural killer cell,0.6209150326797386,338.0
+0.0,pre-conventional dendritic cell,0.43478260869565216,33.0
+0.1,"CD4-positive, alpha-beta T cell",0.24168126094570927,1213.0
+0.1,"CD8-positive, alpha-beta T cell",0.6784673986108,2367.0
+0.1,double negative T regulatory cell,0.75,8.0
+0.1,hematopoietic stem cell,1.0,3.0
+0.1,natural killer cell,0.5361842105263158,338.0
+0.1,pre-conventional dendritic cell,0.3829787234042553,33.0
+0.2,"CD4-positive, alpha-beta T cell",0.3333333333333333,1213.0
+0.2,"CD8-positive, alpha-beta T cell",0.6966145833333334,2367.0
+0.2,double negative T regulatory cell,0.8235294117647058,8.0
+0.2,hematopoietic stem cell,0.8,3.0
+0.2,natural killer cell,0.6421725239616614,338.0
+0.2,pre-conventional dendritic cell,0.6181818181818182,33.0
+0.3,"CD4-positive, alpha-beta T cell",0.29408450704225353,1213.0
+0.3,"CD8-positive, alpha-beta T cell",0.6755235307363207,2367.0
+0.3,double negative T regulatory cell,0.875,8.0
+0.3,hematopoietic stem cell,0.8,3.0
+0.3,natural killer cell,0.6192893401015228,338.0
+0.3,pre-conventional dendritic cell,0.5925925925925926,33.0
+0.4,"CD4-positive, alpha-beta T cell",0.33783783783783783,1213.0
+0.4,"CD8-positive, alpha-beta T cell",0.6991581745680107,2367.0
+0.4,double negative T regulatory cell,0.5,8.0
+0.4,hematopoietic stem cell,0.8,3.0
+0.4,natural killer cell,0.6599664991624791,338.0
+0.4,pre-conventional dendritic cell,0.5454545454545454,33.0
+0.5,"CD4-positive, alpha-beta T cell",0.2896710905943451,1213.0
+0.5,"CD8-positive, alpha-beta T cell",0.6716757741347905,2367.0
+0.5,double negative T regulatory cell,0.5454545454545454,8.0
+0.5,hematopoietic stem cell,1.0,3.0
+0.5,natural killer cell,0.6219931271477663,338.0
+0.5,pre-conventional dendritic cell,0.6229508196721312,33.0
+0.6,"CD4-positive, alpha-beta T cell",0.32298136645962733,1213.0
+0.6,"CD8-positive, alpha-beta T cell",0.6894522408329561,2367.0
+0.6,double negative T regulatory cell,0.7692307692307693,8.0
+0.6,hematopoietic stem cell,0.5,3.0
+0.6,natural killer cell,0.6406779661016949,338.0
+0.6,pre-conventional dendritic cell,0.5660377358490566,33.0
+0.7,"CD4-positive, alpha-beta T cell",0.34444444444444444,1213.0
+0.7,"CD8-positive, alpha-beta T cell",0.701218161683278,2367.0
+0.7,double negative T regulatory cell,0.8,8.0
+0.7,hematopoietic stem cell,0.8,3.0
+0.7,natural killer cell,0.6742671009771987,338.0
+0.7,pre-conventional dendritic cell,0.5517241379310345,33.0
+0.8,"CD4-positive, alpha-beta T cell",0.3393258426966292,1213.0
+0.8,"CD8-positive, alpha-beta T cell",0.7007751937984497,2367.0
+0.8,double negative T regulatory cell,0.5,8.0
+0.8,hematopoietic stem cell,1.0,3.0
+0.8,natural killer cell,0.5993265993265994,338.0
+0.8,pre-conventional dendritic cell,0.6296296296296297,33.0
+0.0,"CD4-positive, alpha-beta T cell",0.2581818181818182,1213.0
+0.0,"CD8-positive, alpha-beta T cell",0.6502757352941176,2367.0
+0.0,double negative T regulatory cell,0.5,8.0
+0.0,hematopoietic stem cell,0.8,3.0
+0.0,natural killer cell,0.5618374558303887,338.0
+0.0,pre-conventional dendritic cell,0.5490196078431373,33.0
+0.1,"CD4-positive, alpha-beta T cell",0.2904707233065442,1213.0
+0.1,"CD8-positive, alpha-beta T cell",0.6770833333333334,2367.0
+0.1,double negative T regulatory cell,0.6666666666666666,8.0
+0.1,hematopoietic stem cell,1.0,3.0
+0.1,natural killer cell,0.6024096385542169,338.0
+0.1,pre-conventional dendritic cell,0.6037735849056604,33.0
+0.2,"CD4-positive, alpha-beta T cell",0.32081911262798635,1213.0
+0.2,"CD8-positive, alpha-beta T cell",0.6768060836501901,2367.0
+0.2,double negative T regulatory cell,0.4,8.0
+0.2,hematopoietic stem cell,0.5,3.0
+0.2,natural killer cell,0.6423841059602649,338.0
+0.2,pre-conventional dendritic cell,0.52,33.0
+0.3,"CD4-positive, alpha-beta T cell",0.29904440697020795,1213.0
+0.3,"CD8-positive, alpha-beta T cell",0.6771512019770838,2367.0
+0.3,double negative T regulatory cell,0.6666666666666666,8.0
+0.3,hematopoietic stem cell,0.8,3.0
+0.3,natural killer cell,0.686084142394822,338.0
+0.3,pre-conventional dendritic cell,0.43478260869565216,33.0
+0.4,"CD4-positive, alpha-beta T cell",0.3100511073253833,1213.0
+0.4,"CD8-positive, alpha-beta T cell",0.6934583612413485,2367.0
+0.4,double negative T regulatory cell,0.5,8.0
+0.4,hematopoietic stem cell,0.5,3.0
+0.4,natural killer cell,0.6688417618270799,338.0
+0.4,pre-conventional dendritic cell,0.5818181818181818,33.0
+0.5,"CD4-positive, alpha-beta T cell",0.35659760087241005,1213.0
+0.5,"CD8-positive, alpha-beta T cell",0.7198947137530161,2367.0
+0.5,double negative T regulatory cell,0.7692307692307693,8.0
+0.5,hematopoietic stem cell,1.0,3.0
+0.5,natural killer cell,0.6722129783693843,338.0
+0.5,pre-conventional dendritic cell,0.5283018867924528,33.0
+0.6,"CD4-positive, alpha-beta T cell",0.343342776203966,1213.0
+0.6,"CD8-positive, alpha-beta T cell",0.6982565936522128,2367.0
+0.6,double negative T regulatory cell,0.8571428571428571,8.0
+0.6,hematopoietic stem cell,1.0,3.0
+0.6,natural killer cell,0.7038216560509554,338.0
+0.6,pre-conventional dendritic cell,0.7384615384615385,33.0
+0.7,"CD4-positive, alpha-beta T cell",0.31959345002823264,1213.0
+0.7,"CD8-positive, alpha-beta T cell",0.6832518880497557,2367.0
+0.7,double negative T regulatory cell,0.6666666666666666,8.0
+0.7,hematopoietic stem cell,0.8,3.0
+0.7,natural killer cell,0.6076794657762938,338.0
+0.7,pre-conventional dendritic cell,0.5660377358490566,33.0
+0.8,"CD4-positive, alpha-beta T cell",0.33370165745856356,1213.0
+0.8,"CD8-positive, alpha-beta T cell",0.6873023045639404,2367.0
+0.8,double negative T regulatory cell,0.5,8.0
+0.8,hematopoietic stem cell,0.8,3.0
+0.8,natural killer cell,0.6409017713365539,338.0
+0.8,pre-conventional dendritic cell,0.6037735849056604,33.0
+0.0,"CD4-positive, alpha-beta T cell",0.3231538034425319,1213.0
+0.0,"CD8-positive, alpha-beta T cell",0.6731996353691887,2367.0
+0.0,double negative T regulatory cell,0.9411764705882353,8.0
+0.0,hematopoietic stem cell,0.5,3.0
+0.0,natural killer cell,0.6523076923076923,338.0
+0.0,pre-conventional dendritic cell,0.6666666666666666,33.0
+0.1,"CD4-positive, alpha-beta T cell",0.25882352941176473,1213.0
+0.1,"CD8-positive, alpha-beta T cell",0.7057833859095689,2367.0
+0.1,double negative T regulatory cell,0.5,8.0
+0.1,hematopoietic stem cell,0.8,3.0
+0.1,natural killer cell,0.5168141592920354,338.0
+0.1,pre-conventional dendritic cell,0.5490196078431373,33.0
+0.2,"CD4-positive, alpha-beta T cell",0.2766333137139494,1213.0
+0.2,"CD8-positive, alpha-beta T cell",0.6660690273419991,2367.0
+0.2,double negative T regulatory cell,0.8571428571428571,8.0
+0.2,hematopoietic stem cell,1.0,3.0
+0.2,natural killer cell,0.5714285714285714,338.0
+0.2,pre-conventional dendritic cell,0.45454545454545453,33.0
+0.3,"CD4-positive, alpha-beta T cell",0.25921521997621877,1213.0
+0.3,"CD8-positive, alpha-beta T cell",0.6683090705487122,2367.0
+0.3,double negative T regulatory cell,0.5454545454545454,8.0
+0.3,hematopoietic stem cell,1.0,3.0
+0.3,natural killer cell,0.6003372681281619,338.0
+0.3,pre-conventional dendritic cell,0.56,33.0
+0.4,"CD4-positive, alpha-beta T cell",0.3262736119061248,1213.0
+0.4,"CD8-positive, alpha-beta T cell",0.6766614455135377,2367.0
+0.4,double negative T regulatory cell,0.8,8.0
+0.4,hematopoietic stem cell,0.8,3.0
+0.4,natural killer cell,0.6358974358974359,338.0
+0.4,pre-conventional dendritic cell,0.5925925925925926,33.0
+0.5,"CD4-positive, alpha-beta T cell",0.291497975708502,1213.0
+0.5,"CD8-positive, alpha-beta T cell",0.6709529276693456,2367.0
+0.5,double negative T regulatory cell,0.5454545454545454,8.0
+0.5,hematopoietic stem cell,0.8,3.0
+0.5,natural killer cell,0.5648312611012434,338.0
+0.5,pre-conventional dendritic cell,0.5490196078431373,33.0
+0.6,"CD4-positive, alpha-beta T cell",0.3425720620842572,1213.0
+0.6,"CD8-positive, alpha-beta T cell",0.6772463120250335,2367.0
+0.6,double negative T regulatory cell,1.0,8.0
+0.6,hematopoietic stem cell,1.0,3.0
+0.6,natural killer cell,0.6580645161290323,338.0
+0.6,pre-conventional dendritic cell,0.6666666666666666,33.0
+0.7,"CD4-positive, alpha-beta T cell",0.3169336384439359,1213.0
+0.7,"CD8-positive, alpha-beta T cell",0.6974267968056788,2367.0
+0.7,double negative T regulatory cell,0.8571428571428571,8.0
+0.7,hematopoietic stem cell,1.0,3.0
+0.7,natural killer cell,0.613013698630137,338.0
+0.7,pre-conventional dendritic cell,0.6545454545454545,33.0
+0.8,"CD4-positive, alpha-beta T cell",0.3423728813559322,1213.0
+0.8,"CD8-positive, alpha-beta T cell",0.7156970362239298,2367.0
+0.8,double negative T regulatory cell,0.7142857142857143,8.0
+0.8,hematopoietic stem cell,0.5,3.0
+0.8,natural killer cell,0.6452702702702703,338.0
+0.8,pre-conventional dendritic cell,0.6909090909090909,33.0
+0.0,"CD4-positive, alpha-beta T cell",0.3054131054131054,1213.0
+0.0,"CD8-positive, alpha-beta T cell",0.6591119333950046,2367.0
+0.0,double negative T regulatory cell,0.8571428571428571,8.0
+0.0,hematopoietic stem cell,1.0,3.0
+0.0,natural killer cell,0.6539074960127592,338.0
+0.0,pre-conventional dendritic cell,0.5660377358490566,33.0
+0.1,"CD4-positive, alpha-beta T cell",0.28292121909143186,1213.0
+0.1,"CD8-positive, alpha-beta T cell",0.6455696202531646,2367.0
+0.1,double negative T regulatory cell,0.6666666666666666,8.0
+0.1,hematopoietic stem cell,1.0,3.0
+0.1,natural killer cell,0.5220228384991843,338.0
+0.1,pre-conventional dendritic cell,0.6153846153846154,33.0
+0.2,"CD4-positive, alpha-beta T cell",0.28222996515679444,1213.0
+0.2,"CD8-positive, alpha-beta T cell",0.6624590930341281,2367.0
+0.2,double negative T regulatory cell,0.8571428571428571,8.0
+0.2,hematopoietic stem cell,1.0,3.0
+0.2,natural killer cell,0.6027874564459931,338.0
+0.2,pre-conventional dendritic cell,0.5769230769230769,33.0
+0.3,"CD4-positive, alpha-beta T cell",0.2902654867256637,1213.0
+0.3,"CD8-positive, alpha-beta T cell",0.6592282659228266,2367.0
+0.3,double negative T regulatory cell,0.4,8.0
+0.3,hematopoietic stem cell,0.5,3.0
+0.3,natural killer cell,0.5833333333333334,338.0
+0.3,pre-conventional dendritic cell,0.6551724137931034,33.0
+0.4,"CD4-positive, alpha-beta T cell",0.3339031339031339,1213.0
+0.4,"CD8-positive, alpha-beta T cell",0.6876245295550144,2367.0
+0.4,double negative T regulatory cell,0.6153846153846154,8.0
+0.4,hematopoietic stem cell,0.5,3.0
+0.4,natural killer cell,0.6591276252019386,338.0
+0.4,pre-conventional dendritic cell,0.5490196078431373,33.0
+0.5,"CD4-positive, alpha-beta T cell",0.32293986636971045,1213.0
+0.5,"CD8-positive, alpha-beta T cell",0.6771340114993366,2367.0
+0.5,double negative T regulatory cell,0.7142857142857143,8.0
+0.5,hematopoietic stem cell,0.8,3.0
+0.5,natural killer cell,0.6362098138747885,338.0
+0.5,pre-conventional dendritic cell,0.6440677966101694,33.0
+0.6,"CD4-positive, alpha-beta T cell",0.34872351982618144,1213.0
+0.6,"CD8-positive, alpha-beta T cell",0.7188755020080321,2367.0
+0.6,double negative T regulatory cell,0.8571428571428571,8.0
+0.6,hematopoietic stem cell,1.0,3.0
+0.6,natural killer cell,0.6742671009771987,338.0
+0.6,pre-conventional dendritic cell,0.5555555555555556,33.0
+0.7,"CD4-positive, alpha-beta T cell",0.32395950506186727,1213.0
+0.7,"CD8-positive, alpha-beta T cell",0.6893138357705287,2367.0
+0.7,double negative T regulatory cell,0.7692307692307693,8.0
+0.7,hematopoietic stem cell,1.0,3.0
+0.7,natural killer cell,0.6633333333333333,338.0
+0.7,pre-conventional dendritic cell,0.6296296296296297,33.0
+0.8,"CD4-positive, alpha-beta T cell",0.33578292820802713,1213.0
+0.8,"CD8-positive, alpha-beta T cell",0.7025483304042179,2367.0
+0.8,double negative T regulatory cell,0.6666666666666666,8.0
+0.8,hematopoietic stem cell,0.8,3.0
+0.8,natural killer cell,0.6621621621621622,338.0
+0.8,pre-conventional dendritic cell,0.6896551724137931,33.0
+0.0,"CD4-positive, alpha-beta T cell",0.2698412698412698,1213.0
+0.0,"CD8-positive, alpha-beta T cell",0.667438628994905,2367.0
+0.0,double negative T regulatory cell,0.9333333333333333,8.0
+0.0,hematopoietic stem cell,1.0,3.0
+0.0,natural killer cell,0.6085470085470085,338.0
+0.0,pre-conventional dendritic cell,0.631578947368421,33.0
+0.1,"CD4-positive, alpha-beta T cell",0.2986225895316804,1213.0
+0.1,"CD8-positive, alpha-beta T cell",0.6916010498687664,2367.0
+0.1,double negative T regulatory cell,0.6666666666666666,8.0
+0.1,hematopoietic stem cell,0.8,3.0
+0.1,natural killer cell,0.6092943201376936,338.0
+0.1,pre-conventional dendritic cell,0.47058823529411764,33.0
+0.2,"CD4-positive, alpha-beta T cell",0.318233295583239,1213.0
+0.2,"CD8-positive, alpha-beta T cell",0.6785231877532643,2367.0
+0.2,double negative T regulatory cell,1.0,8.0
+0.2,hematopoietic stem cell,0.8,3.0
+0.2,natural killer cell,0.6717791411042945,338.0
+0.2,pre-conventional dendritic cell,0.6037735849056604,33.0
+0.3,"CD4-positive, alpha-beta T cell",0.28034188034188035,1213.0
+0.3,"CD8-positive, alpha-beta T cell",0.6860956618464961,2367.0
+0.3,double negative T regulatory cell,0.4,8.0
+0.3,hematopoietic stem cell,1.0,3.0
+0.3,natural killer cell,0.5394495412844037,338.0
+0.3,pre-conventional dendritic cell,0.52,33.0
+0.4,"CD4-positive, alpha-beta T cell",0.3344370860927152,1213.0
+0.4,"CD8-positive, alpha-beta T cell",0.678992373468916,2367.0
+0.4,double negative T regulatory cell,0.8235294117647058,8.0
+0.4,hematopoietic stem cell,1.0,3.0
+0.4,natural killer cell,0.7003154574132492,338.0
+0.4,pre-conventional dendritic cell,0.6274509803921569,33.0
+0.5,"CD4-positive, alpha-beta T cell",0.33042529989094876,1213.0
+0.5,"CD8-positive, alpha-beta T cell",0.6938775510204082,2367.0
+0.5,double negative T regulatory cell,0.6153846153846154,8.0
+0.5,hematopoietic stem cell,0.8,3.0
+0.5,natural killer cell,0.6511627906976745,338.0
+0.5,pre-conventional dendritic cell,0.5714285714285714,33.0
+0.6,"CD4-positive, alpha-beta T cell",0.3432343234323432,1213.0
+0.6,"CD8-positive, alpha-beta T cell",0.6929590017825312,2367.0
+0.6,double negative T regulatory cell,0.4,8.0
+0.6,hematopoietic stem cell,0.8,3.0
+0.6,natural killer cell,0.601018675721562,338.0
+0.6,pre-conventional dendritic cell,0.631578947368421,33.0
+0.7,"CD4-positive, alpha-beta T cell",0.3303769401330377,1213.0
+0.7,"CD8-positive, alpha-beta T cell",0.6834353047813279,2367.0
+0.7,double negative T regulatory cell,0.7692307692307693,8.0
+0.7,hematopoietic stem cell,0.5,3.0
+0.7,natural killer cell,0.6222222222222222,338.0
+0.7,pre-conventional dendritic cell,0.6206896551724138,33.0
+0.8,"CD4-positive, alpha-beta T cell",0.34359805510534847,1213.0
+0.8,"CD8-positive, alpha-beta T cell",0.7070796460176991,2367.0
+0.8,double negative T regulatory cell,0.6666666666666666,8.0
+0.8,hematopoietic stem cell,1.0,3.0
+0.8,natural killer cell,0.6479338842975206,338.0
+0.8,pre-conventional dendritic cell,0.7,33.0
+0.0,"CD4-positive, alpha-beta T cell",0.24924379915305506,1213.0
+0.0,"CD8-positive, alpha-beta T cell",0.6421200750469043,2367.0
+0.0,double negative T regulatory cell,0.5454545454545454,8.0
+0.0,hematopoietic stem cell,0.8,3.0
+0.0,natural killer cell,0.46702317290552586,338.0
+0.0,pre-conventional dendritic cell,0.5964912280701754,33.0
+0.1,"CD4-positive, alpha-beta T cell",0.27824019024970276,1213.0
+0.1,"CD8-positive, alpha-beta T cell",0.6537585421412301,2367.0
+0.1,double negative T regulatory cell,0.5454545454545454,8.0
+0.1,hematopoietic stem cell,1.0,3.0
+0.1,natural killer cell,0.610051993067591,338.0
+0.1,pre-conventional dendritic cell,0.5925925925925926,33.0
+0.2,"CD4-positive, alpha-beta T cell",0.269185360094451,1213.0
+0.2,"CD8-positive, alpha-beta T cell",0.6594448205822614,2367.0
+0.2,double negative T regulatory cell,0.5,8.0
+0.2,hematopoietic stem cell,0.5,3.0
+0.2,natural killer cell,0.6234676007005254,338.0
+0.2,pre-conventional dendritic cell,0.6122448979591837,33.0
+0.3,"CD4-positive, alpha-beta T cell",0.2713270142180095,1213.0
+0.3,"CD8-positive, alpha-beta T cell",0.6878189483026403,2367.0
+0.3,double negative T regulatory cell,0.6666666666666666,8.0
+0.3,hematopoietic stem cell,1.0,3.0
+0.3,natural killer cell,0.5785714285714286,338.0
+0.3,pre-conventional dendritic cell,0.5106382978723404,33.0
+0.4,"CD4-positive, alpha-beta T cell",0.2776470588235294,1213.0
+0.4,"CD8-positive, alpha-beta T cell",0.7062146892655368,2367.0
+0.4,double negative T regulatory cell,0.2222222222222222,8.0
+0.4,hematopoietic stem cell,1.0,3.0
+0.4,natural killer cell,0.5585284280936454,338.0
+0.4,pre-conventional dendritic cell,0.6153846153846154,33.0
+0.5,"CD4-positive, alpha-beta T cell",0.3059083379348426,1213.0
+0.5,"CD8-positive, alpha-beta T cell",0.6767357980162308,2367.0
+0.5,double negative T regulatory cell,0.6666666666666666,8.0
+0.5,hematopoietic stem cell,1.0,3.0
+0.5,natural killer cell,0.6333333333333333,338.0
+0.5,pre-conventional dendritic cell,0.6666666666666666,33.0
+0.6,"CD4-positive, alpha-beta T cell",0.3155505107832009,1213.0
+0.6,"CD8-positive, alpha-beta T cell",0.6863319072281018,2367.0
+0.6,double negative T regulatory cell,0.8571428571428571,8.0
+0.6,hematopoietic stem cell,0.5,3.0
+0.6,natural killer cell,0.6548387096774193,338.0
+0.6,pre-conventional dendritic cell,0.6206896551724138,33.0
+0.7,"CD4-positive, alpha-beta T cell",0.3259176863181313,1213.0
+0.7,"CD8-positive, alpha-beta T cell",0.6701054047992824,2367.0
+0.7,double negative T regulatory cell,0.7692307692307693,8.0
+0.7,hematopoietic stem cell,1.0,3.0
+0.7,natural killer cell,0.6371100164203612,338.0
+0.7,pre-conventional dendritic cell,0.6666666666666666,33.0
+0.8,"CD4-positive, alpha-beta T cell",0.34850166481687017,1213.0
+0.8,"CD8-positive, alpha-beta T cell",0.7041873030166592,2367.0
+0.8,double negative T regulatory cell,0.8571428571428571,8.0
+0.8,hematopoietic stem cell,0.8,3.0
+0.8,natural killer cell,0.6500829187396352,338.0
+0.8,pre-conventional dendritic cell,0.6181818181818182,33.0
+0.0,"CD4-positive, alpha-beta T cell",0.2845714285714286,1213.0
+0.0,"CD8-positive, alpha-beta T cell",0.6941889163114202,2367.0
+0.0,double negative T regulatory cell,0.7692307692307693,8.0
+0.0,hematopoietic stem cell,0.0,3.0
+0.0,natural killer cell,0.6025641025641025,338.0
+0.0,pre-conventional dendritic cell,0.6415094339622641,33.0
+0.1,"CD4-positive, alpha-beta T cell",0.27809965237543455,1213.0
+0.1,"CD8-positive, alpha-beta T cell",0.667262969588551,2367.0
+0.1,double negative T regulatory cell,0.5454545454545454,8.0
+0.1,hematopoietic stem cell,1.0,3.0
+0.1,natural killer cell,0.5684931506849316,338.0
+0.1,pre-conventional dendritic cell,0.5098039215686274,33.0
+0.2,"CD4-positive, alpha-beta T cell",0.2768328445747801,1213.0
+0.2,"CD8-positive, alpha-beta T cell",0.6660533578656854,2367.0
+0.2,double negative T regulatory cell,0.7692307692307693,8.0
+0.2,hematopoietic stem cell,0.8,3.0
+0.2,natural killer cell,0.5051903114186851,338.0
+0.2,pre-conventional dendritic cell,0.711864406779661,33.0
+0.3,"CD4-positive, alpha-beta T cell",0.3285077951002227,1213.0
+0.3,"CD8-positive, alpha-beta T cell",0.665884561238855,2367.0
+0.3,double negative T regulatory cell,0.9333333333333333,8.0
+0.3,hematopoietic stem cell,1.0,3.0
+0.3,natural killer cell,0.695364238410596,338.0
+0.3,pre-conventional dendritic cell,0.6538461538461539,33.0
+0.4,"CD4-positive, alpha-beta T cell",0.36904761904761907,1213.0
+0.4,"CD8-positive, alpha-beta T cell",0.7054658110201372,2367.0
+0.4,double negative T regulatory cell,0.7692307692307693,8.0
+0.4,hematopoietic stem cell,0.5,3.0
+0.4,natural killer cell,0.6845637583892618,338.0
+0.4,pre-conventional dendritic cell,0.5925925925925926,33.0
+0.5,"CD4-positive, alpha-beta T cell",0.32568550643536653,1213.0
+0.5,"CD8-positive, alpha-beta T cell",0.6915555555555556,2367.0
+0.5,double negative T regulatory cell,0.8571428571428571,8.0
+0.5,hematopoietic stem cell,1.0,3.0
+0.5,natural killer cell,0.673202614379085,338.0
+0.5,pre-conventional dendritic cell,0.6545454545454545,33.0
+0.6,"CD4-positive, alpha-beta T cell",0.3142370958593307,1213.0
+0.6,"CD8-positive, alpha-beta T cell",0.6902050113895216,2367.0
+0.6,double negative T regulatory cell,0.7142857142857143,8.0
+0.6,hematopoietic stem cell,0.8,3.0
+0.6,natural killer cell,0.6816,338.0
+0.6,pre-conventional dendritic cell,0.6037735849056604,33.0
+0.7,"CD4-positive, alpha-beta T cell",0.3569060773480663,1213.0
+0.7,"CD8-positive, alpha-beta T cell",0.7099890230515916,2367.0
+0.7,double negative T regulatory cell,0.7142857142857143,8.0
+0.7,hematopoietic stem cell,0.8,3.0
+0.7,natural killer cell,0.6182432432432432,338.0
+0.7,pre-conventional dendritic cell,0.7017543859649122,33.0
+0.8,"CD4-positive, alpha-beta T cell",0.3324006715165081,1213.0
+0.8,"CD8-positive, alpha-beta T cell",0.6933453237410072,2367.0
+0.8,double negative T regulatory cell,0.7692307692307693,8.0
+0.8,hematopoietic stem cell,0.8,3.0
+0.8,natural killer cell,0.6272577996715928,338.0
+0.8,pre-conventional dendritic cell,0.6792452830188679,33.0

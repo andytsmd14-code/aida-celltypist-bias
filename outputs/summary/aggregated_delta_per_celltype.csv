@@ -1,0 +1,35 @@
+cell_type,n_ethnicities,weighted_mean,abs_weighted
+natural killer cell,7,0.085,0.085
+T cell,7,0.0597,0.0597
+double negative T regulatory cell,7,0.0543,0.0543
+hematopoietic stem cell,7,0.0523,0.0523
+innate lymphoid cell,7,0.0416,0.0416
+"CD4-positive, alpha-beta T cell",7,0.0366,0.0366
+weighted avg,7,0.0213,0.0213
+B cell,7,0.0209,0.0209
+myeloid cell,7,0.0195,0.0195
+"CD8-positive, alpha-beta T cell",7,0.0194,0.0194
+regulatory T cell,7,0.0192,0.0192
+macro avg,7,0.0173,0.0173
+"effector memory CD4-positive, alpha-beta T cell",7,0.0151,0.0151
+"central memory CD4-positive, alpha-beta T cell",7,0.0146,0.0146
+"CD8-positive, alpha-beta memory T cell",7,0.0141,0.0141
+"CD4-positive, alpha-beta cytotoxic T cell",7,0.0123,0.0123
+"CD8-positive, alpha-beta cytotoxic T cell",7,0.0112,0.0112
+mature B cell,7,0.01,0.01
+"naive thymus-derived CD4-positive, alpha-beta T cell",7,0.0091,0.0091
+pre-conventional dendritic cell,7,0.0088,0.0088
+"naive thymus-derived CD8-positive, alpha-beta T cell",7,0.007,0.007
+gamma-delta T cell,7,0.0067,0.0067
+platelet,7,-0.0049,0.0049
+mucosal-associated invariant T cell,7,0.0046,0.0046
+naive B cell,7,0.0045,0.0045
+memory B cell,7,0.0043,0.0043
+CD1c-positive myeloid dendritic cell,7,0.0042,0.0042
+"CD16-negative, CD56-bright natural killer cell, human",7,0.0037,0.0037
+plasma cell,7,0.0037,0.0037
+CD141-positive myeloid dendritic cell,6,0.0037,0.0037
+"CD16-positive, CD56-dim natural killer cell, human",7,0.0026,0.0026
+CD14-positive monocyte,7,0.0017,0.0017
+"CD14-low, CD16-positive monocyte",7,0.0013,0.0013
+plasmacytoid dendritic cell,7,0.0002,0.0002

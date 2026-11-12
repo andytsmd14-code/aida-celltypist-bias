@@ -1,0 +1,46 @@
+ethnicity,cell_type,f1_0pct,f1_max,delta_f1
+Indian,macro avg,0.0915,0.1714,0.08
+Indian,platelet,0.8751,0.9594,0.0842
+Indian,myeloid cell,0.4227,0.8934,0.4707
+Indian,natural killer cell,0.2997,0.7926,0.4929
+Indian,weighted avg,0.3152,0.8705,0.5554
+Indian,B cell,0.3498,0.9421,0.5923
+Indian,T cell,0.2812,0.882,0.6008
+Japanese,pre-conventional dendritic cell,0.6736,0.6055,-0.0681
+Japanese,hematopoietic stem cell,0.763,0.7294,-0.0336
+Japanese,"CD8-positive, alpha-beta memory T cell",0.7297,0.7666,0.0369
+Japanese,natural killer cell,0.6117,0.653,0.0413
+Japanese,"effector memory CD4-positive, alpha-beta T cell",0.7118,0.7608,0.049
+Japanese,regulatory T cell,0.7536,0.8135,0.0598
+Japanese,"CD4-positive, alpha-beta T cell",0.2326,0.2984,0.0658
+Japanese,double negative T regulatory cell,0.7533,0.8326,0.0793
+Japanese,innate lymphoid cell,0.7188,0.8089,0.09
+Japanese,T cell,0.4816,0.622,0.1403
+Korean,innate lymphoid cell,0.6939,0.5956,-0.0982
+Korean,regulatory T cell,0.8184,0.7861,-0.0323
+Korean,myeloid cell,0.7272,0.7722,0.045
+Korean,T cell,0.6518,0.7406,0.0888
+Korean,B cell,0.6263,0.7168,0.0905
+Korean,natural killer cell,0.6121,0.7593,0.1472
+SG Chinese,B cell,0.4994,0.4494,-0.05
+SG Chinese,pre-conventional dendritic cell,0.7085,0.6733,-0.0352
+SG Chinese,"CD4-positive, alpha-beta T cell",0.297,0.3382,0.0411
+SG Chinese,natural killer cell,0.6007,0.6747,0.074
+SG Chinese,innate lymphoid cell,0.563,0.6953,0.1324
+SG Chinese,double negative T regulatory cell,0.6979,0.8377,0.1398
+Singaporean Indian,double negative T regulatory cell,0.7379,0.6914,-0.0465
+Singaporean Indian,"CD8-positive, alpha-beta T cell",0.6653,0.7012,0.0359
+Singaporean Indian,natural killer cell,0.5968,0.6379,0.0411
+Singaporean Indian,"CD4-positive, alpha-beta T cell",0.2807,0.34,0.0594
+Singaporean Indian,hematopoietic stem cell,0.7375,0.8125,0.075
+Singaporean Indian,pre-conventional dendritic cell,0.5794,0.6584,0.079
+Singaporean Malay,regulatory T cell,0.8351,0.8666,0.0315
+Singaporean Malay,"CD4-positive, alpha-beta T cell",0.2806,0.3142,0.0336
+Singaporean Malay,natural killer cell,0.5814,0.7026,0.1212
+Singaporean Malay,hematopoietic stem cell,0.75,0.875,0.125
+Singaporean Malay,double negative T regulatory cell,0.7493,0.8743,0.125
+Thai,double negative T regulatory cell,0.674,0.7062,0.0322
+Thai,T cell,0.5721,0.6197,0.0476
+Thai,pre-conventional dendritic cell,0.595,0.6685,0.0735
+Thai,innate lymphoid cell,0.426,0.552,0.126
+Thai,hematopoietic stem cell,0.4383,0.7093,0.2709
