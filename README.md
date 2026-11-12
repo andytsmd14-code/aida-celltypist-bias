@@ -29,9 +29,9 @@ I systematically vary the same-ethnicity donor proportion in an all-Asian refere
 | SG Chinese | 36 | 0–100% ✓ | 0.811 | 0.822 | +0.011 |
 | Japanese | 18 | 0–100% ✓ | 0.799 | 0.819 | +0.020 |
 | Korean | 16 | 0–100% ✓ | 0.808 | 0.819 | +0.012 |
-| Thai | 16 | 0–60% *(in progress)* | 0.782 | 0.806† | +0.025† |
-| Singaporean Malay | 8 | 0–60% *(in progress)* | 0.801 | 0.822† | +0.021† |
-| Singaporean Indian | 8 | 0–80% *(in progress)* | 0.797 | 0.809† | +0.012† |
+| Thai | 16 | 0–60%  | 0.782 | 0.806† | +0.025† |
+| Singaporean Malay | 8 | 0–60% | 0.801 | 0.822† | +0.021† |
+| Singaporean Indian | 8 | 0–80%  | 0.797 | 0.809† | +0.012† |
 
 † measured at the highest proportion run so far, not necessarily at 100%.
 
